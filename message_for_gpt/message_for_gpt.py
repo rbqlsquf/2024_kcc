@@ -3,7 +3,7 @@ import json
 messages = [
     {
         "role": "system",
-        "content": "## Instruction : write the answer using only Reference documents(some of which might be irrelevant). And for the answer, extract the supporting facts exactly matched the Reference document.",
+        "content": "## Instruction : Write the answer using only Reference documents(some of which might be irrelevant). And for the answer, extract the supporting facts exactly matched the Reference document.",
     },
     {"role": "user", "content": "user query here (optional)"},
 ]
