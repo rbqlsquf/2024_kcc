@@ -9,12 +9,16 @@ def extract_number_from_brackets(text):
     numbers = []
     for match in matches:
         numbers.append(re.sub(r"[^0-9]", "", match))
+    if numbers == []:
+        text_s = text.split(",")
+        for num in text_s:
+            numbers.append(re.sub(r"[^0-9]", "", num))
 
     return numbers
 
 
 ## 대용량 json 파일 불러와 로드
-with open("gpt_answer\output_gpt_2_jjs_2.json", "r", encoding="UTF-8") as f:
+with open("output\experiment2\output_2.json", "r", encoding="UTF-8") as f:
     json_data = json.load(f)
 
 
@@ -62,5 +66,5 @@ for i, data in tqdm(enumerate(json_data)):
         "gpt_support": [],
     }
 
-with open("output_gpt_clean.json", "w", encoding="UTF-8") as out_file:
+with open("output\experiment2\output_2_clean.json", "w", encoding="UTF-8") as out_file:
     json.dump(a, out_file, indent=4, ensure_ascii=False)

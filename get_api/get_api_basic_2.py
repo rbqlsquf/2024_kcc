@@ -26,17 +26,18 @@ if __name__ == "__main__":
     messages = [
         {
             "role": "system",
-            "content": "<Instruction>\nI would like to request you to make answer for the following question. The answer should be searched from the reference documents below.\nI also request you to provide the supporting facts of the answer. Supporting facts should consist of (['sentence index'] + ['sentence']).\nSupporting sentnece refers to a sentence that includes the answer of the question. Please provide answer and supporting fact in the output format at the bottom.",
+            "content": "<Instruction>\nI would like to request you to make answer for the following question. The answer should be searched from the reference documents(some of which might be irrelevant).\nI also request you to provide the index of supporting fact of the answer. Supporting fact refers to a sentence that is necessary to infer the answer of the question. The number of supporting fact can be one or more.\nPlease provide answer and supporting fact index in the output format at the bottom.",
         },
         {"role": "user", "content": "user query here (optional)"},
     ]
 
     # gpt에 넣을 데이터 불러오기
-    with open("new_hotpot.json", "r") as f:
+    with open("data/new_hotpot.json", "r") as f:
         json_data = json.load(f)
 
     a = []
     json_writing = {
+        "data_number": "",
         "context": [],
         "question": "",
         "real_answer": "",
@@ -102,12 +103,13 @@ if __name__ == "__main__":
 
             message = message + write_sent + "\n"
 
+        json_writing["data_number"] = "number #{}".format(i)
         message = message + "\n\n" + "<Output format>"
         message = message + "\n" + "## Question : " + data["question"]
         json_writing["question"] = data["question"]
         message = message + "\n" + "## Answer : "
         json_writing["real_answer"] = data["answer"]
-        message = message + "\n" + "## Supporting facts : "
+        message = message + "\n" + "## Supporting fact index : "
         json_writing["message_for_gpt"] = message
         # gpt에게 message와 respnse 받아오기
         messages[1]["content"] = message
@@ -122,5 +124,5 @@ if __name__ == "__main__":
         a.append(json_writing)
         json_writing = {"context": [], "question": "", "real_answer": "", "supporting_fact": [], "gpt_answer": ""}
 
-    with open("output_gpt_2_jjs_2.json", "w", encoding="UTF-8") as out_file:
+    with open("output/experiment2/output_2.json", "w", encoding="UTF-8") as out_file:
         json.dump(a, out_file, indent=4, ensure_ascii=False)
