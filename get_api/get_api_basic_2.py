@@ -26,7 +26,7 @@ if __name__ == "__main__":
     messages = [
         {
             "role": "system",
-            "content": "## Instruction : Write the answer using only Reference documents(some of which might be irrelevant). And extract the supporting facts to the given sentence number.",
+            "content": "<Instruction>\nI would like to request you to make answer for the following question. The answer should be searched from the reference documents below.\nI also request you to provide the supporting facts of the answer. Supporting facts should consist of (['sentence index'] + ['sentence']).\nSupporting sentnece refers to a sentence that includes the answer of the question. Please provide answer and supporting fact in the output format at the bottom.",
         },
         {"role": "user", "content": "user query here (optional)"},
     ]
@@ -52,7 +52,12 @@ if __name__ == "__main__":
         message = ""
         context = data["context"]
         supporting_facts = data["supporting_facts"]
-        message = "## Reference documents" + "\n"
+        message = (
+            "<Reference documents>"
+            + "\n"
+            + "Reference documents below consist of title and sentences with sentence index at the front."
+            + "\n\n"
+        )
 
         concat_supporting_sent = ""
         document_number_support_sent = ""
@@ -97,6 +102,7 @@ if __name__ == "__main__":
 
             message = message + write_sent + "\n"
 
+        message = message + "\n\n" + "<Output format>"
         message = message + "\n" + "## Question : " + data["question"]
         json_writing["question"] = data["question"]
         message = message + "\n" + "## Answer : "
@@ -111,10 +117,10 @@ if __name__ == "__main__":
         print(message)
         print("\n\n\n")
         print("response")
-        print("response")
+        print(response)
         json_writing["gpt_answer"] = response
         a.append(json_writing)
         json_writing = {"context": [], "question": "", "real_answer": "", "supporting_fact": [], "gpt_answer": ""}
 
-    with open("output_gpt_2.json", "w", encoding="UTF-8") as out_file:
+    with open("output_gpt_2_jjs_2.json", "w", encoding="UTF-8") as out_file:
         json.dump(a, out_file, indent=4, ensure_ascii=False)
