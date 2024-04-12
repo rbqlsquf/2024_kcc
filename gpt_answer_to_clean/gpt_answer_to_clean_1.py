@@ -10,18 +10,20 @@ def find_no_need_mention(text):
     pattern_2 = r"\(Document \d+\)"
     pattern_3 = r"Reference Document \d"
     pattern_4 = r"\d+\. "
+    pattern_5 = r"Document \d"
 
     clean_text = re.sub(pattern_1, "", text)
     clean_text = re.sub(pattern_2, "", clean_text)
     clean_text = re.sub(pattern_3, "", clean_text)
     clean_text = re.sub(pattern_4, "", clean_text)
+    clean_text = re.sub(pattern_5, "", clean_text)
     if clean_text.startswith("- "):
         clean_text = clean_text.replace("-", "")
     return clean_text
 
 
 ## 대용량 json 파일 불러와 로드
-with open("output\experiment3\output_3.json", "r", encoding="UTF-8") as f:
+with open("output\experiment3\output_3_same_ex1.json", "r", encoding="UTF-8") as f:
     json_data = json.load(f)
 
 
@@ -47,9 +49,12 @@ for i, data in tqdm(enumerate(json_data)):
         gpt_answer_only_answer = gpt_answer.split("## Answer")[1].replace(":", "").split("##")[0]
         re_json_data["gpt_answer"] = gpt_answer_only_answer
     if "## Supporting fact" in gpt_answer:
-        if i == 5:
-            print("hi")
+
         gpt_answer_only_supporting_facts = gpt_answer.split("## Supporting fact :")[1:]
+        if gpt_answer_only_supporting_facts == []:
+            gpt_answer_only_supporting_facts = gpt_answer.split("## Supporting fact:")[1:]
+            if gpt_answer_only_supporting_facts == []:
+                gpt_answer_only_supporting_facts = gpt_answer.split("## Supporting facts :")[1:]
         if gpt_answer_only_supporting_facts == []:
             print("supporting fact 없음")
             print(i)
@@ -75,5 +80,5 @@ for i, data in tqdm(enumerate(json_data)):
         "gpt_support": [],
     }
 
-with open("output\experiment3\output_3_clean_1_1.json", "w", encoding="UTF-8") as out_file:
+with open("output\experiment3\output_3_clean_ex1_.json", "w", encoding="UTF-8") as out_file:
     json.dump(a, out_file, indent=4, ensure_ascii=False)

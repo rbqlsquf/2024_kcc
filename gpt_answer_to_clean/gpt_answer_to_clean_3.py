@@ -4,7 +4,7 @@ from tqdm import tqdm
 
 
 ## 대용량 json 파일 불러와 로드
-with open("output\experiment3\output_3.json", "r", encoding="UTF-8") as f:
+with open("output\experiment3\output_3_same_ex1.json", "r", encoding="UTF-8") as f:
     json_data = json.load(f)
 
 
@@ -25,13 +25,18 @@ for i, data in tqdm(enumerate(json_data)):
     re_json_data["real_answer"] = data["real_answer"]
 
     re_json_data["real_support"] = data["supporting_fact"]
-
+    if i == 54:
+        print()
     gpt_answer = data["gpt_answer"]
     if "## Answer" in gpt_answer:
         gpt_answer_only_answer = gpt_answer.split("## Answer")[1].replace(":", "").split("##")[0]
         re_json_data["gpt_answer"] = gpt_answer_only_answer
     if "## Supporting fact" in gpt_answer:
         gpt_answer_only_supporting_facts = gpt_answer.split("## Supporting fact :")[1:]
+        if gpt_answer_only_supporting_facts == []:
+            gpt_answer_only_supporting_facts = gpt_answer.split("## Supporting fact:")[1:]
+            if gpt_answer_only_supporting_facts == []:
+                gpt_answer_only_supporting_facts = gpt_answer.split("## Supporting facts :")[1:]
         for part in gpt_answer_only_supporting_facts:
             re_json_data["gpt_support"].append(part.strip())
 
@@ -49,5 +54,5 @@ for i, data in tqdm(enumerate(json_data)):
         "gpt_support": [],
     }
 
-with open("output\experiment3\output_3_clean.json", "w", encoding="UTF-8") as out_file:
+with open("output\experiment3\output_3_clean_ex1.json", "w", encoding="UTF-8") as out_file:
     json.dump(a, out_file, indent=4, ensure_ascii=False)

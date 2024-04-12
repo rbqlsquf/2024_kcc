@@ -131,7 +131,7 @@ def _align_bags(predicted, gold):
             df.drop([row_nm], axis=0, inplace=True)
             df.drop([col_nm], axis=1, inplace=True)
         else:
-            new_col_nm = df.loc[row_nm].tolist().index(max(df.loc[row_nm].tolist()))
+            new_col_nm = df.columns[df.loc[row_nm].tolist().index(max(df.loc[row_nm].tolist()))]
             couple.append((row_nm, new_col_nm))
             df.drop([row_nm], axis=0, inplace=True)
             df.drop([new_col_nm], axis=1, inplace=True)
@@ -175,20 +175,21 @@ def get_metrics(predicted, gold):
     return exact_match, f1, recall, precision
 
 
-with open("output\experiment1\output_1_clean.json", "r", encoding="UTF8") as f:
+with open("output\experiment3\output_3_clean_1.json", "r", encoding="UTF8") as f:
     json_data = json.load(f)
 
 total_f1 = 0.0
 total_recall = 0.0
 total_precision = 0.0
-with open("output\experiment1\output_f1.txt", "w", encoding="UTF-8") as out_file:
+with open("output\experiment3\output_f1.txt", "w", encoding="UTF-8") as out_file:
     for data in json_data:
         data_number = data["data_number"]
         real_answer = data["real_answer"]
         gpt_answer = data["gpt_answer"]
         real_support = data["real_support"]
         gpt_support = data["gpt_support"]
-
+        if data_number == "number #8":
+            print("hi")
         sentences = []
         for sentence in real_support:
             sentences.append(sentence.split("]")[1].strip())
