@@ -1,0 +1,1359 @@
+[
+    {
+        "data_number": "number #0",
+        "question": "Are Phil Rosen and Paul Bogart American film directors?",
+        "real_answer": "yes",
+        "gpt_answer": "  Yes, Phil Rosen and Paul Bogart are American film directors.\n",
+        "real_support": [
+            "Document 4 : [5]Paul Bogart (November 21, 1919 – April 15, 2012) was an American television and film director and producer.",
+            "Document 6 : [7]Phil Rosen (May 8, 1888 – October 22, 1951) was an American film director and cinematographer."
+        ],
+        "gpt_support": [
+            "Document 6 [7]: Phil Rosen was an American film director and cinematographer.",
+            "Document 5 [6]: Born to Gamble (1935) is an American film directed by Phil Rosen."
+        ]
+    },
+    {
+        "data_number": "number #1",
+        "question": "Which species of flowering plant is named after a Greek philosopher, Mutisia or Aristotelia?",
+        "real_answer": "Aristotelia",
+        "gpt_answer": "  Aristotelia\n",
+        "real_support": [
+            "Document 6 : [7] It is named in honor of the Greek philosopher Aristoteles.",
+            "Document 8 : [10] \"Mutisia\" has been named after José Celestino Mutis."
+        ],
+        "gpt_support": [
+            "Aristotelia genus is named in honor of the Greek philosopher Aristoteles.",
+            "(Document 6, Sentence 7)"
+        ]
+    },
+    {
+        "data_number": "number #2",
+        "question": "Veitchia is a flowering plan from the Arecaceae family, what family is the Lamium plant from?",
+        "real_answer": "Lamiaceae",
+        "gpt_answer": "  Lamium plant belongs to the family Lamiaceae.\n",
+        "real_support": [
+            "Document 5 : [6]Lamium (dead-nettles) is a genus of about 40–50 species of flowering plants in the family Lamiaceae, of which it is the type genus.",
+            "Document 6 : [8]Veitchia is a genus of flowering plant in the Arecaceae family."
+        ],
+        "gpt_support": [
+            "[6] Lamium (dead-nettles) is a genus of about 40–50 species of flowering plants in the family Lamiaceae, of which it is the type genus."
+        ]
+    },
+    {
+        "data_number": "number #3",
+        "question": "What three letter abbreviation is the college where Chrissy Roberts is head coach commonly referred to by?",
+        "real_answer": "EKU",
+        "gpt_answer": "  EKU\n",
+        "real_support": [
+            "Document 4 : [4]Chrissie Roberts (born December 25, 1975) is an American college basketball coach and the current women's head coach at Eastern Kentucky University (EKU) in Richmond, Kentucky.",
+            "Document 5 : [6]Eastern Kentucky University, commonly referred to as Eastern or EKU, is a regional comprehensive institution located in Richmond, Kentucky."
+        ],
+        "gpt_support": [
+            "Document 5 [6] states \"Eastern Kentucky University, commonly referred to as Eastern or EKU...\""
+        ]
+    },
+    {
+        "data_number": "number #4",
+        "question": "how is Sanshui District and Rushan, Shandong connected?",
+        "real_answer": "China",
+        "gpt_answer": "  They are both located in China.\n",
+        "real_support": [
+            "Document 5 : [5]Rushan is a county-level city in the prefecture-level city of Weihai, Shandong province, People's Republic of China.",
+            "Document 8 : [9]Sanshui District, formerly romanized as Samshui, is an urban district of the prefecture-level city Foshan in Guangdong, China."
+        ],
+        "gpt_support": [
+            "Sanshui District is in Guangdong, China, while Rushan, Shandong is in Shandong province, China."
+        ]
+    },
+    {
+        "data_number": "number #5",
+        "question": "Horn is a municipality in the district of Arbon in the canton of what and is also a northeast canton of Switzerland?",
+        "real_answer": "Thurgau",
+        "gpt_answer": "  Thurgau\n",
+        "real_support": [
+            "Document 1 : [1]Horn is a municipality in the district of Arbon in the canton of Thurgau in Switzerland.",
+            "Document 7 : [10]The Canton of Thurgau (German:    , anglicized as Thurgovia) is a northeast canton of Switzerland."
+        ],
+        "gpt_support": [
+            "Horn is a municipality in the district of Arbon in the canton of Thurgau in Switzerland.",
+            "(Document 1, [1])",
+            "The Canton of Thurgau (German: , anglicized as Thurgovia) is a northeast canton of Switzerland.",
+            "(Document 7, [10])"
+        ]
+    },
+    {
+        "data_number": "number #6",
+        "question": "Are Arachniodes and Vriesea classified in the same family?",
+        "real_answer": "no",
+        "gpt_answer": "  No, Arachniodes and Vriesea are not classified in the same family.\n",
+        "real_support": [
+            "Document 4 : [6]Arachniodes is a fern genus in the family Dryopteridaceae (wood ferns).",
+            "Document 7 : [9]Vriesea is a genus of the botanical family Bromeliaceae, subfamily"
+        ],
+        "gpt_support": [
+            "Document 6, [8] mentions that Vriesea belongs to the Bromeliad family.",
+            "Document 4, [6] states that Arachniodes is a fern genus in the family Dryopteridaceae."
+        ]
+    },
+    {
+        "data_number": "number #7",
+        "question": "What are both Redbook and Home Monthly?",
+        "real_answer": "magazine",
+        "gpt_answer": "  \n",
+        "real_support": [
+            "Document 4 : [7]Home Monthly was a monthly women's magazine published in Pittsburgh, Pennsylvania in the late 19th century.",
+            "Document 9 : [16]Redbook is an American women's magazine published by the Hearst Corporation."
+        ],
+        "gpt_support": [
+            "Redbook is an American women's magazine published by the Hearst Corporation.",
+            "Home Monthly was a monthly women's magazine published in Pittsburgh, Pennsylvania in the late 19th century."
+        ]
+    },
+    {
+        "data_number": "number #8",
+        "question": "Which has more species, Manettia or Leucophyllum?",
+        "real_answer": "Manettia",
+        "gpt_answer": "  Manettia has more species than Leucophyllum.\n",
+        "real_support": [
+            "Document 2 : [4] There are between 80 and 123 species.",
+            "Document 5 : [14] The dozen-odd species are often called \"sages\", although they have no relationship to the genus \"Salvia\"."
+        ],
+        "gpt_support": [
+            "Document 2 [4] \"There are between 80 and 123 species.\""
+        ]
+    },
+    {
+        "data_number": "number #9",
+        "question": "Brookvale Bus Depot is a bus depot in the Sydney suburb of Brookvale, operated by which agency, of the Government of New South Wales, operating bus services in Sydney?",
+        "real_answer": "State Transit Authority",
+        "gpt_answer": "  State Transit Authority\n",
+        "real_support": [
+            "Document 3 : [3]Brookvale Bus Depot is a bus depot in the Sydney suburb of Brookvale operated by Sydney Buses.",
+            "Document 8 : [10]The State Transit Authority, also referred to as State Transit or STA, is an agency of the Government of New South Wales operating bus services in Sydney."
+        ],
+        "gpt_support": [
+            "Document 4, Sentence [5] \"It is currently operated by the State Transit Authority.\""
+        ]
+    },
+    {
+        "data_number": "number #10",
+        "question": "While Fargesia is a genus of Asian bamboo in the grass family, what family is Diphylleia in?",
+        "real_answer": "Berberidaceae family",
+        "gpt_answer": "  Diphylleia is in the Berberidaceae family.\n",
+        "real_support": [
+            "Document 4 : [4]Fargesia is a genus of Asian bamboo in the grass family.",
+            "Document 6 : [9]Diphylleia is a group of small herbs in the Berberidaceae family described as a genus in 1803."
+        ],
+        "gpt_support": [
+            "Sentence [9]  states, \"Diphylleia is a group of small herbs in the Berberidaceae family described as a genus in 1803.\""
+        ]
+    },
+    {
+        "data_number": "number #11",
+        "question": "Are Cryptanthus and Trichodiadema in the same family?",
+        "real_answer": "no",
+        "gpt_answer": "  No, Cryptanthus belongs to the family Bromeliaceae, while Trichodiadema belongs to the family Aizoaceae.\n",
+        "real_support": [
+            "Document 6 : [6]Cryptanthus is a genus in the botanical family Bromeliaceae, subfamily Bromelioideae.",
+            "Document 8 : [13]Trichodiadema is a genus of succulent plants of the family Aizoaceae."
+        ],
+        "gpt_support": [
+            "Supporting fact : Document 6: Cryptanthus is a genus in the botanical family Bromeliaceae, subfamily Bromelioideae.",
+            "Supporting fact : Document 8: Trichodiadema is a genus of succulent plants of the family Aizoaceae."
+        ]
+    },
+    {
+        "data_number": "number #12",
+        "question": "Are both Firmiana and Petasites a genus of flowering plants in the Malvaceae family?",
+        "real_answer": "no",
+        "gpt_answer": "  Yes\n",
+        "real_support": [
+            "Document 4 : [4]Petasites is a genus of flowering plants in the sunflower family, Asteraceae, that are commonly referred to as butterburs and coltsfoots.",
+            "Document 7 : [10]Firmiana (parasoltree) is a genus of flowering plant in the Malvaceae family, formerly placed in the now defunct Sterculiaceae."
+        ],
+        "gpt_support": [
+            "Document 7: Firmiana (parasoltree) is a genus of flowering plant in the Malvaceae family, formerly placed in the now defunct Sterculiaceae.",
+            "Document 4: Petasites is a genus of flowering plants in the sunflower family, Asteraceae, that are commonly referred to as butterburs and coltsfoots."
+        ]
+    },
+    {
+        "data_number": "number #13",
+        "question": " Where was the person who owned The Gold Derby Awards since 2015 born?",
+        "real_answer": "New York City",
+        "gpt_answer": "  New York City\n",
+        "real_support": [
+            "Document 4 : [7] Owned by Jay Penske since 2015, it is a brand of the Penske Media Corporation.",
+            "Document 8 : [13] Penske was born in New York City."
+        ],
+        "gpt_support": [
+            "Penske was born in New York City.",
+            "(Document 8, Sentence 13)"
+        ]
+    },
+    {
+        "data_number": "number #14",
+        "question": "Were William Nigh and Brian Robbins both American film directors?",
+        "real_answer": "yes",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "Document 1 : [1]Brian Levine (born November 22, 1963), best known as Brian Robbins, is an American actor, film director, film producer, television director, television producer and occasional screenwriter.",
+            "Document 7 : [9]William Nigh (October 12, 1881 – November 27, 1955) was an American film director, writer, and actor."
+        ],
+        "gpt_support": [
+            "William Nigh was an American film director, writer, and actor .",
+            "Brian Robbins, on the other hand, is known as an American actor, film director, film producer, television director, television producer, and occasional screenwriter ."
+        ]
+    },
+    {
+        "data_number": "number #15",
+        "question": "To what family does Kleinia and Rudbeckia belong to?",
+        "real_answer": "the sunflower family.",
+        "gpt_answer": "  Kleinia belongs to the family Asteraceae and Rudbeckia belongs to the sunflower family.\n",
+        "real_support": [
+            "Document 3 : [5]Kleinia is a genus of African flowering plants in the sunflower family.",
+            "Document 5 : [7]Rudbeckia is a plant genus in the sunflower family."
+        ],
+        "gpt_support": [
+            "Kleinia is a genus of African flowering plants in the sunflower family.",
+            "Rudbeckia is a plant genus in the sunflower family."
+        ]
+    },
+    {
+        "data_number": "number #16",
+        "question": "When did Metagaming Concepts publish Monsters! Monsters!?",
+        "real_answer": "1976",
+        "gpt_answer": "  1976\n",
+        "real_support": [
+            "Document 2 : [4] is a role-playing game first published by Metagaming Concepts in 1976.",
+            "Document 9 : [12]Metagaming Concepts, later known simply as Metagaming, was a company that published board games from 1974 to 1983."
+        ],
+        "gpt_support": [
+            "[4] Monsters!",
+            "Monsters!",
+            "is a role-playing game first published by Metagaming Concepts in 1976."
+        ]
+    },
+    {
+        "data_number": "number #17",
+        "question": "Which Italian actress born in 1971 stars in Lucignolo?",
+        "real_answer": "Claudia Gerini",
+        "gpt_answer": "  Claudia Gerini\n",
+        "real_support": [
+            "Document 1 : [1]Claudia Gerini (born 18 December 1971) is an Italian actress and showgirl.",
+            "Document 2 : [2]Lucignolo is a 1999 Italian movie directed by and starring Massimo Ceccherini, with the inseparable Alessandro Paci and Claudia Gerini."
+        ],
+        "gpt_support": [
+            "[2] Lucignolo is a 1999 Italian movie directed by and starring Massimo Ceccherini, with the inseparable Alessandro Paci and Claudia Gerini."
+        ]
+    },
+    {
+        "data_number": "number #18",
+        "question": "Daniel 'Dani' Jimenez plays as a goalkeeper for which \"Segunda Division\" team?",
+        "real_answer": "AD Alcorcón",
+        "gpt_answer": "  AD Alcorcón\n",
+        "real_support": [
+            "Document 1 : [2] Founded in 1971, it currently plays in \"Segunda División\", holding home matches at the Municipal de Santo Domingo, with a 6,000 seat capacity.",
+            "Document 3 : [4]Daniel 'Dani' Jiménez López (born 5 March 1990) is a Spanish footballer who plays for AD Alcorcón as a goalkeeper."
+        ],
+        "gpt_support": [
+            "Document 3: Daniel 'Dani' Jiménez López (born 5 March 1990) is a Spanish footballer who plays for AD Alcorcón as a goalkeeper."
+        ]
+    },
+    {
+        "data_number": "number #19",
+        "question": " Dragon's Hall is a supplement for fantasy role-playing games published by a commpany active since what year?",
+        "real_answer": "1976",
+        "gpt_answer": "  1976\n",
+        "real_support": [
+            "Document 3 : [3]Dragon's Hall is a supplement for fantasy role-playing games published by Judges Guild in 1981.",
+            "Document 8 : [8]Judges Guild is a game publisher that has been active since 1976."
+        ],
+        "gpt_support": [
+            "Document 8 [8] Judges Guild is a game publisher that has been active since 1976."
+        ]
+    },
+    {
+        "data_number": "number #20",
+        "question": "Anna-Lena Grönefeld is from Germany, whereas Pavel Složil is from where?",
+        "real_answer": "Czechoslovakia",
+        "gpt_answer": "  Pavel Složil is from Czechoslovakia.\n",
+        "real_support": [
+            "Document 9 : [12]Anna-Lena Grönefeld (born 4 June 1985) is a German tennis player.",
+            "Document 10 : [14]Pavel Složil (born 29 December 1955) is a former professional tennis player from Czechoslovakia."
+        ],
+        "gpt_support": [
+            "Pavel Složil (born 29 December 1955) is a former professional tennis player from Czechoslovakia."
+        ]
+    },
+    {
+        "data_number": "number #21",
+        "question": "Swainsonia and Leucocoryne are both what classifaction?",
+        "real_answer": "a genus",
+        "gpt_answer": "  They are both genera.\n",
+        "real_support": [
+            "Document 2 : [2]Leucocoryne (Glory-of-the-sun) is a genus of bulbous perennials in the family Amaryllidaceae.",
+            "Document 3 : [5]Swainsonia is a genus of sea snails, marine gastropod mollusks in the family Mitridae."
+        ],
+        "gpt_support": [
+            "From Document 2: Leucocoryne (Gloryofthesun) is a genus of bulbous perennials in the family Amaryllidaceae.",
+            "From Document 3: Swainsonia is a genus of sea snails, marine gastropod mollusks in the family Mitridae."
+        ]
+    },
+    {
+        "data_number": "number #22",
+        "question": "Who was born first, Victor Amaya or Robin White?",
+        "real_answer": "Victor Amaya",
+        "gpt_answer": "  Victor Amaya\n",
+        "real_support": [
+            "Document 2 : [3]Victor Amaya (born July 2, 1954 in Denver) is a former American male professional tour tennis player.",
+            "Document 5 : [7]Robin White (born December 10, 1963) is a former professional tennis player from the United States."
+        ],
+        "gpt_support": [
+            "Victor Amaya was born on July 2, 1954 in Denver as mentioned .",
+            "Robin White was born on December 10, 1963 as per Document 5."
+        ]
+    },
+    {
+        "data_number": "number #23",
+        "question": "While Saša Lukić is a professional footballer, what is Levante UD?",
+        "real_answer": "Spanish football club",
+        "gpt_answer": "  Levante UD is a Spanish football club based in Valencia, in the namesake community.\n",
+        "real_support": [
+            "Document 3 : [4]Saša Lukić (Serbian Cyrillic: Саша Лукић; born 13 August 1996) is a Serbian professional footballer who plays as a midfielder for Spanish club Levante UD on loan from Torino.",
+            "Document 10 : [11]Levante Unión Deportiva, S.A.D. (] , ] ) is a Spanish football club based in Valencia, in the namesake community."
+        ],
+        "gpt_support": [
+            "Document 10 - [11] Levante Unión Deportiva, S.A.D.",
+            "is a Spanish football club based in Valencia, in the namesake community."
+        ]
+    },
+    {
+        "data_number": "number #24",
+        "question": "Q: Who is older, Wayne Black or Byron Black?",
+        "real_answer": "Byron Black",
+        "gpt_answer": "  Byron Black is older than Wayne Black.\n",
+        "real_support": [
+            "Document 8 : [9]Byron Black (born 6 October 1969 in Harare, Zimbabwe) is a former touring professional tennis and Davis Cup player for Zimbabwe.",
+            "Document 9 : [10]Wayne Hamilton Black (born 17 November 1973 in Harare, is a former professional male tennis player from Zimbabwe."
+        ],
+        "gpt_support": [
+            "Byron Black was born on October 6, 1969, while Wayne Black was born on November 17, (, 9)"
+        ]
+    },
+    {
+        "data_number": "number #25",
+        "question": "Do Tuberaria and Ipheion share the same family, although they are two different genera?",
+        "real_answer": "no",
+        "gpt_answer": "  Yes, Tuberaria and Ipheion share the same family.\n",
+        "real_support": [
+            "Document 6 : [9]The flowering plant genus Ipheion (starflower, spring starflower) belongs to Allioideae subfamily of the Amaryllidaceae family.",
+            "Document 7 : [11]Tuberaria is a genus of about 12 species of annual or perennial plants in the rockrose family Cistaceae, native to western and southern Europe."
+        ],
+        "gpt_support": [
+            "Tuberaria is a genus of plants in the rockrose family Cistaceae, while Ipheion belongs to Allioideae subfamily of the Amaryllidaceae family."
+        ]
+    },
+    {
+        "data_number": "number #26",
+        "question": "Who was born first, Byron Black or Balázs Taróczy?",
+        "real_answer": "Balázs Taróczy",
+        "gpt_answer": "  Byron Black was born first.\n",
+        "real_support": [
+            "Document 3 : [3]Balázs Taróczy (Hungarian: \"Taróczy Balázs\" ; born 9 May 1954) is a retired tennis player from Hungary, who won thirteen singles titles in his career.",
+            "Document 9 : [13]Byron Black (born 6 October 1969 in Harare, Zimbabwe) is a former touring professional tennis and Davis Cup player for Zimbabwe."
+        ],
+        "gpt_support": [
+            "From Document 3: Byron Black was born on 6 October 1969 in Harare, Zimbabwe.",
+            "From Document 3: Balázs Taróczy was born on 9 May 1954."
+        ]
+    },
+    {
+        "data_number": "number #27",
+        "question": "Which sports is Alex O'Brien and Marc Rosset related to ?",
+        "real_answer": "tennis",
+        "gpt_answer": "  Tennis\n",
+        "real_support": [
+            "Document 5 : [6]Marc Rosset (born 7 November 1970) is a former professional tennis player from Switzerland who is best remembered for winning the men's singles gold medal at the 1992 Olympic Games.",
+            "Document 8 : [11]Alex O'Brien (born March 7, 1970 in Amarillo, Texas) is a retired professional tennis player from the United States, who competed on the ATP Tour."
+        ],
+        "gpt_support": [
+            "Document 6, [8]: \"Jakob Hlasek and Marc Rosset were the defending champions, but Rosset did not participate this year.\"",
+            "Document 8, [11]: \"Alex O'Brien (born March 7, 1970 in Amarillo, Texas) is a retired professional tennis player from the United States, who competed on the ATP Tour.\""
+        ]
+    },
+    {
+        "data_number": "number #28",
+        "question": "Are Andrei Olhovskiy and Stephen Huss from the same country?",
+        "real_answer": "no",
+        "gpt_answer": "  No, Andrei Olhovskiy is from Russia while Stephen Huss is from Australia.\n",
+        "real_support": [
+            "Document 4 : [4]Andrei Stanislavovich Olhovskiy (Russian: Андрей Станиславович Ольховский ) (born 15 April 1966) is a former tennis player from Russia, who turned professional in 1989.",
+            "Document 8 : [10]Stephen Huss (born 10 December 1975), is a former professional tennis player from Australia."
+        ],
+        "gpt_support": [
+            "Document 4: Andrei Olhovskiy (Russian: Андрей Станиславович Ольховский) (born 15 April 1966) is a former tennis player from Russia.",
+            "Document 8: Stephen Huss is mentioned as a former professional tennis player from Australia."
+        ]
+    },
+    {
+        "data_number": "number #29",
+        "question": "Matt James, born in 1981, an American game designer and a decorated veteran of the United States Army, and has also designed game content for which American game company that produces role-playing games and game supplements, also known as Open Design?",
+        "real_answer": "Kobold Press",
+        "gpt_answer": "  Kobold Press\n",
+        "real_support": [
+            "Document 3 : [3]Kobold Press, also known as Open Design, is an American game company that produces role-playing games and game supplements.",
+            "Document 6 : [8] He has also designed game content for Wolfgang Baur's Kobold Press (formerly Open Design LLC)."
+        ],
+        "gpt_support": [
+            "He has also designed game content for Wolfgang Baur's Kobold Press (formerly Open Design LLC)."
+        ]
+    },
+    {
+        "data_number": "number #30",
+        "question": "Both Byron Black and Iván Molina play which sport?",
+        "real_answer": "tennis",
+        "gpt_answer": "  Tennis\n",
+        "real_support": [
+            "Document 7 : [13]Byron Black (born 6 October 1969 in Harare, Zimbabwe) is a former touring professional tennis and Davis Cup player for Zimbabwe.",
+            "Document 10 : [16]Iván Molina (born 16 June 1946) is a former professional Colombian tennis player."
+        ],
+        "gpt_support": [
+            "Document 7: Byron Black is a former touring professional tennis player.",
+            "Document 10: Iván Molina is a former professional Colombian tennis player."
+        ]
+    },
+    {
+        "data_number": "number #31",
+        "question": "The Star Boarder is a 1914 American short comedy film starring which English comic actor, filmmaker, and composer who rose to fame in the era of silent film?",
+        "real_answer": "Charlie Chaplin",
+        "gpt_answer": "  Charlie Chaplin\n",
+        "real_support": [
+            "Document 1 : [1]The Star Boarder is a 1914 American short comedy film starring Charlie Chaplin.",
+            "Document 9 : [11]Sir Charles Spencer \"Charlie\" Chaplin, {'1': \", '2': \", '3': 'KBE', '4': \"} (16 April 1889 – 25 December 1977) was an English comic actor, filmmaker, and composer who rose to fame in the era of silent film."
+        ],
+        "gpt_support": [
+            "The Star Boarder is a 1914 American short comedy film starring Charlie Chaplin."
+        ]
+    },
+    {
+        "data_number": "number #32",
+        "question": "Are Shelby Cannon and Andrei Olhovskiy both from America?",
+        "real_answer": "no",
+        "gpt_answer": "  No, only Shelby Cannon is from America as she is mentioned to be an American retired professional tennis player in the reference document.\n",
+        "real_support": [
+            "Document 3 : [4]Shelby Cannon (born August 19, 1966, in Hattiesburg, Mississippi) is an American retired professional tennis player.",
+            "Document 10 : [13]Andrei Stanislavovich Olhovskiy (Russian: Андрей Станиславович Ольховский ) (born 15 April 1966) is a former tennis player from Russia, who turned professional in 1989."
+        ],
+        "gpt_support": [
+            "Shelby Cannon is an American retired professional tennis player."
+        ]
+    },
+    {
+        "data_number": "number #33",
+        "question": "What was the birth daye of an Italian-German footballer who plays for a reserve team at Stadion Rote Erde?",
+        "real_answer": "17 January 1986",
+        "gpt_answer": "  September 12, 1985\n",
+        "real_support": [
+            "Document 2 : [4] It plays in the Regionalliga, at Stadion Rote Erde.",
+            "Document 9 : [15]Massimo Ornatelli (born 17 January 1986) is an Italian-German footballer who plays for Borussia Dortmund II."
+        ],
+        "gpt_support": [
+            "Silvio Pagano (born 12 September 1985) is an Italian-German footballer who plays for Wuppertaler SV."
+        ]
+    },
+    {
+        "data_number": "number #34",
+        "question": "Are Travis Parrott and Menno Oosting both tennis players?",
+        "real_answer": "yes",
+        "gpt_answer": "  Yes.\n",
+        "real_support": [
+            "Document 1 : [1]Menno Oosting (17 May 1964 – 22 February 1999) was a professional tennis player from the Netherlands, who won seven ATP Tour doubles titles out of 18 finals in his career.",
+            "Document 8 : [9]Travis Parrott (born August 16, 1980 in Portland, Oregon) is an American professional ATP tennis doubles player."
+        ],
+        "gpt_support": [
+            "Travis Parrott is described as an American professional ATP tennis doubles player .",
+            "Menno Oosting is mentioned as a professional tennis player from the Netherlands ."
+        ]
+    },
+    {
+        "data_number": "number #35",
+        "question": "Which has more species, Lysichiton or Aechmea?",
+        "real_answer": "Aechmea",
+        "gpt_answer": "  Aechmea has more species compared to Lysichiton.\n",
+        "real_support": [
+            "Document 4 : [9] \"Aechmea\" has 8 subgenera and 255 species distributed from Mexico through South America.",
+            "Document 10 : [25] The genus has two species, one found in north-east Asia (Japan and Russian Far East), the other in north-west America (Aleutians to Santa Cruz County in California)."
+        ],
+        "gpt_support": [
+            "\"Aechmea\" has 8 subgenera and 255 species distributed from Mexico through South America."
+        ]
+    },
+    {
+        "data_number": "number #36",
+        "question": "What son of a Chinese fencer is an entertainer and is fluent in 6 languages?",
+        "real_answer": "Jackson Wang",
+        "gpt_answer": "  Jackson Wang\n",
+        "real_support": [
+            "Document 4 : [8] Jackson speaks fluent English, Cantonese, Mandarin, Shanghainese, Japanese and Korean.",
+            "Document 5 : [11] He is the father of Jackson Wang."
+        ],
+        "gpt_support": [
+            "He is the father of Jackson Wang."
+        ]
+    },
+    {
+        "data_number": "number #37",
+        "question": "Were Herbert Blaché and Jaap Speyer of the same nationality?",
+        "real_answer": "no",
+        "gpt_answer": "  Jaap Speyer and Herbert Blaché were not of the same nationality.\n",
+        "real_support": [
+            "Document 5 : [7]Jaap Speyer (1891–1952) was a Dutch film director.",
+            "Document 10 : [13]Herbert Blaché (5 October 1882 – 23 October 1953) was a British-born American film director, producer and screenwriter, born of a French mother."
+        ],
+        "gpt_support": [
+            "Jaap Speyer was a Dutch film director  while Herbert Blaché was a British-born American film director ."
+        ]
+    },
+    {
+        "data_number": "number #38",
+        "question": "Do the genuses Hyacinthoides and Mikania belong to the same family?",
+        "real_answer": "no",
+        "gpt_answer": "  No.\n",
+        "real_support": [
+            "Document 7 : [14]Mikania is a genus of about 450 species in the boneset tribe within the sunflower family.",
+            "Document 8 : [15]Hyacinthoides is a genus of flowering plants in the family Asparagaceae, known as bluebells."
+        ],
+        "gpt_support": [
+            "Hyacinthoides belongs to the family Asparagaceae while Mikania belongs to the family Asteraceae."
+        ]
+    },
+    {
+        "data_number": "number #39",
+        "question": "What was the name of the Dutch Golden Age flower painter born in the town historically named Dort in English?",
+        "real_answer": "Jacob van Walscapelle",
+        "gpt_answer": "  Jacob van Walscapelle\n",
+        "real_support": [
+            "Document 2 : [2]Jacob van Walscapelle (1644, Dordrecht – 1727, Amsterdam), was a Dutch Golden Age flower painter.",
+            "Document 4 : [4]Dordrecht (] ), colloquially Dordt ] , historically in English named Dort, is a city and municipality in the western Netherlands, located in the province of South Holland."
+        ],
+        "gpt_support": [
+            "Document 2: Jacob van Walscapelle (1644, Dordrecht – 1727, Amsterdam), was a Dutch Golden Age flower painter."
+        ]
+    },
+    {
+        "data_number": "number #40",
+        "question": "Pileostegia and Billbergia, are native to Asia?",
+        "real_answer": "no",
+        "gpt_answer": "  No, Pileostegia is native to Asia, but Billbergia is not native to Asia.\n",
+        "real_support": [
+            "Document 4 : [7]Billbergia is a genus of flowering plants in the family Bromeliaceae, subfamily Bromelioideae.",
+            "Document 7 : [13]Pileostegia is a genus of 4 species of flowering plants in the family Hydrangeaceae, native to India and eastern Asia."
+        ],
+        "gpt_support": [
+            "Document 7 [13]: Pileostegia is a genus of 4 species of flowering plants in the family Hydrangeaceae, native to India and eastern Asia.",
+            "Document 4 [9]: Billbergia plants are native to forest and scrub, up to an altitude of 1,700 m, in southern Mexico, the West Indies, Central America and South America, with many species endemic to Brazil."
+        ]
+    },
+    {
+        "data_number": "number #41",
+        "question": "Senegalese professional footballer, Abdoulaye Fall, plays for what Spanish football team founded in 2007?",
+        "real_answer": "Extremadura UD",
+        "gpt_answer": "  Extremadura UD\n",
+        "real_support": [
+            "Document 5 : [7] Founded in 2007 it plays in Segunda División B – Group 4, holding home games at \"Estadio Francisco de la Hera\".",
+            "Document 7 : [9]Abdoulaye Fall (born 18 May 1989) is a Senegalese professional footballer who plays for Spanish club Extremadura UD as a defensive midfielder."
+        ],
+        "gpt_support": [
+            "Abdoulaye Fall (born 18 May 1989) is a Senegalese professional footballer who plays for Spanish club Extremadura UD as a defensive midfielder."
+        ]
+    },
+    {
+        "data_number": "number #42",
+        "question": "Whiting is an unincorporated community in Mississippi County, in the U.S. state of Missouri, a U.S. state is a constituent political entity of which entity?",
+        "real_answer": "United States of America",
+        "gpt_answer": "  United States of America\n",
+        "real_support": [
+            "Document 6 : [6]A U.S. state is a constituent political entity of the United States of America.",
+            "Document 9 : [13]Whiting is an unincorporated community in Mississippi County, in the U.S. state of Missouri."
+        ],
+        "gpt_support": [
+            "[6] A U.S. state is a constituent political entity of the United States of America."
+        ]
+    },
+    {
+        "data_number": "number #43",
+        "question": "The 1981 Furman Paladins football team is from what city and state?",
+        "real_answer": "Greenville, South Carolina",
+        "gpt_answer": "  Greenville, South Carolina\n",
+        "real_support": [
+            "Document 1 : [1]Furman University is a private, coeducational liberal arts college located in Greenville, South Carolina.",
+            "Document 8 : [9]The 1981 Furman Paladins football team represented the Furman Paladins of Furman University during the 1981 college football season."
+        ],
+        "gpt_support": [
+            "Sentence [9]  states, \"The 1981 Furman Paladins football team represented the Furman Paladins of Furman University during the 1981 college football season.\""
+        ]
+    },
+    {
+        "data_number": "number #44",
+        "question": "Are both Javier Frana and Pavel Složil from Czechoslovakia?",
+        "real_answer": "no",
+        "gpt_answer": "  \n",
+        "real_support": [
+            "Document 6 : [11]Pavel Složil (born 29 December 1955) is a former professional tennis player from Czechoslovakia.",
+            "Document 10 : [15]Javier Alberto Frana (born 25 December 1966) is a former tennis player from Argentina and current tennis commentator for ESPN Latin America."
+        ],
+        "gpt_support": [
+            "Pavel Složil is a former professional tennis player from Czechoslovakia."
+        ]
+    },
+    {
+        "data_number": "number #45",
+        "question": "Who directed the 2003 South Korean melodrama film that Lee Ki-woo acted in?",
+        "real_answer": "Kwak Jae-yong",
+        "gpt_answer": "  Kwak Jae-yong\n",
+        "real_support": [
+            "Document 4 : [6]The Classic () is a 2003 South Korean romance melodrama film directed by Kwak Jae-yong.",
+            "Document 6 : [10] He is best known for his roles in \"The Classic\" (2003), \"Tale of Cinema\" (2005), \"A Love to Kill\" (2005), and \"Flower Boy Ramyun Shop\" (2011)."
+        ],
+        "gpt_support": [
+            "Document 4 - [6] The Classic () is a 2003 South Korean romance melodrama film directed by Kwak Jae-yong."
+        ]
+    },
+    {
+        "data_number": "number #46",
+        "question": "Which one of Canada's three Maritime provinces is The Back Bay Formation  a geologic formation in",
+        "real_answer": "New Brunswick",
+        "gpt_answer": "  New Brunswick\n",
+        "real_support": [
+            "Document 9 : [17]The Back Bay Formation is a geologic formation in New Brunswick.",
+            "Document 10 : [19]New Brunswick (French: \"Nouveau-Brunswick\" ; ) is one of Canada's three Maritime provinces (together with Prince Edward Island and Nova Scotia) and is the only constitutionally bilingual (English–French) province."
+        ],
+        "gpt_support": [
+            "The Back Bay Formation is a geologic formation in New Brunswick."
+        ]
+    },
+    {
+        "data_number": "number #47",
+        "question": "Which country did the bands Thin White Rope and Eve's Plum originate?",
+        "real_answer": "American",
+        "gpt_answer": "  United States\n",
+        "real_support": [
+            "Document 2 : [2]Eve's Plum was an American New York City-based alternative rock band, who recorded in the 1990s.",
+            "Document 3 : [5]Thin White Rope was an American rock band fronted by Guy Kyser and related to the desert rock and Paisley Underground subgenres."
+        ],
+        "gpt_support": [
+            "Document 2 [2]: \"Eve's Plum was an American New York Citybased alternative rock band\"\n Document 3 [5]: \"Thin White Rope was an American rock band\""
+        ]
+    },
+    {
+        "data_number": "number #48",
+        "question": "Are both Iresine, a genus of plants in the amaranth family, and Tolpis in the dandelion tribe flowering plants?",
+        "real_answer": "yes",
+        "gpt_answer": "  Yes, both Iresine and Tolpis are flowering plants.\n",
+        "real_support": [
+            "Document 6 : [10]Iresine is a genus of flowering plants in the amaranth family, Amaranthaceae.",
+            "Document 10 : [18]Tolpis is a genus of flowering plants in the dandelion tribe within the daisy family."
+        ],
+        "gpt_support": [
+            "[10] Iresine is a genus of flowering plants in the amaranth family, Amaranthaceae.",
+            "[18] Tolpis is a genus of flowering plants in the dandelion tribe within the daisy family."
+        ]
+    },
+    {
+        "data_number": "number #49",
+        "question": "What type of game is the game which Hon'inbō Genjō plays professionally?",
+        "real_answer": "abstract strategy board game",
+        "gpt_answer": "  Go\n",
+        "real_support": [
+            "Document 2 : [3]Go () is an abstract strategy board game for two players, in which the aim is to surround more territory than the opponent.",
+            "Document 7 : [10]Honinbō Genjō (本因坊元丈, 1775–1832) was a professional Go player."
+        ],
+        "gpt_support": [
+            "Honinbō Genjō (本因坊元丈, 1775–1832) was a professional Go player."
+        ]
+    },
+    {
+        "data_number": "number #50",
+        "question": "What is a genus of North American plants in the aster tribe within the daisy family, Sorbus or Townsendia ?",
+        "real_answer": "Townsendia",
+        "gpt_answer": "  Townsendia\n",
+        "real_support": [
+            "Document 3 : [4]Townsendia is a genus of North American plants in the aster tribe within the daisy family.",
+            "Document 4 : [5]Sorbus is a genus of about 100–200 species of trees and shrubs in the rose family Rosaceae."
+        ],
+        "gpt_support": [
+            "Document 3 [4]: \"Townsendia is a genus of North American plants in the aster tribe within the daisy family.\""
+        ]
+    },
+    {
+        "data_number": "number #51",
+        "question": "Which english actor, born 5 April 1981, is featured in the upcoming animated fantasy film Magik?",
+        "real_answer": "Tom Riley",
+        "gpt_answer": "  Tom Riley\n",
+        "real_support": [
+            "Document 3 : [5] It will feature the voices of Benedict Cumberbatch, Matthew Goode, Samantha Morton, Dominique Swain, Jim Broadbent, Tom Riley, Enzo Cilenti, Jimmy Carr and Jake Raymond.",
+            "Document 10 : [16]Tom Riley (born 5 April 1981) is an English actor and producer."
+        ],
+        "gpt_support": [
+            "Tom Riley (born 5 April 1981) is an English actor and producer."
+        ]
+    },
+    {
+        "data_number": "number #52",
+        "question": "Emmanuel Afriyie Mario Sabbi (born December 24, 1997) is an American professional soccer player who plays as forward for Hobro IK, a Danish football club, currently playing in which organization?",
+        "real_answer": "Danish Superliga",
+        "gpt_answer": "  Danish Superliga\n",
+        "real_support": [
+            "Document 1 : [1]Hobro IK is a Danish football club currently playing in the Danish Superliga.",
+            "Document 2 : [4]Emmanuel Afriyie Mario Sabbi (born December 24, 1997) is an American professional soccer player who plays as forward for Hobro IK in the Danish Superliga."
+        ],
+        "gpt_support": [
+            "[4] Emmanuel Afriyie Mario Sabbi (born December 24, 1997) is an American professional soccer player who plays as forward for Hobro IK in the Danish Superliga."
+        ]
+    },
+    {
+        "data_number": "number #53",
+        "question": " Cat Run 2 is a 2014 direct-to-video American comedy action film starring an American professional what?",
+        "real_answer": "poker player",
+        "gpt_answer": "   Cat Run 2 is a 2014 direct-to-video American comedy action film starring an American professional poker player.\n",
+        "real_support": [
+            "Document 5 : [9]Cat Run 2 is a 2014 direct-to-video American comedy action film sequel of \"Cat Run\" directed by John Stockwell starring Scott Mechlowicz, Winter Ave Zoli, Alphonso McAuley and Dan Bilzerian.",
+            "Document 6 : [10]Dan Brandon Bilzerian (born December 7, 1980) is an American professional poker player."
+        ],
+        "gpt_support": [
+            "Cat Run 2 is a 2014 direct-to-video American comedy action film sequel of \"Cat Run\" directed by John Stockwell starring Scott Mechlowicz, Winter Ave Zoli, Alphonso McAuley and Dan Bilzerian."
+        ]
+    },
+    {
+        "data_number": "number #54",
+        "question": "Are Fred Olen Ray and Brian Henson both from the United States?",
+        "real_answer": "yes",
+        "gpt_answer": "  Yes, Fred Olen Ray and Brian Henson are both from the United States.\n",
+        "real_support": [
+            "Document 1 : [1]Fred Olen Ray (born September 10, 1954) is an American film director, producer, screenwriter, actor, and cinematographer.",
+            "Document 10 : [15]Brian Henson (born November 3, 1963, in New York City) is an American puppeteer, director, producer, technician, and the chairman of The Jim Henson Company."
+        ],
+        "gpt_support": [
+            "[1] Fred Olen Ray (born September 10, 1954) is an American film director, producer, screenwriter, actor, and cinematographer.",
+            "[15] Brian Henson (born November 3, 1963, in New York City) is an American puppeteer, director, producer, technician, and the chairman of The Jim Henson Company."
+        ]
+    },
+    {
+        "data_number": "number #55",
+        "question": "Are both Pedro Sienna and Harry L. Fraser both American film directors?",
+        "real_answer": "no",
+        "gpt_answer": "  No, Pedro Sienna is not an American film director.\n",
+        "real_support": [
+            "Document 3 : [6]Pedro Sienna (13 May 1893—20 March 1972) was a Chilean playwright, poet, journalist, art critic and theatre and movie actor who is also remembered as one of his country's pioneering directors in the early years of silent film.",
+            "Document 7 : [12]Harry L. Fraser (31 March 1889 – 8 April 1974) was an American film director."
+        ],
+        "gpt_support": [
+            "Pedro Sienna is described as a Chilean playwright, poet, journalist, art critic, and theatre and movie actor in the reference document."
+        ]
+    },
+    {
+        "data_number": "number #56",
+        "question": "Iosefo Verevou, is a Fijian footballer who plays as a forward, are the players on an association football team who play nearest to the opposing team's goal, and are therefore most responsible for scoring goals, for which organization, in the Fiji National Football League?",
+        "real_answer": "Rewa",
+        "gpt_answer": "  Navua\n",
+        "real_support": [
+            "Document 2 : [2]Forwards are the players on an association football team who play nearest to the opposing team's goal, and are therefore most responsible for scoring goals.",
+            "Document 9 : [13]Iosefo Verevou (born 5 January 1996) is a Fijian footballer who plays as a forward for Rewa in the Fiji National Football League."
+        ],
+        "gpt_support": [
+            "Manav Permal, also written as Mannav (born 27 November 1999) is a Fijian footballer who plays either as a midfielder or as a forward for Navua in the Fiji National Football League."
+        ]
+    },
+    {
+        "data_number": "number #57",
+        "question": "What was population of the city where the Dutch retired footballer Foeke Booy born?",
+        "real_answer": "108,249",
+        "gpt_answer": "  108,249\n",
+        "real_support": [
+            "Document 1 : [1]Leeuwarden (] , ] ), Stadsfries: \"Liwwadden\") is a city and municipality with a population of 108,249 in Friesland in the Netherlands.",
+            "Document 5 : [8]Foeke Booy (born 25 April 1962 in Leeuwarden) is a Dutch retired footballer and football manager."
+        ],
+        "gpt_support": [
+            "Leeuwarden is a city and municipality with a population of 108,249 in Friesland in the Netherlands."
+        ]
+    },
+    {
+        "data_number": "number #58",
+        "question": "Who was born at an earlier date, Ray McCarey or Martin Brest?",
+        "real_answer": "Raymond Benedict \"Ray\" McCarey",
+        "gpt_answer": "  Ray McCarey\n",
+        "real_support": [
+            "Document 2 : [4]Raymond Benedict \"Ray\" McCarey (September 6, 1904 – December 1, 1948) was an American film director.",
+            "Document 3 : [5]Martin Brest (born August 8, 1951) is an American film director, screenwriter, and producer."
+        ],
+        "gpt_support": [
+            "Ray McCarey was born on September 6, 1904, according to Document 2, while Martin Brest was born on August 8, 1951, according to Document 3."
+        ]
+    },
+    {
+        "data_number": "number #59",
+        "question": "Kochi 5s was led by which retired Spanish footballer?",
+        "real_answer": "Miguel Ángel \"Míchel\" Salgado Fernández",
+        "gpt_answer": "  Míchel Salgado\n",
+        "real_support": [
+            "Document 3 : [6] The team was led by Míchel Salgado, the Spanish football player.",
+            "Document 8 : [11]Miguel Ángel \"Míchel\" Salgado Fernández (born 22 October 1975) is a retired Spanish professional footballer who played as a right back."
+        ],
+        "gpt_support": [
+            "The team was led by Míchel Salgado, the Spanish football player."
+        ]
+    },
+    {
+        "data_number": "number #60",
+        "question": "Jacobo Morales and Jon Jost, share which mutual occupation?",
+        "real_answer": "filmmaker",
+        "gpt_answer": "  Filmmaker\n",
+        "real_support": [
+            "Document 4 : [7]Jacobo Morales (born 12 November 1934) is a Puerto Rican actor, poet, writer, playwright, filmmaker, and auteur.",
+            "Document 10 : [17]Jon Jost (born 16 May 1943 in Chicago) is an American independent filmmaker."
+        ],
+        "gpt_support": [
+            "Jacobo Morales is a Puerto Rican actor, poet, writer, playwright, filmmaker, and auteur.",
+            "Jon Jost is an American independent filmmaker."
+        ]
+    },
+    {
+        "data_number": "number #61",
+        "question": "Lucignolo starred which Italian actress and showgirl?",
+        "real_answer": "Claudia Gerini",
+        "gpt_answer": "  Claudia Gerini\n",
+        "real_support": [
+            "Document 1 : [1]Lucignolo is a 1999 Italian movie directed by and starring Massimo Ceccherini, with the inseparable Alessandro Paci and Claudia Gerini.",
+            "Document 6 : [6]Claudia Gerini (born 18 December 1971) is an Italian actress and showgirl."
+        ],
+        "gpt_support": [
+            "Document 1: Lucignolo is a 1999 Italian movie directed by and starring Massimo Ceccherini, with the inseparable Alessandro Paci and Claudia Gerini."
+        ]
+    },
+    {
+        "data_number": "number #62",
+        "question": "Who was born first, Xavier Malisse or Gene Mayer?",
+        "real_answer": "Gene Mayer",
+        "gpt_answer": "  Gene Mayer\n",
+        "real_support": [
+            "Document 8 : [12]Gene Mayer (born April 11, 1956) is a former tennis player from the United States who won 14 singles titles during his career.",
+            "Document 9 : [13]Xavier Malisse (born 19 July 1980) is Belgian retired professional tennis player."
+        ],
+        "gpt_support": [
+            "Gene Mayer was born on April 11, 1956, according to Document Xavier Malisse was born on July 19, 1980, based on Document 9."
+        ]
+    },
+    {
+        "data_number": "number #63",
+        "question": "Are the genuses Bromelia and Swainsona native to the same areas?",
+        "real_answer": "no",
+        "gpt_answer": "  No, the genus Bromelia and Swainsona are not native to the same areas.\n",
+        "real_support": [
+            "Document 1 : [1]Swainsona is a large genus of flowering plants native to Australasia.",
+            "Document 7 : [14] Bromelia species are widespread across much of Latin America and the West Indies, and are characterized by flowers with a deeply cleft calyx."
+        ],
+        "gpt_support": [
+            "Bromelia species are native to Latin America and the West Indies, while Swainsona species are native to Australasia."
+        ]
+    },
+    {
+        "data_number": "number #64",
+        "question": "Did Jon Jost and Sidney Olcott share the same nationality?",
+        "real_answer": "no",
+        "gpt_answer": "  No, Jon Jost and Sidney Olcott did not share the same nationality.\n",
+        "real_support": [
+            "Document 7 : [13]Sidney Olcott (September 20, 1872 – December 16, 1949) was a Canadian-born film producer, director, actor and screenwriter.",
+            "Document 8 : [14]Jon Jost (born 16 May 1943 in Chicago) is an American independent filmmaker."
+        ],
+        "gpt_support": [
+            "Sidney Olcott was a Canadian-born film producer, director, actor, and screenwriter, while Jon Jost was born in Chicago, making him an American independent filmmaker."
+        ]
+    },
+    {
+        "data_number": "number #65",
+        "question": "Which city is more populated, Bengbu or Chenzhou?",
+        "real_answer": "Chenzhou",
+        "gpt_answer": "  Chenzhou\n",
+        "real_support": [
+            "Document 4 : [5] Its administrative area covers 19317 km2 , 9.2% of the provincial area, and its total population reached 4,559,600 in 2001, 26% of them living in urban areas, 74% of them live in rural areas.",
+            "Document 5 : [7] Its built-up (\"or metro\") area made of 4 urban districts has nearly one million residents, though the Prefecture-level city under its jurisdiction had 3,164,467 registered residents at the 2010 census."
+        ],
+        "gpt_support": [
+            "Chenzhou's total population reached 4,559,600 in 2001, while Bengbu's Prefecture-level city under its jurisdiction had 3,164,467 registered residents at the 2010 census."
+        ]
+    },
+    {
+        "data_number": "number #66",
+        "question": "Are both Ralph Ceder and Norman Foster a film director?",
+        "real_answer": "yes",
+        "gpt_answer": "  Yes.\n",
+        "real_support": [
+            "Document 3 : [6]Ralph Carl Ceder (February 2, 1897 – November 29, 1951) was an American film director and writer.",
+            "Document 6 : [12]Norman Foster (born Norman Foster Hoeffer, December 13, 1903 – July 7, 1976) was an American actor, film director and screenwriter."
+        ],
+        "gpt_support": [
+            "Document 3 [6]: Ralph Carl Ceder was an American film director and writer.",
+            "Document 6 [12]: Norman Foster was an American actor, film director, and screenwriter."
+        ]
+    },
+    {
+        "data_number": "number #67",
+        "question": "An English crime writer wrote what type of novel in 2005?",
+        "real_answer": "psychological thriller",
+        "gpt_answer": "  Psychological thriller novel\n",
+        "real_support": [
+            "Document 2 : [2]The Devil's Feather is a 2005 psychological thriller novel by British author Minette Walters.",
+            "Document 4 : [4]Minette Walters (born 26 September 1949) is an English crime writer."
+        ],
+        "gpt_support": [
+            "The Devil's Feather is a 2005 psychological thriller novel by British author Minette Walters."
+        ]
+    },
+    {
+        "data_number": "number #68",
+        "question": " What other person besides retired Spanish professional footballer co-assistant coaches Manchester City with Brian Kidd?",
+        "real_answer": "Domènec Torrent",
+        "gpt_answer": "   Pep Guardiola\n",
+        "real_support": [
+            "Document 2 : [2]Mikel Arteta Amatriain (born 26 March 1982) is a retired Spanish professional footballer who played as a midfielder.",
+            "Document 9 : [11]Brian Kidd (born 29 May 1949) is an English football coach and former player, who is currently the co-assistant coach of Manchester City, alongside fellow co-assistants Mikel Arteta and Domènec Torrent, and manager Pep Guardiola."
+        ],
+        "gpt_support": [
+            "Brian Kidd is currently the co-assistant coach of Manchester City, alongside fellow co-assistants Mikel Arteta and Domènec Torrent, and manager Pep Guardiola.",
+            "[Reference: Document 2]"
+        ]
+    },
+    {
+        "data_number": "number #69",
+        "question": "How many singles titles on the ATP tour have been won by the person who replaced Teymuraz Gabashvili as inaugural champion?",
+        "real_answer": "eight",
+        "gpt_answer": "  8\n",
+        "real_support": [
+            "Document 1 : [1]Dominic Thiem became the inaugural champion when Teymuraz Gabashvili retired 7–6, 5–1.",
+            "Document 4 : [5] He has won eight singles titles on the ATP Tour."
+        ],
+        "gpt_support": [
+            "The person who replaced Teymuraz Gabashvili as the inaugural champion in the 2013 Morocco Tennis Tour - Kenitra - Singles was Dominic Thiem, who has won eight singles titles on the ATP Tour.",
+            "(Document 1, Document 4)"
+        ]
+    },
+    {
+        "data_number": "number #70",
+        "question": "Which sports event was hosted in St Louis, Missouri and was the first such event to be held outside of Europe a competitor of whom was Canadian amateur soccer player George Ducker?",
+        "real_answer": "1904 Summer Olympics",
+        "gpt_answer": "  1904 Summer Olympics\n",
+        "real_support": [
+            "Document 2 : [3] It was the first time that the Olympic Games were held outside Europe.",
+            "Document 3 : [4]George Ducker (September 27, 1871 – September 26, 1952) was a Canadian amateur soccer player who competed in the 1904 Summer Olympics."
+        ],
+        "gpt_support": [
+            "Document 2 [4] George Ducker (September 27, 1871 – September 26, 1952) was a Canadian amateur soccer player who competed in the 1904 Summer Olympics.",
+            "Document 2 [3] It was the first time that the Olympic Games were held outside Europe."
+        ]
+    },
+    {
+        "data_number": "number #71",
+        "question": "What year was the British lovers rock singer born, who has Movement 98 built around her vocals?",
+        "real_answer": "1960",
+        "gpt_answer": "  Carroll Thompson was born in 1960.\n",
+        "real_support": [
+            "Document 7 : [9]Carroll Thompson (born 1960) is a British lovers rock singer, best known for her work in the 1980s.",
+            "Document 10 : [13]Movement 98 was a Paul Oakenfold project on Circa Records, built around the vocals of Carroll Thompson, and also featuring input from Steve Osbourne and Rob Davis."
+        ],
+        "gpt_support": [
+            "Carroll Thompson (born 1960) is a British lovers rock singer, best known for her work in the 1980s."
+        ]
+    },
+    {
+        "data_number": "number #72",
+        "question": "Which is a genus to more specie of flowering plant, Arenaria or Aucuba?",
+        "real_answer": "Aucuba",
+        "gpt_answer": "  Arenaria\n",
+        "real_support": [
+            "Document 2 : [3]Aucuba is a genus of three to ten species of flowering plants, now placed in the family Garryaceae, although formerly classified in the Aucubaceae or Cornaceae.",
+            "Document 8 : [13]Arenaria is a genus of flowering plants, within the family Caryophyllaceae."
+        ],
+        "gpt_support": [
+            "Document 8: \"Arenaria is a genus of flowering plants, within the family Caryophyllaceae.\""
+        ]
+    },
+    {
+        "data_number": "number #73",
+        "question": "How many Golden Globes has the man who starred in \"The Confession\" alongside Alec Baldwin won?",
+        "real_answer": "two",
+        "gpt_answer": "  The man who starred in \"The Confession\" alongside Alec Baldwin, Ben Kingsley has won two Golden Globes.\n",
+        "real_support": [
+            "Document 2 : [2]The Confession is a 1999 American drama film directed by David Hugh Jones, starring Ben Kingsley and Alec Baldwin.",
+            "Document 9 : [12] He has won an Oscar, Grammy, BAFTA, two Golden Globes, and a Screen Actors Guild Award."
+        ],
+        "gpt_support": [
+            "Ben Kingsley has won an Oscar, Grammy, BAFTA, two Golden Globes, and a Screen Actors Guild Award."
+        ]
+    },
+    {
+        "data_number": "number #74",
+        "question": "Do Rika Hiraki and Mara Santangelo come from the same country?",
+        "real_answer": "no",
+        "gpt_answer": "  No, they do not come from the same country.\n",
+        "real_support": [
+            "Document 2 : [2]Rika Hiraki (Japanese: 平木 理化 , born 6 December 1971) is a former professional Japanese female tennis player.",
+            "Document 6 : [7]Mara Santangelo (born 28 June 1981) is a former professional tennis player from Italy."
+        ],
+        "gpt_support": [
+            "Document 2: Rika Hiraki is a former professional Japanese female tennis player.",
+            "Document 6: Mara Santangelo is a former professional tennis player from Italy."
+        ]
+    },
+    {
+        "data_number": "number #75",
+        "question": "The Grose River, a perennial river that is part of the Hawkesbury-Nepean catchment, the Nepean River, is a major perennial river, located in the south-west and west of Sydney, New South Wales, in which country?",
+        "real_answer": "Australia",
+        "gpt_answer": "  Australia\n",
+        "real_support": [
+            "Document 2 : [2]Nepean River (Aboriginal: Yandhai), is a major perennial river, located in the south-west and west of Sydney, New South Wales, Australia.",
+            "Document 9 : [11]The Grose River, a perennial river that is part of the Hawkesbury-Nepean catchment, is located in the Blue Mountains region of New South Wales, Australia."
+        ],
+        "gpt_support": [
+            "The Grose River, a perennial river that is part of the Hawkesbury-Nepean catchment, is located in the Blue Mountains region of New South Wales, Australia."
+        ]
+    },
+    {
+        "data_number": "number #76",
+        "question": "What is the capital of the country in which the Heteropsis elisi's habitat location?",
+        "real_answer": "Lomé",
+        "gpt_answer": "  Lomé\n",
+        "real_support": [
+            "Document 1 : [2] It is found in Guinea, Sierra Leone, Ivory Coast, Ghana, Togo and Tanzania.",
+            "Document 4 : [12] It extends south to the Gulf of Guinea, where its capital Lomé is located."
+        ],
+        "gpt_support": [
+            "Document 4 [12] \"It extends south to the Gulf of Guinea, where its capital Lomé is located.\""
+        ]
+    },
+    {
+        "data_number": "number #77",
+        "question": "What is special about 1961 Summer Universiade and Sofia, Bulgaria",
+        "real_answer": "international sporting event",
+        "gpt_answer": "  The 1961 Summer Universiade held in Sofia, Bulgaria was the first Universiade to feature the women's basketball tournament.\n",
+        "real_support": [
+            "Document 3 : [3]The 1961 Summer Universiade, also known as the II Summer Universiade, was an international sporting event for university students that took place in Sofia, Bulgaria.",
+            "Document 8 : [12] The city is at the foot of Vitosha Mountain in the western part of the country."
+        ],
+        "gpt_support": [
+            "The women's tournament was introduced at the 1961 Summer Universiade.",
+            "[7]"
+        ]
+    },
+    {
+        "data_number": "number #78",
+        "question": "What professional basketball player attended a coeducational high school in Albany, New York that was open to students of all faiths and plays for the Petrol Olimpija?",
+        "real_answer": "Talor Battle",
+        "gpt_answer": "  Talor Battle\n",
+        "real_support": [
+            "Document 9 : [18] He is from Albany, New York, and attended Bishop Maginn High School.",
+            "Document 10 : [20] It is coeducational and open to students of all faiths."
+        ],
+        "gpt_support": [
+            "In college, he played for Penn State Nittany Lions men's basketball team.",
+            "He is from Albany, New York, and attended Bishop Maginn High School."
+        ]
+    },
+    {
+        "data_number": "number #79",
+        "question": "In what Olympics did the greatest Great British yachtsman since Sir Aineslie, CBE, win silver?",
+        "real_answer": "1976 Montreal Olympics",
+        "gpt_answer": "  1976 Montreal Olympics\n",
+        "real_support": [
+            "Document 4 : [5]Sir Charles Benedict Ainslie, CBE (born 5 February 1977) is an English competitive sailor.",
+            "Document 7 : [10] He also won a silver medal at the 1976 Montreal Olympics in the same class to become Great Britain’s most successful Olympic yachtsman until Ben Ainslie overtook him with 3 gold medals and a silver medal at four different Olympic Games at the 2008 Beijing Olympics."
+        ],
+        "gpt_support": [
+            "He also won a silver medal at the 1976 Montreal Olympics in the same class to become Great Britain’s most successful Olympic yachtsman until Ben Ainslie overtook him with 3 gold medals and a silver medal at four different Olympic Games at the 2008 Beijing Olympics."
+        ]
+    },
+    {
+        "data_number": "number #80",
+        "question": "A Kiss of Shadows, the first novel in the Merry Gentry series, was created by an American writer born in this year?",
+        "real_answer": "1963",
+        "gpt_answer": "  1963\n",
+        "real_support": [
+            "Document 4 : [8]Laurell Kaye Hamilton (born February 19, 1963) is an American fantasy and romance writer.",
+            "Document 8 : [15]A Kiss of Shadows is the first novel in the Merry Gentry series by American writer Laurell K. Hamilton."
+        ],
+        "gpt_support": [
+            "Laurell Kaye Hamilton, the American writer of the Merry Gentry series, was born in 1963 as stated ."
+        ]
+    },
+    {
+        "data_number": "number #81",
+        "question": "The Lands of Cocklebie or Cocklebee formed an estate possessing a common border with many estates, including which lay within the feudal Baillerie of Cunninghame, near Stewarton, now East Ayrshire, Scotland?",
+        "real_answer": "Barony and castle of Corsehill",
+        "gpt_answer": "  Barony and Castle of Corsehill\n",
+        "real_support": [
+            "Document 2 : [2]The Lands of Cocklebie or Cocklebee formed an estate possessing a common border with the estates of Lainshaw, the Corsehill, and the town of Stewarton, East Ayrshire, Parish of Stewarton, Scotland.",
+            "Document 6 : [9]The old Barony and castle of Corsehill lay within the feudal Baillerie of Cunninghame, near Stewarton, now East Ayrshire, Scotland."
+        ],
+        "gpt_support": [
+            "The old Barony and castle of Corsehill lay within the feudal Baillerie of Cunninghame, near Stewarton, now East Ayrshire, Scotland."
+        ]
+    },
+    {
+        "data_number": "number #82",
+        "question": "Which of these screen writer/film directors was also an actor: Jacques Becker or Fred Olen Ray?",
+        "real_answer": "Fred Olen Ray",
+        "gpt_answer": "  Fred Olen Ray\n",
+        "real_support": [
+            "Document 4 : [9]Jacques Becker (] ; 15 September 1906 – 21 February 1960) was a French screenwriter and film director.",
+            "Document 9 : [16]Fred Olen Ray (born September 10, 1954) is an American film director, producer, screenwriter, actor, and cinematographer."
+        ],
+        "gpt_support": [
+            "Fred Olen Ray is an American film director, producer, screenwriter, actor, and cinematographer."
+        ]
+    },
+    {
+        "data_number": "number #83",
+        "question": "What is the population of the city where Lithuanian footballer Tomas Kančelskis was born?",
+        "real_answer": "133,900",
+        "gpt_answer": "  133,900\n",
+        "real_support": [
+            "Document 1 : [1]Tomas Kančelskis (born 19 August 1975 in Šiauliai) is a Lithuanian professional footballer currently playing KFK Šiauliai.",
+            "Document 5 : [9]Šiauliai (] ) is the fourth largest city in Lithuania, with a population of 133,900."
+        ],
+        "gpt_support": [
+            "Šiauliai is the fourth largest city in Lithuania, with a population of 133,(Document 5, [9])"
+        ]
+    },
+    {
+        "data_number": "number #84",
+        "question": "Which director was addressed by their abbreviated first name, Arline Burks Gant or Ray McCarey?",
+        "real_answer": "Raymond Benedict \"Ray\" McCarey",
+        "gpt_answer": "  Ray McCarey\n",
+        "real_support": [
+            "Document 3 : [5]Raymond Benedict \"Ray\" McCarey (September 6, 1904 – December 1, 1948) was an American film director.",
+            "Document 6 : [8]Arline Burks Gant is a director, actress and costume designer."
+        ],
+        "gpt_support": [
+            "Document 8 states, \"Free Eats is a 1932 \"Our Gang\" short comedy film directed by Ray McCarey.\""
+        ]
+    },
+    {
+        "data_number": "number #85",
+        "question": "What occupation is shared by Tom DiCillo and Danny Leiner?",
+        "real_answer": "film director",
+        "gpt_answer": "  Film director\n",
+        "real_support": [
+            "Document 3 : [3]Danny Leiner is a film director whose credits include \"The Great New Wonderful\", \"Harold & Kumar Go to White Castle\", \"Dude, Where's My Car?",
+            "Document 6 : [12]Thomas A. \"Tom\" DiCillo (born August 14, 1953) is an American film director, screenwriter and cinematographer."
+        ],
+        "gpt_support": [
+            "Danny Leiner is a film director whose credits include \"The Great New Wonderful\", \"Harold & Kumar Go to White Castle\", \"Dude, Where's My Car?",
+            "\", \"Layin' Low\", and \"Time Expired.\"",
+            "Tom DiCillo is an American film director, screenwriter, and cinematographer."
+        ]
+    },
+    {
+        "data_number": "number #86",
+        "question": "Gunnera manicata and Malope are both what?",
+        "real_answer": "plant",
+        "gpt_answer": "  Species of plants\n",
+        "real_support": [
+            "Document 6 : [14]Gunnera manicata, known as Brazilian giant-rhubarb giant rhubarb, or dinosaur food, is a species of flowering plant in the Gunneraceae family from Brazil.",
+            "Document 10 : [25] Of the three species, \"Malope trifida\" is often used as an ornamental plant."
+        ],
+        "gpt_support": [
+            "Gunnera manicata is a species of flowering plant in the Gunneraceae family from Brazil.",
+            "Malope trifida is a species of Malope native to the Western Mediterranean Region."
+        ]
+    },
+    {
+        "data_number": "number #87",
+        "question": "What is the capacity of the circuit that the 2003 FIA GT Magny-Cours 500km took place?",
+        "real_answer": "90,000",
+        "gpt_answer": "  90,000\n",
+        "real_support": [
+            "Document 2 : [3]Circuit de Nevers Magny-Cours, which has a capacity of 90,000, is a motor racing circuit located in central France, near the towns of Magny-Cours and Nevers, some 250 km (160 miles) from Paris.",
+            "Document 7 : [13] It took place at the Circuit de Nevers Magny-Cours, France, on April 27, 2003."
+        ],
+        "gpt_support": [
+            "Document 2 mentions, \"Circuit de Nevers Magny-Cours, which has a capacity of 90,000, is a motor racing circuit located in central France...\""
+        ]
+    },
+    {
+        "data_number": "number #88",
+        "question": "Juan Sebastián Cabal and John Lloyd play what sport?",
+        "real_answer": "tennis",
+        "gpt_answer": "  Tennis\n",
+        "real_support": [
+            "Document 9 : [11]Juan Sebastián Cabal (born 25 April 1986) is a Colombian professional tennis player.",
+            "Document 10 : [15]John Lloyd (born 27 August 1954) is a British former professional tennis player."
+        ],
+        "gpt_support": [
+            "Document 9 [11]: \"Juan Sebastián Cabal (born 25 April 1986) is a Colombian professional tennis player.\"",
+            "Document 10 [15]: \"John Lloyd (born 27 August 1954) is a British former professional tennis player.\""
+        ]
+    },
+    {
+        "data_number": "number #89",
+        "question": "Who was born earlier, George Stevens or Paul Andrew Williams?",
+        "real_answer": "George Cooper Stevens",
+        "gpt_answer": "  George Stevens\n",
+        "real_support": [
+            "Document 3 : [3]George Cooper Stevens (December 18, 1904 – March 8, 1975) was an American film director, producer, screenwriter and cinematographer.",
+            "Document 10 : [15]Paul Andrew Williams is a British film writer and director, born in Portsmouth, England in 1973."
+        ],
+        "gpt_support": [
+            "George Cooper Stevens was born on December 18, 1904, while Paul Andrew Williams was born in 1973."
+        ]
+    },
+    {
+        "data_number": "number #90",
+        "question": "Was Kristie Boogert or Alex O'Brien ranked higher as a singles player?",
+        "real_answer": "No. 30 in singles",
+        "gpt_answer": "  Alex O'Brien was ranked higher as a singles player.\n",
+        "real_support": [
+            "Document 1 : [2] He became the world No. 1 doubles player in May 2000 and was ranked as high as world No. 30 in singles in June 1997.",
+            "Document 10 : [13]She has not won any singles titles, but did win three titles in doubles."
+        ],
+        "gpt_support": [
+            "He became the world No.",
+            "30 in singles in June 1997."
+        ]
+    },
+    {
+        "data_number": "number #91",
+        "question": "50 Lekë (50 L) have a value of 50 Albanian lek, the lek is the official currency of Albania, and is subdivided into how many \"qindarka\" (singular \"qindarkë\"), although qindarka are no longer issued?",
+        "real_answer": "100",
+        "gpt_answer": "  100\n",
+        "real_support": [
+            "Document 9 : [20]50 Lekë (50 L) have a value of 50 Albanian lek.",
+            "Document 10 : [22] It is subdivided into 100 \"qindarka\" (singular \"qindarkë\"), although qindarka are no longer issued."
+        ],
+        "gpt_support": [
+            "It is subdivided into 100 \"qindarka\" (singular \"qindarkë\"), although qindarka are no longer issued.",
+            "(Document 10, [22])"
+        ]
+    },
+    {
+        "data_number": "number #92",
+        "question": "Scream 2 is the fifth studio album by German trance producer & DJ Markus Schulz, released on which date, by Armada Music?",
+        "real_answer": "21 February 2014",
+        "gpt_answer": "  21 February 2014\n",
+        "real_support": [
+            "Document 1 : [1]Scream 2 is the fifth studio album by German trance producer & DJ Markus Schulz, released on 21 February 2014 by Armada Music.",
+            "Document 4 : [4]Trance is a genre of electronic music that developed during the early 1990s, in Germany."
+        ],
+        "gpt_support": [
+            "Scream 2 is the fifth studio album by German trance producer & DJ Markus Schulz, released on 21 February 2014 by Armada Music.",
+            "(Document 1, [1])"
+        ]
+    },
+    {
+        "data_number": "number #93",
+        "question": "WereMaurice Elvey and Arthur Lubin both from the USA? ",
+        "real_answer": "no",
+        "gpt_answer": "  No, Maurice Elvey was not from the USA, while Arthur Lubin was from the USA.\n",
+        "real_support": [
+            "Document 1 : [1]Maurice Elvey (11 November 1887 – 28 August 1967) was the most prolific film director in British history.",
+            "Document 6 : [11]Arthur Lubin (July 25, 1898 – May 12, 1995) was an American film director and producer who directed several \"Abbott & Costello\" films, \"Phantom of the Opera\" (1943), the \"Francis the Talking Mule\" series and created the talking-horse TV series \"Mister Ed\"."
+        ],
+        "gpt_support": [
+            "Supporting fact for Maurice Elvey: Maurice Elvey was a British film director, as he was considered the most prolific film director in British history .",
+            "Supporting fact for Arthur Lubin: Arthur Lubin was an American film director and producer, known for directing various films and creating TV series in the USA ."
+        ]
+    },
+    {
+        "data_number": "number #94",
+        "question": "Martin Fisch is a Danish footballer who plays for FC Helsingør is the football part of the Danish sports club Elite 3000 Helsingør from Helsingør, the club plays in which location?",
+        "real_answer": "Danish Superliga",
+        "gpt_answer": "  FC Helsingør plays in the Danish Superliga.\n",
+        "real_support": [
+            "Document 3 : [4]Martin Fisch (born 26 January 1993) is a Danish footballer who plays for Helsingør.",
+            "Document 8 : [12] The club plays in the Danish Superliga."
+        ],
+        "gpt_support": [
+            "Document 8, [12] \"The club plays in the Danish Superliga.\""
+        ]
+    },
+    {
+        "data_number": "number #95",
+        "question": "Who is French, Henri Kontinen or Nathalie Dechy?",
+        "real_answer": "Nathalie Dechy",
+        "gpt_answer": "  Nathalie Dechy\n",
+        "real_support": [
+            "Document 1 : [1]Nathalie Dechy (born 21 February 1979) is a former professional tour tennis player from France.",
+            "Document 6 : [12]Henri Kontinen (] ; born 19 June 1990) is a Finnish tennis player."
+        ],
+        "gpt_support": [
+            "Nathalie Dechy (born 21 February 1979) is a former professional tour tennis player from France."
+        ]
+    },
+    {
+        "data_number": "number #96",
+        "question": "The N709 and N708 connect near which city in the Gelderland province?",
+        "real_answer": "Elburg",
+        "gpt_answer": "  Elburg\n",
+        "real_support": [
+            "Document 4 : [8]Elburg ( ) is a municipality and a city in the province of Gelderland, Netherlands.",
+            "Document 7 : [13]Provincial road N709 (N709) is a road connecting N708 in Biddinghuizen with N309 near Elburg."
+        ],
+        "gpt_support": [
+            "Provincial road N709 (N709) is a road connecting N708 in Biddinghuizen with N309 near Elburg."
+        ]
+    },
+    {
+        "data_number": "number #97",
+        "question": "Are Cymbidium and Pterocactus both in the Orchidaceae family?",
+        "real_answer": "no",
+        "gpt_answer": "  Yes, Cymbidium and Pterocactus are both in the Orchidaceae family.\n",
+        "real_support": [
+            "Document 2 : [4]Cymbidium , or boat orchid, is a genus of 52 evergreen species in the orchid family Orchidaceae.",
+            "Document 7 : [15]Pterocactus (from Greek \"pteron\", \"wing\", referring to the saucer-shaped seed of these plants) is a genus of the cactus family (Cactaceae), comprising 9 species."
+        ],
+        "gpt_support": [
+            "Fact 4: Cymbidium, or boat orchid, is a genus of 52 evergreen species in the orchid family Orchidaceae.",
+            "Fact 15: Pterocactus (from Greek \"pteron\", \"wing\", referring to the saucershaped seed of these plants) is a genus of the cactus family (Cactaceae), comprising 9 species."
+        ]
+    },
+    {
+        "data_number": "number #98",
+        "question": "What was the name of the TV series that one of the Hunley movie actors won an Emmy for?",
+        "real_answer": "Gotti",
+        "gpt_answer": "  Gotti\n",
+        "real_support": [
+            "Document 5 : [9] He is noted for an Emmy Award-winning role as mobster John Gotti in the 1996 HBO miniseries \"Gotti\".",
+            "Document 8 : [12]The Hunley is a 1999 television movie directed by John Gray and starring Armand Assante, Donald Sutherland, Alex Jennings, Michael Dolan and Christopher Bauer."
+        ],
+        "gpt_support": [
+            "He is noted for an Emmy Award-winning role as mobster John Gotti in the 1996 HBO miniseries \"Gotti\".",
+            "(Reference document: Armand Assante [9])"
+        ]
+    },
+    {
+        "data_number": "number #99",
+        "question": "Hyposmocoma fulvogriesa is endemic to Kauai, which is also know as what?",
+        "real_answer": "the \"Garden Isle\"",
+        "gpt_answer": "  Garden Isle\n",
+        "real_support": [
+            "Document 4 : [11] Known also as the \"Garden Isle\", Kauaʻ i lies 105 mi across the Kauaʻ i Channel, northwest of Oʻ ahu.",
+            "Document 6 : [17] It is endemic to Kauai."
+        ],
+        "gpt_support": [
+            "Known also as the \"Garden Isle\", Kauaʻi lies 105 mi across the Kauaʻi Channel, northwest of Oʻahu."
+        ]
+    },
+    {
+        "data_number": "number #100",
+        "question": "What profession do Fred Olen Ray and R. G. Springsteen have in common?",
+        "real_answer": "director",
+        "gpt_answer": "  Film directors\n",
+        "real_support": [
+            "Document 1 : [1]Fred Olen Ray (born September 10, 1954) is an American film director, producer, screenwriter, actor, and cinematographer.",
+            "Document 7 : [11]Robert G. Springsteen (September 8, 1904 – December 9, 1989) was an American director of Hollywood B movies and television shows."
+        ],
+        "gpt_support": [
+            "Document 1: Fred Olen Ray (born September 10, 1954) is an American film director, producer, screenwriter, actor, and cinematographer.",
+            "Document 11: Robert G. Springsteen (September 8, 1904 – December 9, 1989) was an American director of Hollywood B movies and television shows."
+        ]
+    }
+]

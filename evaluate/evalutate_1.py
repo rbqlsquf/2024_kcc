@@ -36,7 +36,7 @@ def calculate_similarity_score(correct_answer, guessed_answer):
     return normalized_score
 
 
-with open("output\experiment2\output_2_clean.json", "r", encoding="UTF8") as f:
+with open("output\experiment1\output_1_clean.json", "r", encoding="UTF8") as f:
     json_data = json.load(f)
 
 
@@ -46,7 +46,7 @@ support_score_b = 0
 support_score_c = 0
 total_similarity_score = 0
 
-with open("output_similarity_.txt", "w", encoding="UTF-8") as out_file:
+with open("output_similarity.txt", "w", encoding="UTF-8") as out_file:
     for data in json_data:
         data_number = data["data_number"]
         real_answer = data["real_answer"]
@@ -70,8 +70,9 @@ with open("output_similarity_.txt", "w", encoding="UTF-8") as out_file:
             support_score_c += 1
             print(data_number)
 
-    total_similarity_score = total_similarity_score / 101
+    total_similarity_score = total_similarity_score / 100
     out_file.write("total_similarity_score : {}\n".format(total_similarity_score))
+
 
 print(total_similarity_score)
 print(support_score)
