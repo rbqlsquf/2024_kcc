@@ -4,7 +4,7 @@ from tqdm import tqdm
 
 
 ## 대용량 json 파일 불러와 로드
-with open("output\experiment3\output_3_same_ex1.json", "r", encoding="UTF-8") as f:
+with open("output/experiment_few_shot/output_1.json", "r", encoding="UTF-8") as f:
     json_data = json.load(f)
 
 
@@ -54,5 +54,5 @@ for i, data in tqdm(enumerate(json_data)):
         "gpt_support": [],
     }
 
-with open("output\experiment3\output_3_clean_ex1.json", "w", encoding="UTF-8") as out_file:
+with open("output/experiment_few_shot/output_1_clean.json", "w", encoding="UTF-8") as out_file:
     json.dump(a, out_file, indent=4, ensure_ascii=False)
