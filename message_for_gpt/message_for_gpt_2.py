@@ -9,7 +9,7 @@ messages = [
 ]
 
 # gpt에 넣을 데이터 불러오기
-with open("new_hotpot.json", "r") as f:
+with open("data/test.json", "r") as f:
     json_data = json.load(f)
 
 a = []

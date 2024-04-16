@@ -8,9 +8,9 @@ def find_no_need_mention(text):
 
     pattern_1 = r"in Document \d"
     pattern_2 = r"\(Document \d+\)"
-    pattern_3 = r"Reference Document \d"
+    # pattern_3 = r"Reference Document \d"
     # pattern_4 = r"\d+\. "
-    pattern_5 = r"Document \d"
+    # pattern_5 = r"Document \d"
 
     clean_text = re.sub(pattern_1, "", text)
     clean_text = re.sub(pattern_2, "", clean_text)
@@ -23,7 +23,7 @@ def find_no_need_mention(text):
 
 
 ## 대용량 json 파일 불러와 로드
-with open("output/experiment1/output.json", "r", encoding="UTF-8") as f:
+with open("output/experiment2/output_re.json", "r", encoding="UTF-8") as f:
     json_data = json.load(f)
 
 
@@ -80,5 +80,5 @@ for i, data in tqdm(enumerate(json_data)):
         "gpt_support": [],
     }
 
-with open("output/experiment1/output_clean_1.json", "w", encoding="UTF-8") as out_file:
+with open("output/experiment2/output_re_clean.json", "w", encoding="UTF-8") as out_file:
     json.dump(a, out_file, indent=4, ensure_ascii=False)

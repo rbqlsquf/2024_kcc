@@ -26,7 +26,7 @@ if __name__ == "__main__":
     messages = [
         {
             "role": "system",
-            "content": "<Instruction>\nI would like to request you to make answer for the following question. The answer should be searched from the reference documents(some of which might be irrelevant).\nI also request you to provide the index of supporting fact of the answer. Supporting fact refers to a sentence that is necessary to infer the answer of the question. The number of supporting fact can be one or more.\nPlease provide answer and supporting fact index in the output format at the bottom.",
+            "content": "<Instruction>\nI would like to request you to make an answer for the following question. The answer should be searched from the reference documents (some of which might be irrelevant).\nI also request you to provide the index of supporting facts of the answer. Supporting fact refers to a sentence that is necessary to infer the answer of the question. The number of supporting facts can be one or more.\nPlease provide answer and supporting fact index in the output format at the bottom.",
         },
         {"role": "user", "content": "user query here (optional)"},
     ]
@@ -124,5 +124,5 @@ if __name__ == "__main__":
         a.append(json_writing)
         json_writing = {"context": [], "question": "", "real_answer": "", "supporting_fact": [], "gpt_answer": ""}
 
-    with open("output/experiment2/output_2.json", "w", encoding="UTF-8") as out_file:
+    with open("output/experiment2/output_re.json", "w", encoding="UTF-8") as out_file:
         json.dump(a, out_file, indent=4, ensure_ascii=False)

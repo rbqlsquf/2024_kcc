@@ -1,0 +1,335 @@
+[
+  {
+    "supporting_facts": [
+      ["Fred Olen Ray", 0],
+      ["R. G. Springsteen", 0]
+    ],
+    "level": "medium",
+    "question": "What profession do Fred Olen Ray and R. G. Springsteen have in common?",
+    "context": [
+      [
+        "Fred Olen Ray",
+        [
+          "Fred Olen Ray (born September 10, 1954) is an American film director, producer, screenwriter, actor, and cinematographer."
+        ]
+      ],
+      [
+        "Biohazard (film)",
+        [
+          "Biohazard is a 1985 science-fiction horror film directed by Fred Olen Ray and starring Aldo Ray and Angelique Pettyjohn."
+        ]
+      ],
+      [
+        "Bikini Cavegirl",
+        [
+          "Bikini Cavegirl (also known as Teenage Cavegirl) is a softcore pornographic film made by Fred Olen Ray under the pseudonyms \"Nicholas Medina\" and \"Sherman Scott\".",
+          " It has been described as \"a sexy makeover\", but not a remake, of Ray's earlier film, \"Dinosaur Island\".",
+          " It was released directly to video in 2004 under the title \"Teenage Cavegirl\", and is shown on cable as \"Bikini Cavegirl\"."
+        ]
+      ],
+      [
+        "Alien Dead",
+        [
+          "The Alien Dead is a 1980 American horror film directed by Fred Olen Ray.",
+          " Ray co-wrote the script with Martin Nicholas."
+        ]
+      ],
+      [
+        "The Brain Leeches",
+        [
+          "The Brain Leeches is a 1978 sci-fi film directed by Fred Olen Ray and starring Paul Jones, Marcia Scott & Ray Starr."
+        ]
+      ],
+      [
+        "Mom's Outta Sight",
+        [
+          "Mom's Outta Sight is a 1998 American film, starring Hannes Jaenicke, Mary Elizabeth McGlynn and Harrison Myers.",
+          " It was directed by Fred Olen Ray and written by Sean O'Bannon."
+        ]
+      ],
+      [
+        "R. G. Springsteen",
+        [
+          "Robert G. Springsteen (September 8, 1904 \u2013 December 9, 1989) was an American director of Hollywood B movies and television shows.",
+          " He was most often credited on screen as R. G. Springsteen."
+        ]
+      ],
+      [
+        "Billy Frankenstein",
+        [
+          "Billy Frankenstein is a 1998 horror-comedy movie directed by Fred Olen Ray and written by his wife Kim Ray."
+        ]
+      ],
+      [
+        "The Twin (2017 film)",
+        [
+          "The Twin is a horror TV movie directed by Fred Olen Ray and Max Derin, starring Brigid Brannagh and Louis Mandylor.",
+          " It premiered on Lifetime on January 6, 2017."
+        ]
+      ],
+      [
+        "Inferno (1997 film)",
+        [
+          "Inferno (also released with the title, Operation Cobra) is a 1997 feature film directed by Fred Olen Ray starring Don Wilson, Deepti Bhatnagar and R. Madhavan.",
+          " Evan Lurie, Michael Cavanaugh and Tan\u00e9 McClure appear in other pivotal roles.",
+          " Wilson plays the role of Interpol agent Kyle Connors on a mission set in India."
+        ]
+      ]
+    ],
+    "answer": "director",
+    "_id": "5ab322ed554299233954ff25",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      ["Holcus", 0],
+      ["Limonium", 0]
+    ],
+    "level": "medium",
+    "question": "Do both Holcus and Limonium belong to the same taxonomic category?",
+    "context": [
+      [
+        "Sigmurethra",
+        [
+          "Sigmurethra is a taxonomic category of air-breathing land snails and slugs, terrestrial pulmonate gastropod molluscs.",
+          " This is an informal group which includes the majority of land snails and slugs."
+        ]
+      ],
+      [
+        "Helleborine",
+        [
+          "Helleborine is the common name for a number of species of orchid.",
+          " It does not correspond to any currently used taxonomic category.",
+          " Some of the plants called helleborines are classified in the genus \"Epipactis\", some in genus \"Cephalanthera\".",
+          " A genus \"Helleborine\" was formerly recognised but has now been absorbed into the Grass pink genus \"Calapogon\"."
+        ]
+      ],
+      [
+        "Heterostropha",
+        [
+          "Heterostropha was a previously used taxonomic category, an order of sea snails, within the superorder Heterobranchia.",
+          " In the most current gastropod taxonomy, that of Bouchet & Rocroi, this taxon is no longer in use."
+        ]
+      ],
+      [
+        "Aptera",
+        [
+          "Aptera is an obsolete taxonomic category, which included the Apterygota along with various other wingless arthropods."
+        ]
+      ],
+      [
+        "Gammaridae",
+        [
+          "Gammaridae is a family of amphipods.",
+          " In North America they are included among the folk taxonomic category of \"scuds\", and otherwise gammarids is usually used as a common name."
+        ]
+      ],
+      [
+        "Holcus",
+        [
+          "Holcus (soft-grass or velvetgrass) is a genus of African and Eurasian plants in the oat tribe within the grass family."
+        ]
+      ],
+      [
+        "Eogastropoda",
+        [
+          "Eogastropoda was a previously used taxonomic category of snails or gastropods, a subclass which was erected by Ponder and Lindberg in 1997.",
+          " It was one of two great divisions (subclasses) of the class Gastropoda, the snails.",
+          " The other subclass of gastropods was the Orthogastropoda."
+        ]
+      ],
+      [
+        "Limonium",
+        [
+          "Limonium is a genus of 120 flowering plant species.",
+          " Members are also known as sea-lavender, statice, caspia or marsh-rosemary.",
+          " Despite their common names, species are not related to the lavenders or to rosemary.",
+          " They are instead in Plumbaginaceae, the plumbago or leadwort family."
+        ]
+      ],
+      [
+        "Cladorhiza segonzaci",
+        [
+          "Cladorhiza segonzaci is a species of sponge in the taxonomic category of Demospongiae.",
+          " The body of the sponge consists of a spicule and fibers and is water absorbent."
+        ]
+      ],
+      [
+        "Cladorhiza inversa",
+        [
+          "Cladorhiza inversa is a species of sponge in the taxonomic category of Demospongiae.",
+          " The body of the sponge consists of a spicule and fibers and is water absorbent."
+        ]
+      ]
+    ],
+    "answer": "yes",
+    "_id": "5ade181c5542997545bbbe4f",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      ["Wittrockia", 0],
+      ["Aristotelia (plant)", 0]
+    ],
+    "level": "medium",
+    "question": "To which taxonomic category do both Wittrockia and Aristotelia belong?",
+    "context": [
+      [
+        "Wittrockia",
+        [
+          "Wittrockia is a genus of the botanical family Bromeliaceae, subfamily Bromelioideae."
+        ]
+      ],
+      [
+        "Cladorhiza inversa",
+        [
+          "Cladorhiza inversa is a species of sponge in the taxonomic category of Demospongiae.",
+          " The body of the sponge consists of a spicule and fibers and is water absorbent."
+        ]
+      ],
+      [
+        "Heterostropha",
+        [
+          "Heterostropha was a previously used taxonomic category, an order of sea snails, within the superorder Heterobranchia.",
+          " In the most current gastropod taxonomy, that of Bouchet & Rocroi, this taxon is no longer in use."
+        ]
+      ],
+      [
+        "Cladorhiza segonzaci",
+        [
+          "Cladorhiza segonzaci is a species of sponge in the taxonomic category of Demospongiae.",
+          " The body of the sponge consists of a spicule and fibers and is water absorbent."
+        ]
+      ],
+      [
+        "Helleborine",
+        [
+          "Helleborine is the common name for a number of species of orchid.",
+          " It does not correspond to any currently used taxonomic category.",
+          " Some of the plants called helleborines are classified in the genus \"Epipactis\", some in genus \"Cephalanthera\".",
+          " A genus \"Helleborine\" was formerly recognised but has now been absorbed into the Grass pink genus \"Calapogon\"."
+        ]
+      ],
+      [
+        "Gammaridae",
+        [
+          "Gammaridae is a family of amphipods.",
+          " In North America they are included among the folk taxonomic category of \"scuds\", and otherwise gammarids is usually used as a common name."
+        ]
+      ],
+      [
+        "Eogastropoda",
+        [
+          "Eogastropoda was a previously used taxonomic category of snails or gastropods, a subclass which was erected by Ponder and Lindberg in 1997.",
+          " It was one of two great divisions (subclasses) of the class Gastropoda, the snails.",
+          " The other subclass of gastropods was the Orthogastropoda."
+        ]
+      ],
+      [
+        "Aristotelia (plant)",
+        [
+          "Aristotelia is a genus with 18 species, of tree in the family Elaeocarpaceae.",
+          " It is named in honor of the Greek philosopher Aristoteles."
+        ]
+      ],
+      [
+        "Aptera",
+        [
+          "Aptera is an obsolete taxonomic category, which included the Apterygota along with various other wingless arthropods."
+        ]
+      ],
+      [
+        "Sigmurethra",
+        [
+          "Sigmurethra is a taxonomic category of air-breathing land snails and slugs, terrestrial pulmonate gastropod molluscs.",
+          " This is an informal group which includes the majority of land snails and slugs."
+        ]
+      ]
+    ],
+    "answer": "genus",
+    "_id": "5ae1162f55429901ffe4ad6d",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      ["Recilia dispar", 0],
+      ["Liberia", 2]
+    ],
+    "level": "medium",
+    "question": "What is the population of the country that the Recilia dispar is endemic to?",
+    "context": [
+      [
+        "Recilia variabilis",
+        [
+          "Recilia variabilis is a species of bug from the Cicadellidae family that is endemic to India."
+        ]
+      ],
+      [
+        "Dead Sea toothcarp",
+        [
+          "The Dead Sea toothcarp (Aphanius dispar richardsoni) is a subspecies of the Arabian toothcarp that is endemic to the Dead Sea basin.",
+          " It is threatened by water fluctuation, and the introduction of cichlids and \"Gambusia\"."
+        ]
+      ],
+      [
+        "Recilia veinatus",
+        [
+          "Recilia veinatus is a species of bug from the Cicadellidae family that is endemic to India."
+        ]
+      ],
+      [
+        "Arabian toothcarp",
+        [
+          "The Arabian toothcarp (\"Aphanius dispar\") is a species of killifish belonging to the family Cyprinodontidae.",
+          " It can be found from the shores of the Red Sea south to Ethiopia, the Gulf of Aden, the Arabian Sea and along the Persian Gulf east to Pakistan and India.",
+          " It is also found in the Suez Canal, the northern coast of the Sinai Peninsula, and in one location on the Israeli coast.",
+          " There are two recognized subspecies: \"A. d. dispar\" found throughout the range, and \"A. d. richardsoni\", the Dead Sea toothcarp endemic to the Dead Sea."
+        ]
+      ],
+      [
+        "Recilia truncatus",
+        [
+          "Recilia truncatus is a species of bugs from Cicadellidae family that is endemic to India."
+        ]
+      ],
+      [
+        "Recilia variegata",
+        [
+          "Recilia variegata is a species of bug from the Cicadellidae family that is endemic to Kuril Islands."
+        ]
+      ],
+      [
+        "Recilia xenthocephalus",
+        [
+          "Recilia xenthocephalus is a species of bug from the Cicadellidae family that is endemic to India."
+        ]
+      ],
+      [
+        "Carposina dispar",
+        [
+          "Carposina dispar is a moth of the Carposinidae family.",
+          " It is endemic to Hawaii."
+        ]
+      ],
+      [
+        "Liberia",
+        [
+          "Liberia , officially the Republic of Liberia, is a country on the West African coast.",
+          " It is bordered by Sierra Leone to its west, Guinea to its north and Ivory Coast to its east.",
+          " It covers an area of 111369 km2 and has a population of 4,503,000 people.",
+          " English is the official language and over 20 indigenous languages are spoken, representing the numerous tribes who make up more than 95% of the population.",
+          " The country's capital and largest city is Monrovia."
+        ]
+      ],
+      [
+        "Recilia dispar",
+        [
+          "Recilia dispar is a species of bug from the Cicadellidae family that is endemic to Liberia."
+        ]
+      ]
+    ],
+    "answer": "4,503,000",
+    "_id": "5a8623e1554299211dda2a82",
+    "type": "bridge"
+  }
+]
