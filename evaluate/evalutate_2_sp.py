@@ -53,10 +53,10 @@ def eval(file):
     N = len(json_data)
     for k in metrics.keys():
         metrics[k] /= N
-    with open("output\experiment2\output_f1.txt", "w", encoding="UTF-8") as out_file:
+    with open("output/experiment2/output_f1.txt", "w", encoding="UTF-8") as out_file:
         out_file.write(json.dumps(metrics, indent=4))
         print(metrics)
 
 
 if __name__ == "__main__":
-    eval("output\experiment2\output_2_clean.json")
+    eval("output/experiment2/output_clean.json")

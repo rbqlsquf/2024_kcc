@@ -93,5 +93,5 @@ for i, data in enumerate(json_data):
     a.append(json_writing)
     json_writing = {"context": [], "question": "", "real_answer": "", "supporting_fact": [], "gpt_answer": ""}
 
-with open("output_gpt_test.json", "w", encoding="UTF-8") as out_file:
-    json.dump(a, out_file, indent=4, ensure_ascii=False)
+# with open("output_gpt_test.json", "w", encoding="UTF-8") as out_file:
+#     json.dump(a, out_file, indent=4, ensure_ascii=False)

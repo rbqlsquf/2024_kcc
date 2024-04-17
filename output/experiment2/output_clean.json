@@ -798,13 +798,5 @@
     "gpt_answer": "  Garden Isle\n",
     "real_support": ["11", "17"],
     "gpt_support": ["11"]
-  },
-  {
-    "data_number": "number #100",
-    "question": "What profession do Fred Olen Ray and R. G. Springsteen have in common?",
-    "real_answer": "director",
-    "gpt_answer": "  Film directors\n",
-    "real_support": ["1", "11"],
-    "gpt_support": ["1", "6", "9", "14"]
   }
 ]

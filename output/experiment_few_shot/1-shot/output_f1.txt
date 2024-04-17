@@ -21,7 +21,7 @@ number #number #19 em : 0 f1 : 0.57
 number #number #20 em : 0 f1 : 0.6666666666666666
 number #number #21 em : 1.0 f1 : 1.0
 number #number #22 em : 1.0 f1 : 1.0
-number #number #23 em : 0 f1 : 0.59
+number #number #23 em : 0 f1 : 0.3177464788732394
 number #number #24 em : 0 f1 : 0.26666666666666666
 number #number #25 em : 1.0 f1 : 1.0
 number #number #26 em : 0 f1 : 0.42999999999999994
@@ -101,6 +101,6 @@ number #number #99 em : 0 f1 : 0.4133333333333334
 
 
 
-total_f1 : 0.6901865154371454
-total_recall : 0.6729000000000002
-total_precision : 0.7801000000000002
+total_f1 : 0.6874639802258778
+total_recall : 0.6694000000000001
+total_precision : 0.7789000000000001
