@@ -51,7 +51,9 @@
       "[5] Eastern Kentucky University, commonly referred to as Eastern or EKU, is a regional comprehensive institution located in Richmond, Kentucky."
     ],
     "gpt_support": [
-      "Eastern Kentucky University, commonly referred to as Eastern or EKU, is a regional comprehensive institution located in Richmond, Kentucky."
+      "Eastern Kentucky University, commonly referred to as Eastern or EKU, is a regional comprehensive institution located in Richmond, Kentucky.",
+      "Chrissie Roberts (born December 25, 1975) is an American college basketball coach and the current women's head coach at Eastern Kentucky University (EKU) in Richmond, Kentucky.",
+      "The EKU Colonels are members of the Ohio Valley Conference (OVC) and compete in the NCAA's Division I."
     ]
   },
   {
@@ -78,8 +80,7 @@
       "[7] The Canton of Thurgau (German:    , anglicized as Thurgovia) is a northeast canton of Switzerland."
     ],
     "gpt_support": [
-      "Horn is a municipality in the district of Arbon in the canton of Thurgau in Switzerland.",
-      "The Canton of Thurgau (German:    , anglicized as Thurgovia) is a northeast canton of Switzerland."
+      "Horn is a municipality in the district of Arbon in the canton of Thurgau in Switzerland."
     ]
   },
   {
@@ -100,7 +101,7 @@
     "data_number": "number #7",
     "question": "What are both Redbook and Home Monthly?",
     "real_answer": "magazine",
-    "gpt_answer": "women's magazine",
+    "gpt_answer": "women's magazines",
     "real_support": [
       "[4] Home Monthly was a monthly women's magazine published in Pittsburgh, Pennsylvania in the late 19th century.",
       "[9] Redbook is an American women's magazine published by the Hearst Corporation."
@@ -123,8 +124,8 @@
       "Manettia is a genus of flowering plants in the family Rubiaceae.",
       "There are between 80 and 123 species.",
       "They are distributed in the West Indies, Mexico, and Central and South America.",
-      "Most are vines.",
-      "Manettia teresitae, Manettia nubigena, Manettia stenocalyx, Manettia nebulosa, Manettia holwayi, Manettia skutchii, Manettia lilacina, and Manettia pichinchensis are some of the species in the Manettia genus, all of which are endemic to Ecuador."
+      "Leucophyllum is a genus of evergreen shrubs in the figwort family, Scrophulariaceae, native to the southwestern United States and Mexico.",
+      "It only has a dozen-odd species."
     ]
   },
   {
@@ -137,8 +138,7 @@
       "[8] The State Transit Authority, also referred to as State Transit or STA, is an agency of the Government of New South Wales operating bus services in Sydney."
     ],
     "gpt_support": [
-      "Brookvale Bus Depot is a bus depot in the Sydney suburb of Brookvale operated by Sydney Buses.",
-      "Sydney Buses is operated by the State Transit Authority"
+      "Brookvale Bus Depot is a bus depot in the Sydney suburb of Brookvale operated by Sydney Buses."
     ]
   },
   {
@@ -151,8 +151,7 @@
       "[6] Diphylleia is a group of small herbs in the Berberidaceae family described as a genus in 1803."
     ],
     "gpt_support": [
-      "Diphylleia is a group of small herbs in the Berberidaceae family described as a genus in 1803.",
-      "It is native to the eastern United States and eastern Asia."
+      "Diphylleia is a group of small herbs in the Berberidaceae family described as a genus in 1803."
     ]
   },
   {
@@ -180,7 +179,6 @@
     ],
     "gpt_support": [
       "Firmiana (parasoltree) is a genus of flowering plant in the Malvaceae family, formerly placed in the now defunct Sterculiaceae.",
-      "Genus name honors Karl Joseph von Firmian.",
       "Petasites is a genus of flowering plants in the sunflower family, Asteraceae, that are commonly referred to as butterburs and coltsfoots."
     ]
   },
@@ -193,7 +191,10 @@
       "[4]  Owned by Jay Penske since 2015, it is a brand of the Penske Media Corporation.",
       "[8]  Penske was born in New York City."
     ],
-    "gpt_support": ["Jay Penske was born in New York City."]
+    "gpt_support": [
+      "Jay Penske is an American media and publishing entrepreneur.",
+      "Penske was born in New York City."
+    ]
   },
   {
     "data_number": "number #14",
@@ -205,10 +206,8 @@
       "[7] William Nigh (October 12, 1881 – November 27, 1955) was an American film director, writer, and actor."
     ],
     "gpt_support": [
-      "William Nigh (October 12, 1881 – November 27, 1955) was an American film director, writer, and actor.",
-      "His film work sometimes lists him as either \"Will Nigh\" or \"William Nye.\"",
       "Brian Levine (born November 22, 1963), best known as Brian Robbins, is an American actor, film director, film producer, television director, television producer and occasional screenwriter.",
-      "He often collaborates with producer Michael Tollin."
+      "William Nigh (October 12, 1881 – November 27, 1955) was an American film director, writer, and actor."
     ]
   },
   {
@@ -305,7 +304,7 @@
     ],
     "gpt_support": [
       "Swainsonia is a genus of sea snails, marine gastropod mollusks in the family Mitridae.",
-      "Leucocoryne is a genus of bulbous perennials in the family Amaryllidaceae."
+      "Leucocoryne (Glory-of-the-sun) is a genus of bulbous perennials in the family Amaryllidaceae."
     ]
   },
   {
@@ -318,21 +317,21 @@
       "[5] Robin White (born December 10, 1963) is a former professional tennis player from the United States."
     ],
     "gpt_support": [
-      "Robin White was born on December 10, 1963.",
-      "Victor Amaya was born on July 2, 1954."
+      "Victor Amaya (born July 2, 1954 in Denver) is a former American male professional tour tennis player.",
+      "Robin White (born December 10, 1963) is a former professional tennis player from the United States."
     ]
   },
   {
     "data_number": "number #23",
     "question": "While Saša Lukić is a professional footballer, what is Levante UD?",
     "real_answer": "Spanish football club",
-    "gpt_answer": "Levante UD is a Spanish football club based in Valencia, in the namesake community.",
+    "gpt_answer": "",
     "real_support": [
       "[3] Saša Lukić (Serbian Cyrillic: Саша Лукић; born 13 August 1996) is a Serbian professional footballer who plays as a midfielder for Spanish club Levante UD on loan from Torino.",
       "[10] Levante Unión Deportiva, S.A.D. (] , ] ) is a Spanish football club based in Valencia, in the namesake community."
     ],
     "gpt_support": [
-      "Levante Unión Deportiva, S.A.D. (] , ] ) is a Spanish football club based in Valencia, in the namesake community."
+      "Levante UD is a Spanish football club based in Valencia, in the namesake community."
     ]
   },
   {
@@ -359,8 +358,8 @@
       "[7] Tuberaria is a genus of about 12 species of annual or perennial plants in the rockrose family Cistaceae, native to western and southern Europe."
     ],
     "gpt_support": [
-      "The flowering plant genus Ipheion (starflower, spring starflower) belongs to Allioideae subfamily of the Amaryllidaceae family.",
-      "Tuberaria is a genus of about 12 species of annual or perennial plants in the rockrose family Cistaceae, native to western and southern Europe."
+      "Ipheion (starflower, spring starflower) belongs to Allioideae subfamily of the Amaryllidaceae family.",
+      "Tuberaria is a genus of plants in the rockrose family Cistaceae, native to western and southern Europe."
     ]
   },
   {
@@ -373,8 +372,8 @@
       "[9] Byron Black (born 6 October 1969 in Harare, Zimbabwe) is a former touring professional tennis and Davis Cup player for Zimbabwe."
     ],
     "gpt_support": [
-      "Byron Black was born on October 6, 1969.",
-      "Balázs Taróczy was born on May 9, 1954."
+      "Byron Black (born 6 October 1969 in Harare, Zimbabwe) is a former touring professional tennis and Davis Cup player for Zimbabwe.",
+      "Balázs Taróczy (Hungarian: \"Taróczy Balázs\" ; born 9 May 1954) is a retired tennis player from Hungary, who won thirteen singles titles in his career."
     ]
   },
   {
@@ -388,7 +387,6 @@
     ],
     "gpt_support": [
       "Marc Rosset (born 7 November 1970) is a former professional tennis player from Switzerland who is best remembered for winning the men's singles gold medal at the 1992 Olympic Games.",
-      "He also won one Grand Slam doubles title at the French Open in 1992 partnering compatriot Jakob Hlasek.",
       "Alex O'Brien (born March 7, 1970 in Amarillo, Texas) is a retired professional tennis player from the United States, who competed on the ATP Tour."
     ]
   },
@@ -402,7 +400,7 @@
       "[8] Stephen Huss (born 10 December 1975), is a former professional tennis player from Australia."
     ],
     "gpt_support": [
-      "Andrei Stanislavovich Olhovskiy (Russian: Андрей Станиславович Ольховский) (born 15 April 1966) is a former tennis player from Russia, who turned professional in 1989.",
+      "Andrei Stanislavovich Olhovskiy (Russian: Андрей Станиславович Ольховский ) (born 15 April 1966) is a former tennis player from Russia, who turned professional in 1989.",
       "Stephen Huss (born 10 December 1975), is a former professional tennis player from Australia."
     ]
   },
@@ -416,7 +414,7 @@
       "[6]  He has also designed game content for Wolfgang Baur's Kobold Press (formerly Open Design LLC)."
     ],
     "gpt_support": [
-      "Matt James has also designed game content for Wolfgang Baur's Kobold Press (formerly Open Design LLC)."
+      "He has also designed game content for Wolfgang Baur's Kobold Press (formerly Open Design LLC)."
     ]
   },
   {
@@ -464,7 +462,7 @@
     "data_number": "number #33",
     "question": "What was the birth daye of an Italian-German footballer who plays for a reserve team at Stadion Rote Erde?",
     "real_answer": "17 January 1986",
-    "gpt_answer": "27 November 1983",
+    "gpt_answer": "Salvatore Gambino (born 27 November 1983)",
     "real_support": [
       "[2]  It plays in the Regionalliga, at Stadion Rote Erde.",
       "[9] Massimo Ornatelli (born 17 January 1986) is an Italian-German footballer who plays for Borussia Dortmund II."
@@ -486,8 +484,7 @@
     "gpt_support": [
       "Menno Oosting (17 May 1964 – 22 February 1999) was a professional tennis player from the Netherlands, who won seven ATP Tour doubles titles out of 18 finals in his career.",
       "Travis Parrott (born August 16, 1980 in Portland, Oregon) is an American professional ATP tennis doubles player.",
-      "He is primarily a doubles specialist.",
-      "Travis is the son of Brian Parrott, a pro tennis organizer who helped bring a pair of Davis Cup events to Portland in the 1980s."
+      "He is primarily a doubles specialist."
     ]
   },
   {
@@ -500,9 +497,8 @@
       "[10]  The genus has two species, one found in north-east Asia (Japan and Russian Far East), the other in north-west America (Aleutians to Santa Cruz County in California)."
     ],
     "gpt_support": [
-      "Aechmea is a genus in the botanical family Bromeliaceae, subfamily Bromelioideae.",
-      "The genus \"Aechmea\" has 255 species distributed from Mexico through South America.",
-      "Lysichiton, on the other hand, is a genus in the family Araceae and has only two species."
+      "Aechmea has 255 species distributed from Mexico through South America.",
+      "Lysichiton, on the other hand, has only two species."
     ]
   },
   {
@@ -533,8 +529,8 @@
       "[10] Herbert Blaché (5 October 1882 – 23 October 1953) was a British-born American film director, producer and screenwriter, born of a French mother."
     ],
     "gpt_support": [
-      "Herbert Blaché was a British-born American film director, producer, and screenwriter.",
-      "Jaap Speyer was a Dutch film director."
+      "Jaap Speyer (1891–1952) was a Dutch film director.",
+      "Herbert Blaché (5 October 1882 – 23 October 1953) was a British-born American film director, producer and screenwriter, born of a French mother."
     ]
   },
   {
@@ -574,7 +570,9 @@
       "[7] Pileostegia is a genus of 4 species of flowering plants in the family Hydrangeaceae, native to India and eastern Asia."
     ],
     "gpt_support": [
-      "Pileostegia is a genus of 4 species of flowering plants in the family Hydrangeaceae, native to India and eastern Asia."
+      "Pileostegia is a genus of 4 species of flowering plants in the family Hydrangeaceae, native to India and eastern Asia.",
+      "Billbergia is a genus of flowering plants in the family Bromeliaceae, subfamily Bromelioideae.",
+      "The genus is native to forest and scrub, up to an altitude of 1,700 m, in southern Mexico, the West Indies, Central America and South America, with many species endemic to Brazil."
     ]
   },
   {
@@ -594,7 +592,7 @@
     "data_number": "number #42",
     "question": "Whiting is an unincorporated community in Mississippi County, in the U.S. state of Missouri, a U.S. state is a constituent political entity of which entity?",
     "real_answer": "United States of America",
-    "gpt_answer": "United States of America",
+    "gpt_answer": "The United States of America",
     "real_support": [
       "[6] A U.S. state is a constituent political entity of the United States of America.",
       "[9] Whiting is an unincorporated community in Mississippi County, in the U.S. state of Missouri."
@@ -613,7 +611,7 @@
       "[8] The 1981 Furman Paladins football team represented the Furman Paladins of Furman University during the 1981 college football season."
     ],
     "gpt_support": [
-      "The 1981 Furman Paladins football team represented the Furman Paladins of Furman University during the 1981 college football season."
+      "The 1981 Furman Paladins football team represented the Furman Paladins of Furman University, located in Greenville, South Carolina, during the 1981 college football season."
     ]
   },
   {
@@ -626,8 +624,8 @@
       "[10] Javier Alberto Frana (born 25 December 1966) is a former tennis player from Argentina and current tennis commentator for ESPN Latin America."
     ],
     "gpt_support": [
-      "Pavel Složil (born 29 December 1955) is a former professional tennis player from Czechoslovakia.",
-      "Javier Alberto Frana (born 25 December 1966) is a former tennis player from Argentina and current tennis commentator for ESPN Latin America."
+      "Javier Alberto Frana (born 25 December 1966) is a former tennis player from Argentina and current tennis commentator for ESPN Latin America.",
+      "Pavel Složil (born 29 December 1955) is a former professional tennis player from Czechoslovakia."
     ]
   },
   {
@@ -640,7 +638,8 @@
       "[6]  He is best known for his roles in \"The Classic\" (2003), \"Tale of Cinema\" (2005), \"A Love to Kill\" (2005), and \"Flower Boy Ramyun Shop\" (2011)."
     ],
     "gpt_support": [
-      "The Classic () is a 2003 South Korean romance melodrama film directed by Kwak Jae-yong."
+      "The Classic (2003) is a South Korean romance melodrama film directed by Kwak Jae-yong.",
+      "Lee Ki-woo is best known for his role in \"The Classic\" (2003)."
     ]
   },
   {
@@ -667,7 +666,7 @@
       "[3] Thin White Rope was an American rock band fronted by Guy Kyser and related to the desert rock and Paisley Underground subgenres."
     ],
     "gpt_support": [
-      "Thin White Rope was an American rock band fronted by Guy Kyser and related to the desert rock and Paisley Underground subgenres.",
+      "Thin White Rope was an American rock band fronted by Guy Kyser.",
       "Eve's Plum was an American New York City-based alternative rock band."
     ]
   },
@@ -722,8 +721,7 @@
     ],
     "gpt_support": [
       "Tom Riley (born 5 April 1981) is an English actor and producer.",
-      "Magik is an upcoming animated fantasy film written, produced and directed by Stephen Wallis.",
-      "It will feature the voices of Benedict Cumberbatch, Matthew Goode, Samantha Morton, Dominique Swain, Jim Broadbent, Tom Riley, Enzo Cilenti, Jimmy Carr and Jake Raymond."
+      "Magik, the upcoming animated fantasy film, will feature his voice."
     ]
   },
   {
@@ -736,7 +734,7 @@
       "[2] Emmanuel Afriyie Mario Sabbi (born December 24, 1997) is an American professional soccer player who plays as forward for Hobro IK in the Danish Superliga."
     ],
     "gpt_support": [
-      "Hobro IK is a Danish football club currently playing in the Danish Superliga."
+      "Emmanuel Afriyie Mario Sabbi plays as a forward for Hobro IK in the Danish Superliga."
     ]
   },
   {
@@ -776,15 +774,15 @@
       "[7] Harry L. Fraser (31 March 1889 – 8 April 1974) was an American film director."
     ],
     "gpt_support": [
-      "Harry L. Fraser (31 March 1889 – 8 April 1974) was an American film director.",
-      "Pedro Sienna (13 May 1893—20 March 1972) was a Chilean playwright, poet, journalist, art critic and theatre and movie actor who is also remembered as one of his country's pioneering directors in the early years of silent film."
+      "Pedro Sienna was a Chilean playwright, poet, journalist, art critic, and theatre and movie actor who is also remembered as one of his country's pioneering directors in the early years of silent film.",
+      "Harry L. Fraser was an American film director who directed over 80 films between 1925 and 1951."
     ]
   },
   {
     "data_number": "number #56",
     "question": "Iosefo Verevou, is a Fijian footballer who plays as a forward, are the players on an association football team who play nearest to the opposing team's goal, and are therefore most responsible for scoring goals, for which organization, in the Fiji National Football League?",
     "real_answer": "Rewa",
-    "gpt_answer": "Fijian club Rewa in the Fiji National Football League",
+    "gpt_answer": "Rewa",
     "real_support": [
       "[2] Forwards are the players on an association football team who play nearest to the opposing team's goal, and are therefore most responsible for scoring goals.",
       "[9] Iosefo Verevou (born 5 January 1996) is a Fijian footballer who plays as a forward for Rewa in the Fiji National Football League."
@@ -803,7 +801,8 @@
       "[5] Foeke Booy (born 25 April 1962 in Leeuwarden) is a Dutch retired footballer and football manager."
     ],
     "gpt_support": [
-      "Leeuwarden (] , ] ), Stadsfries: \"Liwwadden\") is a city and municipality with a population of 108,249 in Friesland in the Netherlands."
+      "Leeuwarden (] , ] ), Stadsfries: \"Liwwadden\") is a city and municipality with a population of 108,249 in Friesland in the Netherlands.",
+      "Foeke Booy (born 25 April 1962 in Leeuwarden) is a Dutch retired footballer and football manager."
     ]
   },
   {
@@ -816,7 +815,10 @@
       "[3] Martin Brest (born August 8, 1951) is an American film director, screenwriter, and producer."
     ],
     "gpt_support": [
-      "Raymond Benedict \"Ray\" McCarey (September 6, 1904 – December 1, 1948) was an American film director."
+      "Raymond Benedict \"Ray\" McCarey (September 6, 1904 – December 1, 1948) was an American film director.",
+      "(Ray McCarey's birthdate is September 6, 1904)",
+      "Martin Brest (born August 8, 1951) is an American film director, screenwriter, and producer.",
+      "(Martin Brest's birthdate is August 8, 1951)"
     ]
   },
   {
@@ -842,8 +844,11 @@
       "[10] Jon Jost (born 16 May 1943 in Chicago) is an American independent filmmaker."
     ],
     "gpt_support": [
-      "Jon Jost is a 1990 American film written, directed and produced by Jon Jost.",
-      "Ángel is a 2007 Puerto Rican film written and directed by Jacobo Morales."
+      "Jon Jost is an American independent filmmaker.",
+      "Jacobo Morales is a Puerto Rican actor, poet, writer, playwright, filmmaker, and auteur.",
+      "Many consider him the most influential film director in Puerto Rico's history.",
+      "Jacobo Morales has directed films such as \"Ángel\", \"Linda Sara\", and \"...And God Created Them\".",
+      "Jon Jost has directed films such as \"All the Vermeers in New York\" and \"Over Here\"."
     ]
   },
   {
@@ -856,7 +861,7 @@
       "[6] Claudia Gerini (born 18 December 1971) is an Italian actress and showgirl."
     ],
     "gpt_support": [
-      "Claudia Gerini (born 18 December 1971) is an Italian actress and showgirl."
+      "Lucignolo is a 1999 Italian movie directed by and starring Massimo Ceccherini, with the inseparable Alessandro Paci and Claudia Gerini."
     ]
   },
   {
@@ -869,8 +874,8 @@
       "[9] Xavier Malisse (born 19 July 1980) is Belgian retired professional tennis player."
     ],
     "gpt_support": [
-      "Gene Mayer (born April 11, 1956) is a former tennis player from the United States.",
-      "Xavier Malisse (born 19 July 1980) is a Belgian retired professional tennis player."
+      "Gene Mayer (born April 11, 1956) is a former tennis player from the United States who won 14 singles titles during his career.",
+      "Xavier Malisse (born 19 July 1980) is Belgian retired professional tennis player."
     ]
   },
   {
@@ -898,7 +903,7 @@
       "[8] Jon Jost (born 16 May 1943 in Chicago) is an American independent filmmaker."
     ],
     "gpt_support": [
-      "Sidney Olcott (September 20, 1872 – December 16, 1949) was a Canadian-born film producer, director, actor, and screenwriter.",
+      "Sidney Olcott (September 20, 1872 – December 16, 1949) was a Canadian-born film producer, director, actor and screenwriter.",
       "Jon Jost (born 16 May 1943 in Chicago) is an American independent filmmaker."
     ]
   },
@@ -912,10 +917,7 @@
       "[5]  Its built-up (\"or metro\") area made of 4 urban districts has nearly one million residents, though the Prefecture-level city under its jurisdiction had 3,164,467 registered residents at the 2010 census."
     ],
     "gpt_support": [
-      "Chenzhou () is a city located in the south of Hunan province, People's Republic of China.",
-      "Its total population reached 4,559,600 in 2001, 26% of them living in urban areas, 74% of them live in rural areas.",
-      "Bengbu () is a mid-sized city in northern Anhui Province, China.",
-      "The Prefecture-level city under its jurisdiction had 3,164,467 registered residents at the 2010 census."
+      "Chenzhou city in Hunan province, China had a total population of 4,559,600 in 2001, with 26% living in urban areas and 74% living in rural areas."
     ]
   },
   {
@@ -957,7 +959,7 @@
     ],
     "gpt_support": [
       "Mikel Arteta Amatriain (born 26 March 1982) is a retired Spanish professional footballer who played as a midfielder.",
-      "He is currently the co-assistant coach of Manchester City, alongside fellow co-assistant Brian Kidd, Domènec Torrent, and manager Pep Guardiola."
+      "He is currently the co-assistant coach of Manchester City, alongside fellow co-assistant Brian Kidd, Domènec Torrent and manager Pep Guardiola."
     ]
   },
   {
@@ -985,20 +987,22 @@
     ],
     "gpt_support": [
       "The 1904 Summer Olympics, officially known as the Games of the III Olympiad, was an international multi-sport event which was celebrated in St. Louis, Missouri, in the United States from August 29 until September 3, 1904, as part of an extended sports program lasting from July 1 to November 23, 1904, at what is now known as Francis Field on the campus of Washington University in St. Louis.",
-      "It was the first time that the Olympic Games were held outside Europe."
+      "It was the first time that the Olympic Games were held outside Europe.",
+      "George Ducker (September 27, 1871 – September 26, 1952) was a Canadian amateur soccer player who competed in the 1904 Summer Olympics."
     ]
   },
   {
     "data_number": "number #71",
     "question": "What year was the British lovers rock singer born, who has Movement 98 built around her vocals?",
     "real_answer": "1960",
-    "gpt_answer": "Carroll Thompson was born in 1960.",
+    "gpt_answer": "Carroll Thompson (1960)",
     "real_support": [
       "[7] Carroll Thompson (born 1960) is a British lovers rock singer, best known for her work in the 1980s.",
       "[10] Movement 98 was a Paul Oakenfold project on Circa Records, built around the vocals of Carroll Thompson, and also featuring input from Steve Osbourne and Rob Davis."
     ],
     "gpt_support": [
-      "Movement 98 was a Paul Oakenfold project on Circa Records, built around the vocals of Carroll Thompson."
+      "Carroll Thompson (born 1960) is a British lovers rock singer, best known for her work in the 1980s.",
+      "(Note: Carroll Thompson is the British lovers rock singer around whom Movement 98 was built.)"
     ]
   },
   {
@@ -1012,7 +1016,7 @@
     ],
     "gpt_support": [
       "Arenaria is a genus of flowering plants, within the family Caryophyllaceae.",
-      "Arenaria montana, Arenaria aculeata, Arenaria paludicola, Arenaria ursina, Arenaria macradenia, Arenaria congesta, Arenaria bryophylla are some of the species within the Arenaria genus."
+      "Aucuba is a genus of three to ten species of flowering plants, now placed in the family Garryaceae, although formerly classified in the Aucubaceae or Cornaceae."
     ]
   },
   {
@@ -1025,8 +1029,7 @@
       "[9]  He has won an Oscar, Grammy, BAFTA, two Golden Globes, and a Screen Actors Guild Award."
     ],
     "gpt_support": [
-      "Sir Ben Kingsley (born Krishna Pandit Bhanji; 31 December 1943) is an English actor with a career spanning over 40 years.",
-      "He has won an Oscar, Grammy, BAFTA, two Golden Globes, and a Screen Actors Guild Award."
+      "Ben Kingsley has won two Golden Globes, one for Best Actor in \"Gandhi\" and another one which is not specified in the provided documents."
     ]
   },
   {
@@ -1039,8 +1042,8 @@
       "[6] Mara Santangelo (born 28 June 1981) is a former professional tennis player from Italy."
     ],
     "gpt_support": [
-      "Rika Hiraki is a former professional Japanese female tennis player.",
-      "Mara Santangelo is a former professional tennis player from Italy."
+      "Rika Hiraki (Japanese: 平木 理化 , born 6 December 1971) is a former professional Japanese female tennis player.",
+      "Mara Santangelo (born 28 June 1981) is a former professional tennis player from Italy."
     ]
   },
   {
@@ -1053,7 +1056,9 @@
       "[9] The Grose River, a perennial river that is part of the Hawkesbury-Nepean catchment, is located in the Blue Mountains region of New South Wales, Australia."
     ],
     "gpt_support": [
-      "The Nepean River (Aboriginal: Yandhai), is a major perennial river, located in the south-west and west of Sydney, New South Wales, Australia."
+      "The Tarlo River, a perennial river that is part of the Hawkesbury-Nepean catchment, is located in the Southern Tablelands and Southern Highlands regions of New South Wales, Australia.",
+      "Nepean River (Aboriginal: Yandhai), is a major perennial river, located in the south-west and west of Sydney, New South Wales, Australia.",
+      "The Grose River, a perennial river that is part of the Hawkesbury-Nepean catchment, is located in the Blue Mountains region of New South Wales, Australia."
     ]
   },
   {
@@ -1066,8 +1071,7 @@
       "[4]  It extends south to the Gulf of Guinea, where its capital Lomé is located."
     ],
     "gpt_support": [
-      "Togo covers 57,000 km2 , making it one of the smallest countries in Africa, with a population of approximately /1e6 round 1 million.",
-      "It extends south to the Gulf of Guinea, where its capital Lomé is located."
+      "Togo, the country where Heteropsis elisi is found, has its capital in Lomé."
     ]
   },
   {
@@ -1080,8 +1084,7 @@
       "[8]  The city is at the foot of Vitosha Mountain in the western part of the country."
     ],
     "gpt_support": [
-      "The 1961 Summer Universiade, also known as the II Summer Universiade, was an international sporting event for university students that took place in Sofia, Bulgaria.",
-      "Sofia is the capital and largest city of Bulgaria, located at the foot of Vitosha Mountain in the western part of the country."
+      "The 1961 Summer Universiade, also known as the II Summer Universiade, was an international sporting event for university students that took place in Sofia, Bulgaria."
     ]
   },
   {
@@ -1124,22 +1127,20 @@
       "[8] A Kiss of Shadows is the first novel in the Merry Gentry series by American writer Laurell K. Hamilton."
     ],
     "gpt_support": [
-      "Laurell Kaye Hamilton (born February 19, 1963) is an American fantasy and romance writer."
+      "A Kiss of Shadows is the first novel in the Merry Gentry series by American writer Laurell K. Hamilton."
     ]
   },
   {
     "data_number": "number #81",
     "question": "The Lands of Cocklebie or Cocklebee formed an estate possessing a common border with many estates, including which lay within the feudal Baillerie of Cunninghame, near Stewarton, now East Ayrshire, Scotland?",
     "real_answer": "Barony and castle of Corsehill",
-    "gpt_answer": "Barony and Castle of Corsehill, Barony of Peacockbank, Castle and Barony of Robertland",
+    "gpt_answer": "Barony and Castle of Corsehill",
     "real_support": [
       "[2] The Lands of Cocklebie or Cocklebee formed an estate possessing a common border with the estates of Lainshaw, the Corsehill, and the town of Stewarton, East Ayrshire, Parish of Stewarton, Scotland.",
       "[6] The old Barony and castle of Corsehill lay within the feudal Baillerie of Cunninghame, near Stewarton, now East Ayrshire, Scotland."
     ],
     "gpt_support": [
-      "Barony and Castle of Corsehill lay within the feudal Baillerie of Cunninghame, near Stewarton, now East Ayrshire, Scotland.",
-      "Barony of Peacockbank was in the old feudal Baillerie of Cunninghame, near Stewarton in what is now East Ayrshire, Scotland.",
-      "Castle and Barony of Robertland is located near Stewarton, off the B769 road, in the old district of Cunninghame, Parish of Stewarton, and now part of East Ayrshire, Scotland."
+      "The old Barony and castle of Corsehill lay within the feudal Baillerie of Cunninghame, near Stewarton, now East Ayrshire, Scotland."
     ]
   },
   {
@@ -1193,18 +1194,15 @@
       "[6] Thomas A. \"Tom\" DiCillo (born August 14, 1953) is an American film director, screenwriter and cinematographer."
     ],
     "gpt_support": [
-      "Danny Leiner is a film director whose credits include \"The Great New Wonderful\", \"Harold & Kumar Go to White Castle\", \"Dude, Where's My Car?",
-      "\", \"Layin' Low\", and \"Time Expired\".",
-      "Tom DiCillo (born August 14, 1953) is an American film director, screenwriter and cinematographer.",
-      "Layin' Low is a 1996 film directed by Danny Leiner.",
-      "The Real Blonde is a 1998 film directed and written by Tom DiCillo."
+      "Danny Leiner is a film director whose credits include \"The Great New Wonderful,\" \"Harold & Kumar Go to White Castle,\" \"Dude, Where's My Car?,\" \"Layin' Low,\" and \"Time Expired.\"",
+      "Tom DiCillo is an American film director, screenwriter, and cinematographer."
     ]
   },
   {
     "data_number": "number #86",
     "question": "Gunnera manicata and Malope are both what?",
     "real_answer": "plant",
-    "gpt_answer": "species of flowering plants",
+    "gpt_answer": "species",
     "real_support": [
       "[6] Gunnera manicata, known as Brazilian giant-rhubarb giant rhubarb, or dinosaur food, is a species of flowering plant in the Gunneraceae family from Brazil.",
       "[10]  Of the three species, \"Malope trifida\" is often used as an ornamental plant."
@@ -1237,8 +1235,8 @@
       "[10] John Lloyd (born 27 August 1954) is a British former professional tennis player."
     ],
     "gpt_support": [
-      "Juan Sebastián Cabal (born 25 April 1986) is a Colombian professional tennis player.",
-      "John Lloyd (born 27 August 1954) is a British former professional tennis player."
+      "Juan Sebastián Cabal is a Colombian professional tennis player.",
+      "John Lloyd is a British former professional tennis player."
     ]
   },
   {
@@ -1251,7 +1249,8 @@
       "[10] Paul Andrew Williams is a British film writer and director, born in Portsmouth, England in 1973."
     ],
     "gpt_support": [
-      "George Cooper Stevens (December 18, 1904 – March 8, 1975) was an American film director, producer, screenwriter and cinematographer."
+      "George Cooper Stevens (December 18, 1904 – March 8, 1975) was born in 1904.",
+      "Paul Andrew Williams is a British film writer and director, born in Portsmouth, England in 1973."
     ]
   },
   {
@@ -1264,7 +1263,7 @@
       "[10] She has not won any singles titles, but did win three titles in doubles."
     ],
     "gpt_support": [
-      "He was ranked as high as world No. 30 in singles in June 1997."
+      "Alex O'Brien was ranked as high as world No. 30 in singles in June 1997."
     ]
   },
   {
@@ -1277,7 +1276,7 @@
       "[10]  It is subdivided into 100 \"qindarka\" (singular \"qindarkë\"), although qindarka are no longer issued."
     ],
     "gpt_support": [
-      "The lek (; plural \"lekë\") (sign: L; code: ALL) is the official currency of Albania.",
+      "The lek (sign: L; code: ALL) is the official currency of Albania.",
       "It is subdivided into 100 \"qindarka\" (singular \"qindarkë\"), although qindarka are no longer issued."
     ]
   },
@@ -1305,8 +1304,7 @@
     ],
     "gpt_support": [
       "Maurice Elvey (11 November 1887 – 28 August 1967) was the most prolific film director in British history.",
-      "He directed nearly 200 films between 1913 and 1957.",
-      "Arthur Lubin (July 25, 1898 – May 12, 1995) was an American film director and producer."
+      "Arthur Lubin (July 25, 1898 – May 12, 1995) was an American film director and producer who directed several \"Abbott & Costello\" films, \"Phantom of the Opera\" (1943), the \"Francis the Talking Mule\" series and created the talking-horse TV series \"Mister Ed\"."
     ]
   },
   {
@@ -1345,8 +1343,8 @@
       "[7] Provincial road N709 (N709) is a road connecting N708 in Biddinghuizen with N309 near Elburg."
     ],
     "gpt_support": [
-      "Provincial road N709 (N709) is a road connecting N708 in Biddinghuizen with N309 near Elburg.",
-      "Provincial road N708 (N708) is a road connecting N709 near Biddinghuizen with N306 near Biddinghuizen."
+      "Provincial road N708 (N708) is a road connecting N709 near Biddinghuizen with N306 near Biddinghuizen.",
+      "Provincial road N709 (N709) is a road connecting N708 in Biddinghuizen with N309 near Elburg."
     ]
   },
   {
@@ -1373,24 +1371,36 @@
       "[8] The Hunley is a 1999 television movie directed by John Gray and starring Armand Assante, Donald Sutherland, Alex Jennings, Michael Dolan and Christopher Bauer."
     ],
     "gpt_support": [
-      "Armand Anthony Assante Jr. (born October 4, 1949) is an American actor.",
-      "He is noted for an Emmy Award-winning role as mobster John Gotti in the 1996 HBO miniseries \"Gotti\"."
+      "Armand Assante is noted for an Emmy Award-winning role as mobster John Gotti in the 1996 HBO miniseries \"Gotti\"."
     ]
   },
   {
     "data_number": "number #99",
     "question": "Hyposmocoma fulvogriesa is endemic to Kauai, which is also know as what?",
     "real_answer": "the \"Garden Isle\"",
-    "gpt_answer": "the \"Garden Isle\"",
+    "gpt_answer": "\"Garden Isle\"",
     "real_support": [
       "[4]  Known also as the \"Garden Isle\", Kauaʻ i lies 105 mi across the Kauaʻ i Channel, northwest of Oʻ ahu.",
       "[6]  It is endemic to Kauai."
     ],
     "gpt_support": [
-      "Kauai or Kauaʻ i ( ; ] ) is geologically the oldest of the main Hawaiian Islands.",
-      "With an area of 562.3 sqmi , it is the fourth largest of these islands and the 21st largest island in the United States.",
-      "Known also as the \"Garden Isle\", Kauaʻ i lies 105 mi across the Kauaʻ i Channel, northwest of Oʻ ahu.",
-      "This island is the site of Waimea Canyon State Park."
+      "Kauai or Kauaʻi is geologically the oldest of the main Hawaiian Islands.",
+      "With an area of 562.3 sqmi, it is the fourth largest of these islands and the 21st largest island in the United States.",
+      "Known also as the \"Garden Isle\", Kauaʻi lies 105 miles across the Kauaʻi Channel, northwest of Oʻahu."
+    ]
+  },
+  {
+    "data_number": "number #100",
+    "question": "What profession do Fred Olen Ray and R. G. Springsteen have in common?",
+    "real_answer": "director",
+    "gpt_answer": "director",
+    "real_support": [
+      "[1] Fred Olen Ray (born September 10, 1954) is an American film director, producer, screenwriter, actor, and cinematographer.",
+      "[7] Robert G. Springsteen (September 8, 1904 – December 9, 1989) was an American director of Hollywood B movies and television shows."
+    ],
+    "gpt_support": [
+      "Fred Olen Ray (born September 10, 1954) is an American film director, producer, screenwriter, actor, and cinematographer.",
+      "Robert G. Springsteen (September 8, 1904 – December 9, 1989) was an American director of Hollywood B movies and television shows."
     ]
   }
 ]

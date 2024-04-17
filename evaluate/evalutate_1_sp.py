@@ -175,13 +175,13 @@ def get_metrics(predicted, gold):
     return exact_match, f1, recall, precision
 
 
-with open("output/experiment1/output_re_clean.json", "r", encoding="UTF8") as f:
+with open("output/experiment1_few_shot/3-shot/output_clean.json", "r", encoding="UTF8") as f:
     json_data = json.load(f)
 
 total_f1 = 0.0
 total_recall = 0.0
 total_precision = 0.0
-with open("output/experiment1/output_f1.txt", "w", encoding="UTF-8") as out_file:
+with open("output/experiment1_few_shot/3-shot/output_f1.txt", "w", encoding="UTF-8") as out_file:
     for data in json_data:
         data_number = data["data_number"]
         real_answer = data["real_answer"]

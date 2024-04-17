@@ -1,0 +1,1369 @@
+[
+    {
+        "data_number": "number #0",
+        "question": "Are Phil Rosen and Paul Bogart American film directors?",
+        "real_answer": "yes",
+        "gpt_answer": "  Yes\n",
+        "real_support": [
+            "5",
+            "7"
+        ],
+        "gpt_support": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "data_number": "number #1",
+        "question": "Which species of flowering plant is named after a Greek philosopher, Mutisia or Aristotelia?",
+        "real_answer": "Aristotelia",
+        "gpt_answer": "  Aristotelia\n",
+        "real_support": [
+            "7",
+            "10"
+        ],
+        "gpt_support": [
+            "6"
+        ]
+    },
+    {
+        "data_number": "number #2",
+        "question": "Veitchia is a flowering plan from the Arecaceae family, what family is the Lamium plant from?",
+        "real_answer": "Lamiaceae",
+        "gpt_answer": "  Lamiaceae\n",
+        "real_support": [
+            "6",
+            "8"
+        ],
+        "gpt_support": [
+            "6"
+        ]
+    },
+    {
+        "data_number": "number #3",
+        "question": "What three letter abbreviation is the college where Chrissy Roberts is head coach commonly referred to by?",
+        "real_answer": "EKU",
+        "gpt_answer": "  EKU\n",
+        "real_support": [
+            "4",
+            "6"
+        ],
+        "gpt_support": [
+            "6"
+        ]
+    },
+    {
+        "data_number": "number #4",
+        "question": "how is Sanshui District and Rushan, Shandong connected?",
+        "real_answer": "China",
+        "gpt_answer": "  both Sanshui District and Rushan, Shandong are located in China.\n",
+        "real_support": [
+            "5",
+            "9"
+        ],
+        "gpt_support": [
+            "5",
+            "9"
+        ]
+    },
+    {
+        "data_number": "number #5",
+        "question": "Horn is a municipality in the district of Arbon in the canton of what and is also a northeast canton of Switzerland?",
+        "real_answer": "Thurgau",
+        "gpt_answer": "  Thurgau\n",
+        "real_support": [
+            "1",
+            "10"
+        ],
+        "gpt_support": [
+            "1",
+            "10"
+        ]
+    },
+    {
+        "data_number": "number #6",
+        "question": "Are Arachniodes and Vriesea classified in the same family?",
+        "real_answer": "no",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "6",
+            "9"
+        ],
+        "gpt_support": [
+            "6",
+            "9"
+        ]
+    },
+    {
+        "data_number": "number #7",
+        "question": "What are both Redbook and Home Monthly?",
+        "real_answer": "magazine",
+        "gpt_answer": "  women's magazines\n",
+        "real_support": [
+            "7",
+            "16"
+        ],
+        "gpt_support": [
+            "7",
+            "16"
+        ]
+    },
+    {
+        "data_number": "number #8",
+        "question": "Which has more species, Manettia or Leucophyllum?",
+        "real_answer": "Manettia",
+        "gpt_answer": "  Manettia\n",
+        "real_support": [
+            "4",
+            "14"
+        ],
+        "gpt_support": [
+            "4"
+        ]
+    },
+    {
+        "data_number": "number #9",
+        "question": "Brookvale Bus Depot is a bus depot in the Sydney suburb of Brookvale, operated by which agency, of the Government of New South Wales, operating bus services in Sydney?",
+        "real_answer": "State Transit Authority",
+        "gpt_answer": "  State Transit Authority\n",
+        "real_support": [
+            "3",
+            "10"
+        ],
+        "gpt_support": [
+            "5",
+            "8"
+        ]
+    },
+    {
+        "data_number": "number #10",
+        "question": "While Fargesia is a genus of Asian bamboo in the grass family, what family is Diphylleia in?",
+        "real_answer": "Berberidaceae family",
+        "gpt_answer": "  Berberidaceae\n",
+        "real_support": [
+            "4",
+            "9"
+        ],
+        "gpt_support": [
+            "9"
+        ]
+    },
+    {
+        "data_number": "number #11",
+        "question": "Are Cryptanthus and Trichodiadema in the same family?",
+        "real_answer": "no",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "6",
+            "13"
+        ],
+        "gpt_support": [
+            "6",
+            "13"
+        ]
+    },
+    {
+        "data_number": "number #12",
+        "question": "Are both Firmiana and Petasites a genus of flowering plants in the Malvaceae family?",
+        "real_answer": "no",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "4",
+            "10"
+        ],
+        "gpt_support": [
+            "10",
+            "4"
+        ]
+    },
+    {
+        "data_number": "number #13",
+        "question": " Where was the person who owned The Gold Derby Awards since 2015 born?",
+        "real_answer": "New York City",
+        "gpt_answer": "  New York City\n",
+        "real_support": [
+            "7",
+            "13"
+        ],
+        "gpt_support": [
+            "13"
+        ]
+    },
+    {
+        "data_number": "number #14",
+        "question": "Were William Nigh and Brian Robbins both American film directors?",
+        "real_answer": "yes",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "1",
+            "9"
+        ],
+        "gpt_support": [
+            "9",
+            "1"
+        ]
+    },
+    {
+        "data_number": "number #15",
+        "question": "To what family does Kleinia and Rudbeckia belong to?",
+        "real_answer": "the sunflower family.",
+        "gpt_answer": "  Asteraceae\n",
+        "real_support": [
+            "5",
+            "7"
+        ],
+        "gpt_support": [
+            "1",
+            "4",
+            "5",
+            "12",
+            "13",
+            "14"
+        ]
+    },
+    {
+        "data_number": "number #16",
+        "question": "When did Metagaming Concepts publish Monsters! Monsters!?",
+        "real_answer": "1976",
+        "gpt_answer": "  1976\n",
+        "real_support": [
+            "4",
+            "12"
+        ],
+        "gpt_support": [
+            "4"
+        ]
+    },
+    {
+        "data_number": "number #17",
+        "question": "Which Italian actress born in 1971 stars in Lucignolo?",
+        "real_answer": "Claudia Gerini",
+        "gpt_answer": "  Claudia Gerini\n",
+        "real_support": [
+            "1",
+            "2"
+        ],
+        "gpt_support": [
+            "2"
+        ]
+    },
+    {
+        "data_number": "number #18",
+        "question": "Daniel 'Dani' Jimenez plays as a goalkeeper for which \"Segunda Division\" team?",
+        "real_answer": "AD Alcorcón",
+        "gpt_answer": "  AD Alcorcón\n",
+        "real_support": [
+            "2",
+            "4"
+        ],
+        "gpt_support": [
+            "4"
+        ]
+    },
+    {
+        "data_number": "number #19",
+        "question": " Dragon's Hall is a supplement for fantasy role-playing games published by a commpany active since what year?",
+        "real_answer": "1976",
+        "gpt_answer": "  1976\n",
+        "real_support": [
+            "3",
+            "8"
+        ],
+        "gpt_support": [
+            "8"
+        ]
+    },
+    {
+        "data_number": "number #20",
+        "question": "Anna-Lena Grönefeld is from Germany, whereas Pavel Složil is from where?",
+        "real_answer": "Czechoslovakia",
+        "gpt_answer": "  Czechoslovakia\n",
+        "real_support": [
+            "12",
+            "14"
+        ],
+        "gpt_support": [
+            "14"
+        ]
+    },
+    {
+        "data_number": "number #21",
+        "question": "Swainsonia and Leucocoryne are both what classifaction?",
+        "real_answer": "a genus",
+        "gpt_answer": "  genus\n",
+        "real_support": [
+            "2",
+            "5"
+        ],
+        "gpt_support": [
+            "2",
+            "5"
+        ]
+    },
+    {
+        "data_number": "number #22",
+        "question": "Who was born first, Victor Amaya or Robin White?",
+        "real_answer": "Victor Amaya",
+        "gpt_answer": "  Victor Amaya\n",
+        "real_support": [
+            "3",
+            "7"
+        ],
+        "gpt_support": [
+            "3"
+        ]
+    },
+    {
+        "data_number": "number #23",
+        "question": "While Saša Lukić is a professional footballer, what is Levante UD?",
+        "real_answer": "Spanish football club",
+        "gpt_answer": "  Spanish football club\n",
+        "real_support": [
+            "4",
+            "11"
+        ],
+        "gpt_support": [
+            "11"
+        ]
+    },
+    {
+        "data_number": "number #24",
+        "question": "Q: Who is older, Wayne Black or Byron Black?",
+        "real_answer": "Byron Black",
+        "gpt_answer": "  Byron Black\n",
+        "real_support": [
+            "9",
+            "10"
+        ],
+        "gpt_support": [
+            "9"
+        ]
+    },
+    {
+        "data_number": "number #25",
+        "question": "Do Tuberaria and Ipheion share the same family, although they are two different genera?",
+        "real_answer": "no",
+        "gpt_answer": "  Yes\n",
+        "real_support": [
+            "9",
+            "11"
+        ],
+        "gpt_support": [
+            "11",
+            "9"
+        ]
+    },
+    {
+        "data_number": "number #26",
+        "question": "Who was born first, Byron Black or Balázs Taróczy?",
+        "real_answer": "Balázs Taróczy",
+        "gpt_answer": "  Balázs Taróczy\n",
+        "real_support": [
+            "3",
+            "13"
+        ],
+        "gpt_support": [
+            "3"
+        ]
+    },
+    {
+        "data_number": "number #27",
+        "question": "Which sports is Alex O'Brien and Marc Rosset related to ?",
+        "real_answer": "tennis",
+        "gpt_answer": "  tennis\n",
+        "real_support": [
+            "6",
+            "11"
+        ],
+        "gpt_support": [
+            "6",
+            "11"
+        ]
+    },
+    {
+        "data_number": "number #28",
+        "question": "Are Andrei Olhovskiy and Stephen Huss from the same country?",
+        "real_answer": "no",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "4",
+            "10"
+        ],
+        "gpt_support": [
+            "4",
+            "8"
+        ]
+    },
+    {
+        "data_number": "number #29",
+        "question": "Matt James, born in 1981, an American game designer and a decorated veteran of the United States Army, and has also designed game content for which American game company that produces role-playing games and game supplements, also known as Open Design?",
+        "real_answer": "Kobold Press",
+        "gpt_answer": "  Kobold Press\n",
+        "real_support": [
+            "3",
+            "8"
+        ],
+        "gpt_support": [
+            "8"
+        ]
+    },
+    {
+        "data_number": "number #30",
+        "question": "Both Byron Black and Iván Molina play which sport?",
+        "real_answer": "tennis",
+        "gpt_answer": "  tennis\n",
+        "real_support": [
+            "13",
+            "16"
+        ],
+        "gpt_support": [
+            "13",
+            "16"
+        ]
+    },
+    {
+        "data_number": "number #31",
+        "question": "The Star Boarder is a 1914 American short comedy film starring which English comic actor, filmmaker, and composer who rose to fame in the era of silent film?",
+        "real_answer": "Charlie Chaplin",
+        "gpt_answer": "  Charlie Chaplin\n",
+        "real_support": [
+            "1",
+            "11"
+        ],
+        "gpt_support": [
+            "11"
+        ]
+    },
+    {
+        "data_number": "number #32",
+        "question": "Are Shelby Cannon and Andrei Olhovskiy both from America?",
+        "real_answer": "no",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "4",
+            "13"
+        ],
+        "gpt_support": [
+            "4",
+            "13"
+        ]
+    },
+    {
+        "data_number": "number #33",
+        "question": "What was the birth daye of an Italian-German footballer who plays for a reserve team at Stadion Rote Erde?",
+        "real_answer": "17 January 1986",
+        "gpt_answer": "  27 November 1983\n",
+        "real_support": [
+            "4",
+            "15"
+        ],
+        "gpt_support": [
+            "1"
+        ]
+    },
+    {
+        "data_number": "number #34",
+        "question": "Are Travis Parrott and Menno Oosting both tennis players?",
+        "real_answer": "yes",
+        "gpt_answer": "  Yes\n",
+        "real_support": [
+            "1",
+            "9"
+        ],
+        "gpt_support": [
+            "1",
+            "9",
+            "10",
+            "13"
+        ]
+    },
+    {
+        "data_number": "number #35",
+        "question": "Which has more species, Lysichiton or Aechmea?",
+        "real_answer": "Aechmea",
+        "gpt_answer": "  Aechmea\n",
+        "real_support": [
+            "9",
+            "25"
+        ],
+        "gpt_support": [
+            "7",
+            "9"
+        ]
+    },
+    {
+        "data_number": "number #36",
+        "question": "What son of a Chinese fencer is an entertainer and is fluent in 6 languages?",
+        "real_answer": "Jackson Wang",
+        "gpt_answer": "  Jackson Wang\n",
+        "real_support": [
+            "8",
+            "11"
+        ],
+        "gpt_support": [
+            "6",
+            "8",
+            "11"
+        ]
+    },
+    {
+        "data_number": "number #37",
+        "question": "Were Herbert Blaché and Jaap Speyer of the same nationality?",
+        "real_answer": "no",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "7",
+            "13"
+        ],
+        "gpt_support": [
+            "13",
+            "7"
+        ]
+    },
+    {
+        "data_number": "number #38",
+        "question": "Do the genuses Hyacinthoides and Mikania belong to the same family?",
+        "real_answer": "no",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "14",
+            "15"
+        ],
+        "gpt_support": [
+            "14",
+            "15"
+        ]
+    },
+    {
+        "data_number": "number #39",
+        "question": "What was the name of the Dutch Golden Age flower painter born in the town historically named Dort in English?",
+        "real_answer": "Jacob van Walscapelle",
+        "gpt_answer": "  Elias van den Broeck\n",
+        "real_support": [
+            "2",
+            "4"
+        ],
+        "gpt_support": [
+            "9"
+        ]
+    },
+    {
+        "data_number": "number #40",
+        "question": "Pileostegia and Billbergia, are native to Asia?",
+        "real_answer": "no",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "7",
+            "13"
+        ],
+        "gpt_support": [
+            "7"
+        ]
+    },
+    {
+        "data_number": "number #41",
+        "question": "Senegalese professional footballer, Abdoulaye Fall, plays for what Spanish football team founded in 2007?",
+        "real_answer": "Extremadura UD",
+        "gpt_answer": "  Extremadura UD\n",
+        "real_support": [
+            "7",
+            "9"
+        ],
+        "gpt_support": [
+            "9",
+            "5"
+        ]
+    },
+    {
+        "data_number": "number #42",
+        "question": "Whiting is an unincorporated community in Mississippi County, in the U.S. state of Missouri, a U.S. state is a constituent political entity of which entity?",
+        "real_answer": "United States of America",
+        "gpt_answer": "  United States of America\n",
+        "real_support": [
+            "6",
+            "13"
+        ],
+        "gpt_support": [
+            "6"
+        ]
+    },
+    {
+        "data_number": "number #43",
+        "question": "The 1981 Furman Paladins football team is from what city and state?",
+        "real_answer": "Greenville, South Carolina",
+        "gpt_answer": "  Greenville, South Carolina\n",
+        "real_support": [
+            "1",
+            "9"
+        ],
+        "gpt_support": [
+            "1"
+        ]
+    },
+    {
+        "data_number": "number #44",
+        "question": "Are both Javier Frana and Pavel Složil from Czechoslovakia?",
+        "real_answer": "no",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "11",
+            "15"
+        ],
+        "gpt_support": [
+            "11",
+            "15"
+        ]
+    },
+    {
+        "data_number": "number #45",
+        "question": "Who directed the 2003 South Korean melodrama film that Lee Ki-woo acted in?",
+        "real_answer": "Kwak Jae-yong",
+        "gpt_answer": "  Kwak Jae-yong\n",
+        "real_support": [
+            "6",
+            "10"
+        ],
+        "gpt_support": [
+            "6"
+        ]
+    },
+    {
+        "data_number": "number #46",
+        "question": "Which one of Canada's three Maritime provinces is The Back Bay Formation  a geologic formation in",
+        "real_answer": "New Brunswick",
+        "gpt_answer": "  New Brunswick\n",
+        "real_support": [
+            "17",
+            "19"
+        ],
+        "gpt_support": [
+            "9"
+        ]
+    },
+    {
+        "data_number": "number #47",
+        "question": "Which country did the bands Thin White Rope and Eve's Plum originate?",
+        "real_answer": "American",
+        "gpt_answer": "  United States\n",
+        "real_support": [
+            "2",
+            "5"
+        ],
+        "gpt_support": [
+            "2",
+            "5"
+        ]
+    },
+    {
+        "data_number": "number #48",
+        "question": "Are both Iresine, a genus of plants in the amaranth family, and Tolpis in the dandelion tribe flowering plants?",
+        "real_answer": "yes",
+        "gpt_answer": "  Yes\n",
+        "real_support": [
+            "10",
+            "18"
+        ],
+        "gpt_support": [
+            "10",
+            "18"
+        ]
+    },
+    {
+        "data_number": "number #49",
+        "question": "What type of game is the game which Hon'inbō Genjō plays professionally?",
+        "real_answer": "abstract strategy board game",
+        "gpt_answer": "  Go\n",
+        "real_support": [
+            "3",
+            "10"
+        ],
+        "gpt_support": [
+            "10"
+        ]
+    },
+    {
+        "data_number": "number #50",
+        "question": "What is a genus of North American plants in the aster tribe within the daisy family, Sorbus or Townsendia ?",
+        "real_answer": "Townsendia",
+        "gpt_answer": "  Townsendia\n",
+        "real_support": [
+            "4",
+            "5"
+        ],
+        "gpt_support": [
+            "4"
+        ]
+    },
+    {
+        "data_number": "number #51",
+        "question": "Which english actor, born 5 April 1981, is featured in the upcoming animated fantasy film Magik?",
+        "real_answer": "Tom Riley",
+        "gpt_answer": "  Tom Riley\n",
+        "real_support": [
+            "5",
+            "16"
+        ],
+        "gpt_support": [
+            "16"
+        ]
+    },
+    {
+        "data_number": "number #52",
+        "question": "Emmanuel Afriyie Mario Sabbi (born December 24, 1997) is an American professional soccer player who plays as forward for Hobro IK, a Danish football club, currently playing in which organization?",
+        "real_answer": "Danish Superliga",
+        "gpt_answer": "  Danish Superliga\n",
+        "real_support": [
+            "1",
+            "4"
+        ],
+        "gpt_support": [
+            "1"
+        ]
+    },
+    {
+        "data_number": "number #53",
+        "question": " Cat Run 2 is a 2014 direct-to-video American comedy action film starring an American professional what?",
+        "real_answer": "poker player",
+        "gpt_answer": "  poker player\n",
+        "real_support": [
+            "9",
+            "10"
+        ],
+        "gpt_support": [
+            "10"
+        ]
+    },
+    {
+        "data_number": "number #54",
+        "question": "Are Fred Olen Ray and Brian Henson both from the United States?",
+        "real_answer": "yes",
+        "gpt_answer": "  Yes\n",
+        "real_support": [
+            "1",
+            "15"
+        ],
+        "gpt_support": [
+            "1",
+            "15"
+        ]
+    },
+    {
+        "data_number": "number #55",
+        "question": "Are both Pedro Sienna and Harry L. Fraser both American film directors?",
+        "real_answer": "no",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "6",
+            "12"
+        ],
+        "gpt_support": [
+            "7"
+        ]
+    },
+    {
+        "data_number": "number #56",
+        "question": "Iosefo Verevou, is a Fijian footballer who plays as a forward, are the players on an association football team who play nearest to the opposing team's goal, and are therefore most responsible for scoring goals, for which organization, in the Fiji National Football League?",
+        "real_answer": "Rewa",
+        "gpt_answer": "  Navua\n",
+        "real_support": [
+            "2",
+            "13"
+        ],
+        "gpt_support": [
+            "14"
+        ]
+    },
+    {
+        "data_number": "number #57",
+        "question": "What was population of the city where the Dutch retired footballer Foeke Booy born?",
+        "real_answer": "108,249",
+        "gpt_answer": "  108,249\n",
+        "real_support": [
+            "1",
+            "8"
+        ],
+        "gpt_support": [
+            "1"
+        ]
+    },
+    {
+        "data_number": "number #58",
+        "question": "Who was born at an earlier date, Ray McCarey or Martin Brest?",
+        "real_answer": "Raymond Benedict \"Ray\" McCarey",
+        "gpt_answer": "  Ray McCarey\n",
+        "real_support": [
+            "4",
+            "5"
+        ],
+        "gpt_support": [
+            "4"
+        ]
+    },
+    {
+        "data_number": "number #59",
+        "question": "Kochi 5s was led by which retired Spanish footballer?",
+        "real_answer": "Miguel Ángel \"Míchel\" Salgado Fernández",
+        "gpt_answer": "  Míchel Salgado\n",
+        "real_support": [
+            "6",
+            "11"
+        ],
+        "gpt_support": [
+            "6"
+        ]
+    },
+    {
+        "data_number": "number #60",
+        "question": "Jacobo Morales and Jon Jost, share which mutual occupation?",
+        "real_answer": "filmmaker",
+        "gpt_answer": "  filmmaker\n",
+        "real_support": [
+            "7",
+            "17"
+        ],
+        "gpt_support": [
+            "7",
+            "17"
+        ]
+    },
+    {
+        "data_number": "number #61",
+        "question": "Lucignolo starred which Italian actress and showgirl?",
+        "real_answer": "Claudia Gerini",
+        "gpt_answer": "  Claudia Gerini\n",
+        "real_support": [
+            "1",
+            "6"
+        ],
+        "gpt_support": [
+            "1"
+        ]
+    },
+    {
+        "data_number": "number #62",
+        "question": "Who was born first, Xavier Malisse or Gene Mayer?",
+        "real_answer": "Gene Mayer",
+        "gpt_answer": "  Gene Mayer\n",
+        "real_support": [
+            "12",
+            "13"
+        ],
+        "gpt_support": [
+            "12"
+        ]
+    },
+    {
+        "data_number": "number #63",
+        "question": "Are the genuses Bromelia and Swainsona native to the same areas?",
+        "real_answer": "no",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "1",
+            "14"
+        ],
+        "gpt_support": [
+            "2",
+            "4",
+            "6",
+            "8",
+            "10",
+            "12",
+            "14",
+            "16",
+            "18",
+            "20",
+            "22"
+        ]
+    },
+    {
+        "data_number": "number #64",
+        "question": "Did Jon Jost and Sidney Olcott share the same nationality?",
+        "real_answer": "no",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "13",
+            "14"
+        ],
+        "gpt_support": [
+            "13",
+            "14"
+        ]
+    },
+    {
+        "data_number": "number #65",
+        "question": "Which city is more populated, Bengbu or Chenzhou?",
+        "real_answer": "Chenzhou",
+        "gpt_answer": "  Chenzhou\n",
+        "real_support": [
+            "5",
+            "7"
+        ],
+        "gpt_support": [
+            "5"
+        ]
+    },
+    {
+        "data_number": "number #66",
+        "question": "Are both Ralph Ceder and Norman Foster a film director?",
+        "real_answer": "yes",
+        "gpt_answer": "  Yes\n",
+        "real_support": [
+            "6",
+            "12"
+        ],
+        "gpt_support": [
+            "6",
+            "12"
+        ]
+    },
+    {
+        "data_number": "number #67",
+        "question": "An English crime writer wrote what type of novel in 2005?",
+        "real_answer": "psychological thriller",
+        "gpt_answer": "  psychological thriller\n",
+        "real_support": [
+            "2",
+            "4"
+        ],
+        "gpt_support": [
+            "2"
+        ]
+    },
+    {
+        "data_number": "number #68",
+        "question": " What other person besides retired Spanish professional footballer co-assistant coaches Manchester City with Brian Kidd?",
+        "real_answer": "Domènec Torrent",
+        "gpt_answer": "  Mikel Arteta\n",
+        "real_support": [
+            "2",
+            "11"
+        ],
+        "gpt_support": [
+            "3"
+        ]
+    },
+    {
+        "data_number": "number #69",
+        "question": "How many singles titles on the ATP tour have been won by the person who replaced Teymuraz Gabashvili as inaugural champion?",
+        "real_answer": "eight",
+        "gpt_answer": "  8\n",
+        "real_support": [
+            "1",
+            "5"
+        ],
+        "gpt_support": [
+            "4"
+        ]
+    },
+    {
+        "data_number": "number #70",
+        "question": "Which sports event was hosted in St Louis, Missouri and was the first such event to be held outside of Europe a competitor of whom was Canadian amateur soccer player George Ducker?",
+        "real_answer": "1904 Summer Olympics",
+        "gpt_answer": "  1904 Summer Olympics\n",
+        "real_support": [
+            "3",
+            "4"
+        ],
+        "gpt_support": [
+            "2",
+            "4"
+        ]
+    },
+    {
+        "data_number": "number #71",
+        "question": "What year was the British lovers rock singer born, who has Movement 98 built around her vocals?",
+        "real_answer": "1960",
+        "gpt_answer": "  Carroll Thompson\n",
+        "real_support": [
+            "9",
+            "13"
+        ],
+        "gpt_support": [
+            "9"
+        ]
+    },
+    {
+        "data_number": "number #72",
+        "question": "Which is a genus to more specie of flowering plant, Arenaria or Aucuba?",
+        "real_answer": "Aucuba",
+        "gpt_answer": "  Arenaria\n",
+        "real_support": [
+            "3",
+            "13"
+        ],
+        "gpt_support": [
+            "13"
+        ]
+    },
+    {
+        "data_number": "number #73",
+        "question": "How many Golden Globes has the man who starred in \"The Confession\" alongside Alec Baldwin won?",
+        "real_answer": "two",
+        "gpt_answer": "  two\n",
+        "real_support": [
+            "2",
+            "12"
+        ],
+        "gpt_support": [
+            "12"
+        ]
+    },
+    {
+        "data_number": "number #74",
+        "question": "Do Rika Hiraki and Mara Santangelo come from the same country?",
+        "real_answer": "no",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "2",
+            "7"
+        ],
+        "gpt_support": [
+            "2",
+            "7"
+        ]
+    },
+    {
+        "data_number": "number #75",
+        "question": "The Grose River, a perennial river that is part of the Hawkesbury-Nepean catchment, the Nepean River, is a major perennial river, located in the south-west and west of Sydney, New South Wales, in which country?",
+        "real_answer": "Australia",
+        "gpt_answer": "  Australia\n",
+        "real_support": [
+            "2",
+            "11"
+        ],
+        "gpt_support": [
+            "1",
+            "2",
+            "4",
+            "5",
+            "6",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "data_number": "number #76",
+        "question": "What is the capital of the country in which the Heteropsis elisi's habitat location?",
+        "real_answer": "Lomé",
+        "gpt_answer": "  Lomé\n",
+        "real_support": [
+            "2",
+            "12"
+        ],
+        "gpt_support": [
+            "12"
+        ]
+    },
+    {
+        "data_number": "number #77",
+        "question": "What is special about 1961 Summer Universiade and Sofia, Bulgaria",
+        "real_answer": "international sporting event",
+        "gpt_answer": "  They were the locations where various sports events were contested during the 1961 Summer Universiade.\n",
+        "real_support": [
+            "3",
+            "12"
+        ],
+        "gpt_support": [
+            "1",
+            "2",
+            "4",
+            "9",
+            "17"
+        ]
+    },
+    {
+        "data_number": "number #78",
+        "question": "What professional basketball player attended a coeducational high school in Albany, New York that was open to students of all faiths and plays for the Petrol Olimpija?",
+        "real_answer": "Talor Battle",
+        "gpt_answer": "  Talor Battle\n",
+        "real_support": [
+            "18",
+            "20"
+        ],
+        "gpt_support": [
+            "16",
+            "17"
+        ]
+    },
+    {
+        "data_number": "number #79",
+        "question": "In what Olympics did the greatest Great British yachtsman since Sir Aineslie, CBE, win silver?",
+        "real_answer": "1976 Montreal Olympics",
+        "gpt_answer": "  1976 Montreal Olympics\n",
+        "real_support": [
+            "5",
+            "10"
+        ],
+        "gpt_support": [
+            "8"
+        ]
+    },
+    {
+        "data_number": "number #80",
+        "question": "A Kiss of Shadows, the first novel in the Merry Gentry series, was created by an American writer born in this year?",
+        "real_answer": "1963",
+        "gpt_answer": "  1963\n",
+        "real_support": [
+            "8",
+            "15"
+        ],
+        "gpt_support": [
+            "8"
+        ]
+    },
+    {
+        "data_number": "number #81",
+        "question": "The Lands of Cocklebie or Cocklebee formed an estate possessing a common border with many estates, including which lay within the feudal Baillerie of Cunninghame, near Stewarton, now East Ayrshire, Scotland?",
+        "real_answer": "Barony and castle of Corsehill",
+        "gpt_answer": "  Barony and Castle of Corsehill\n",
+        "real_support": [
+            "2",
+            "9"
+        ],
+        "gpt_support": [
+            "9"
+        ]
+    },
+    {
+        "data_number": "number #82",
+        "question": "Which of these screen writer/film directors was also an actor: Jacques Becker or Fred Olen Ray?",
+        "real_answer": "Fred Olen Ray",
+        "gpt_answer": "  Fred Olen Ray\n",
+        "real_support": [
+            "9",
+            "16"
+        ],
+        "gpt_support": [
+            "1"
+        ]
+    },
+    {
+        "data_number": "number #83",
+        "question": "What is the population of the city where Lithuanian footballer Tomas Kančelskis was born?",
+        "real_answer": "133,900",
+        "gpt_answer": "  133,900\n",
+        "real_support": [
+            "1",
+            "9"
+        ],
+        "gpt_support": [
+            "9"
+        ]
+    },
+    {
+        "data_number": "number #84",
+        "question": "Which director was addressed by their abbreviated first name, Arline Burks Gant or Ray McCarey?",
+        "real_answer": "Raymond Benedict \"Ray\" McCarey",
+        "gpt_answer": "  Ray McCarey\n",
+        "real_support": [
+            "5",
+            "8"
+        ],
+        "gpt_support": [
+            "5"
+        ]
+    },
+    {
+        "data_number": "number #85",
+        "question": "What occupation is shared by Tom DiCillo and Danny Leiner?",
+        "real_answer": "film director",
+        "gpt_answer": "  film director\n",
+        "real_support": [
+            "3",
+            "12"
+        ],
+        "gpt_support": [
+            "3",
+            "12"
+        ]
+    },
+    {
+        "data_number": "number #86",
+        "question": "Gunnera manicata and Malope are both what?",
+        "real_answer": "plant",
+        "gpt_answer": "  species\n",
+        "real_support": [
+            "14",
+            "25"
+        ],
+        "gpt_support": [
+            "14",
+            "24"
+        ]
+    },
+    {
+        "data_number": "number #87",
+        "question": "What is the capacity of the circuit that the 2003 FIA GT Magny-Cours 500km took place?",
+        "real_answer": "90,000",
+        "gpt_answer": "  90,000\n",
+        "real_support": [
+            "3",
+            "13"
+        ],
+        "gpt_support": [
+            "3"
+        ]
+    },
+    {
+        "data_number": "number #88",
+        "question": "Juan Sebastián Cabal and John Lloyd play what sport?",
+        "real_answer": "tennis",
+        "gpt_answer": "  tennis\n",
+        "real_support": [
+            "11",
+            "15"
+        ],
+        "gpt_support": [
+            "11",
+            "15"
+        ]
+    },
+    {
+        "data_number": "number #89",
+        "question": "Who was born earlier, George Stevens or Paul Andrew Williams?",
+        "real_answer": "George Cooper Stevens",
+        "gpt_answer": "  George Stevens\n",
+        "real_support": [
+            "3",
+            "15"
+        ],
+        "gpt_support": [
+            "3"
+        ]
+    },
+    {
+        "data_number": "number #90",
+        "question": "Was Kristie Boogert or Alex O'Brien ranked higher as a singles player?",
+        "real_answer": "No. 30 in singles",
+        "gpt_answer": "  Alex O'Brien\n",
+        "real_support": [
+            "2",
+            "13"
+        ],
+        "gpt_support": [
+            "2"
+        ]
+    },
+    {
+        "data_number": "number #91",
+        "question": "50 Lekë (50 L) have a value of 50 Albanian lek, the lek is the official currency of Albania, and is subdivided into how many \"qindarka\" (singular \"qindarkë\"), although qindarka are no longer issued?",
+        "real_answer": "100",
+        "gpt_answer": " \n",
+        "real_support": [
+            "20",
+            "22"
+        ],
+        "gpt_support": [
+            ""
+        ]
+    },
+    {
+        "data_number": "number #92",
+        "question": "Scream 2 is the fifth studio album by German trance producer & DJ Markus Schulz, released on which date, by Armada Music?",
+        "real_answer": "21 February 2014",
+        "gpt_answer": "  21 February 2014\n",
+        "real_support": [
+            "1",
+            "4"
+        ],
+        "gpt_support": [
+            "1"
+        ]
+    },
+    {
+        "data_number": "number #93",
+        "question": "WereMaurice Elvey and Arthur Lubin both from the USA? ",
+        "real_answer": "no",
+        "gpt_answer": "  No\n",
+        "real_support": [
+            "1",
+            "11"
+        ],
+        "gpt_support": [
+            "11"
+        ]
+    },
+    {
+        "data_number": "number #94",
+        "question": "Martin Fisch is a Danish footballer who plays for FC Helsingør is the football part of the Danish sports club Elite 3000 Helsingør from Helsingør, the club plays in which location?",
+        "real_answer": "Danish Superliga",
+        "gpt_answer": "  Helsingør\n",
+        "real_support": [
+            "4",
+            "12"
+        ],
+        "gpt_support": [
+            "11"
+        ]
+    },
+    {
+        "data_number": "number #95",
+        "question": "Who is French, Henri Kontinen or Nathalie Dechy?",
+        "real_answer": "Nathalie Dechy",
+        "gpt_answer": "  Nathalie Dechy\n",
+        "real_support": [
+            "1",
+            "12"
+        ],
+        "gpt_support": [
+            "1"
+        ]
+    },
+    {
+        "data_number": "number #96",
+        "question": "The N709 and N708 connect near which city in the Gelderland province?",
+        "real_answer": "Elburg",
+        "gpt_answer": "  Biddinghuizen\n",
+        "real_support": [
+            "8",
+            "13"
+        ],
+        "gpt_support": [
+            "9",
+            "13"
+        ]
+    },
+    {
+        "data_number": "number #97",
+        "question": "Are Cymbidium and Pterocactus both in the Orchidaceae family?",
+        "real_answer": "no",
+        "gpt_answer": "  Yes\n",
+        "real_support": [
+            "4",
+            "15"
+        ],
+        "gpt_support": [
+            "4",
+            "15"
+        ]
+    },
+    {
+        "data_number": "number #98",
+        "question": "What was the name of the TV series that one of the Hunley movie actors won an Emmy for?",
+        "real_answer": "Gotti",
+        "gpt_answer": "  Gotti\n",
+        "real_support": [
+            "9",
+            "12"
+        ],
+        "gpt_support": [
+            "8"
+        ]
+    },
+    {
+        "data_number": "number #99",
+        "question": "Hyposmocoma fulvogriesa is endemic to Kauai, which is also know as what?",
+        "real_answer": "the \"Garden Isle\"",
+        "gpt_answer": "  Garden Isle\n",
+        "real_support": [
+            "11",
+            "17"
+        ],
+        "gpt_support": [
+            "11"
+        ]
+    }
+]
