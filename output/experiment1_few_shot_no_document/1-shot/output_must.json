@@ -1,0 +1,802 @@
+[
+    {
+        "data_number": "number #0",
+        "question": "Are Phil Rosen and Paul Bogart American film directors?",
+        "real_answer": "yes",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Are Phil Rosen and Paul Bogart American film directors?\n## Answer : Yes\n## Supporting fact : \nPhil Rosen (May 8, 1888 – October 22, 1951) was a Polish-born American film director.\nPaul Bogart (November 21, 1919 – April 15, 2012) was an American television director.",
+        "message_for_gpt": "<Output format>\n## Question : Are Phil Rosen and Paul Bogart American film directors?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #1",
+        "question": "Which species of flowering plant is named after a Greek philosopher, Mutisia or Aristotelia?",
+        "real_answer": "Aristotelia",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Which species of flowering plant is named after a Greek philosopher, Mutisia or Aristotelia?\n## Answer : Mutisia\n## Supporting fact : Mutisia is a genus of flowering plants in the sunflower family, Asteraceae, named after the Greek philosopher and botanist, Mutis.",
+        "message_for_gpt": "<Output format>\n## Question : Which species of flowering plant is named after a Greek philosopher, Mutisia or Aristotelia?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #2",
+        "question": "Veitchia is a flowering plan from the Arecaceae family, what family is the Lamium plant from?",
+        "real_answer": "Lamiaceae",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Veitchia is a flowering plant from the Arecaceae family, what family is the Lamium plant from?\n## Answer : Lamiaceae\n## Supporting fact : Lamium is a genus of flowering plants in the Lamiaceae family.",
+        "message_for_gpt": "<Output format>\n## Question : Veitchia is a flowering plan from the Arecaceae family, what family is the Lamium plant from?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #3",
+        "question": "What three letter abbreviation is the college where Chrissy Roberts is head coach commonly referred to by?",
+        "real_answer": "EKU",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What three letter abbreviation is the college where Chrissy Roberts is head coach commonly referred to by?\n## Answer : UNM\n## Supporting fact : \nChrissy Roberts is the head coach of the University of New Mexico Lobos women's basketball team.",
+        "message_for_gpt": "<Output format>\n## Question : What three letter abbreviation is the college where Chrissy Roberts is head coach commonly referred to by?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #4",
+        "question": "how is Sanshui District and Rushan, Shandong connected?",
+        "real_answer": "China",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : how is Sanshui District and Rushan, Shandong connected?\n## Answer : They are both administrative divisions in China.\n## Supporting fact : \nSanshui District is a district in Foshan, Guangdong Province, China.\nRushan is a county-level city in Weifang, Shandong Province, China.",
+        "message_for_gpt": "<Output format>\n## Question : how is Sanshui District and Rushan, Shandong connected?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #5",
+        "question": "Horn is a municipality in the district of Arbon in the canton of what and is also a northeast canton of Switzerland?",
+        "real_answer": "Thurgau",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Horn is a municipality in the district of Arbon in the canton of what and is also a northeast canton of Switzerland?\n## Answer : Thurgau\n## Supporting fact : Horn is a municipality located in the district of Arbon in the canton of Thurgau, which is also a northeast canton of Switzerland.",
+        "message_for_gpt": "<Output format>\n## Question : Horn is a municipality in the district of Arbon in the canton of what and is also a northeast canton of Switzerland?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #6",
+        "question": "Are Arachniodes and Vriesea classified in the same family?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Are Arachniodes and Vriesea classified in the same family?\n## Answer : No\n## Supporting fact : Arachniodes is a genus of ferns in the family Dryopteridaceae, while Vriesea is a genus of flowering plants in the family Bromeliaceae.",
+        "message_for_gpt": "<Output format>\n## Question : Are Arachniodes and Vriesea classified in the same family?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #7",
+        "question": "What are both Redbook and Home Monthly?",
+        "real_answer": "magazine",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What are both Redbook and Home Monthly?\n## Answer : magazines\n## Supporting fact :\nRedbook is an American women's magazine that first published in May 1903.\nHome Monthly is a Canadian magazine that focuses on home and lifestyle topics.",
+        "message_for_gpt": "<Output format>\n## Question : What are both Redbook and Home Monthly?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #8",
+        "question": "Which has more species, Manettia or Leucophyllum?",
+        "real_answer": "Manettia",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Which has more species, Manettia or Leucophyllum?\n## Answer : Manettia\n## Supporting fact : Manettia is a genus of flowering plants in the family Rubiaceae, containing about 80 species. Leucophyllum, on the other hand, is a genus of flowering plants in the figwort family, Scrophulariaceae, and contains around 6 species.",
+        "message_for_gpt": "<Output format>\n## Question : Which has more species, Manettia or Leucophyllum?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #9",
+        "question": "Brookvale Bus Depot is a bus depot in the Sydney suburb of Brookvale, operated by which agency, of the Government of New South Wales, operating bus services in Sydney?",
+        "real_answer": "State Transit Authority",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Brookvale Bus Depot is a bus depot in the Sydney suburb of Brookvale, operated by which agency, of the Government of New South Wales, operating bus services in Sydney?\n## Answer : State Transit Authority of New South Wales\n## Supporting fact : The State Transit Authority of New South Wales, also referred to as State Transit or STA, is an agency of the Government of New South Wales operating bus services in Sydney.",
+        "message_for_gpt": "<Output format>\n## Question : Brookvale Bus Depot is a bus depot in the Sydney suburb of Brookvale, operated by which agency, of the Government of New South Wales, operating bus services in Sydney?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #10",
+        "question": "While Fargesia is a genus of Asian bamboo in the grass family, what family is Diphylleia in?",
+        "real_answer": "Berberidaceae family",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : While Fargesia is a genus of Asian bamboo in the grass family, what family is Diphylleia in?\n## Answer : Berberidaceae\n## Supporting fact : Diphylleia is a genus of herbaceous perennial flowering plants in the family Berberidaceae.",
+        "message_for_gpt": "<Output format>\n## Question : While Fargesia is a genus of Asian bamboo in the grass family, what family is Diphylleia in?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #11",
+        "question": "Are Cryptanthus and Trichodiadema in the same family?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Are Cryptanthus and Trichodiadema in the same family?\n## Answer : no\n## Supporting fact : Cryptanthus belongs to the family Bromeliaceae, while Trichodiadema belongs to the family Aizoaceae.",
+        "message_for_gpt": "<Output format>\n## Question : Are Cryptanthus and Trichodiadema in the same family?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #12",
+        "question": "Are both Firmiana and Petasites a genus of flowering plants in the Malvaceae family?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Are both Firmiana and Petasites a genus of flowering plants in the Malvaceae family?\n## Answer : No\n## Supporting fact : Firmiana is a genus of flowering plants in the family Malvaceae, while Petasites is a genus in the family Asteraceae.",
+        "message_for_gpt": "<Output format>\n## Question : Are both Firmiana and Petasites a genus of flowering plants in the Malvaceae family?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #13",
+        "question": " Where was the person who owned The Gold Derby Awards since 2015 born?",
+        "real_answer": "New York City",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Where was the person who owned The Gold Derby Awards since 2015 born?\n## Answer : United States\n## Supporting fact : The Gold Derby Awards have been owned by a person born in the United States since 2015.",
+        "message_for_gpt": "<Output format>\n## Question :  Where was the person who owned The Gold Derby Awards since 2015 born?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #14",
+        "question": "Were William Nigh and Brian Robbins both American film directors?",
+        "real_answer": "yes",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Were William Nigh and Brian Robbins both American film directors?\n## Answer : Yes\n## Supporting fact : \nWilliam Nigh (October 12, 1881 – November 27, 1955) was an American film director, writer, and actor.\nBrian Robbins (born November 22, 1963) is an American film director, producer, and actor.",
+        "message_for_gpt": "<Output format>\n## Question : Were William Nigh and Brian Robbins both American film directors?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #15",
+        "question": "To what family does Kleinia and Rudbeckia belong to?",
+        "real_answer": "the sunflower family.",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : To what family does Kleinia and Rudbeckia belong to?\n## Answer : Asteraceae\n## Supporting fact : Kleinia and Rudbeckia belong to the Asteraceae family.",
+        "message_for_gpt": "<Output format>\n## Question : To what family does Kleinia and Rudbeckia belong to?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #16",
+        "question": "When did Metagaming Concepts publish Monsters! Monsters!?",
+        "real_answer": "1976",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : When did Metagaming Concepts publish Monsters! Monsters!?\n## Answer : 1976\n## Supporting fact : Monsters! Monsters! was published by Metagaming Concepts in 1976.",
+        "message_for_gpt": "<Output format>\n## Question : When did Metagaming Concepts publish Monsters! Monsters!?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #17",
+        "question": "Which Italian actress born in 1971 stars in Lucignolo?",
+        "real_answer": "Claudia Gerini",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Which Italian actress born in 1971 stars in Lucignolo?\n## Answer : Isabella Ferrari\n## Supporting fact : \nIsabella Ferrari (born March 31, 1971) is an Italian actress who stars in the film Lucignolo.",
+        "message_for_gpt": "<Output format>\n## Question : Which Italian actress born in 1971 stars in Lucignolo?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #18",
+        "question": "Daniel 'Dani' Jimenez plays as a goalkeeper for which \"Segunda Division\" team?",
+        "real_answer": "AD Alcorcón",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Daniel 'Dani' Jimenez plays as a goalkeeper for which \"Segunda Division\" team?\n## Answer : \n## Supporting fact :  ",
+        "message_for_gpt": "<Output format>\n## Question : Daniel 'Dani' Jimenez plays as a goalkeeper for which \"Segunda Division\" team?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #19",
+        "question": " Dragon's Hall is a supplement for fantasy role-playing games published by a commpany active since what year?",
+        "real_answer": "1976",
+        "supporting_fact": [],
+        "gpt_answer": "## Question :  Dragon's Hall is a supplement for fantasy role-playing games published by a company active since what year?\n## Answer : 1974\n## Supporting fact : \nDragon's Hall is a supplement for fantasy role-playing games published by TSR, Inc., a company active since 1974.",
+        "message_for_gpt": "<Output format>\n## Question :  Dragon's Hall is a supplement for fantasy role-playing games published by a commpany active since what year?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #20",
+        "question": "Anna-Lena Grönefeld is from Germany, whereas Pavel Složil is from where?",
+        "real_answer": "Czechoslovakia",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Anna-Lena Grönefeld is from Germany, whereas Pavel Složil is from where?\n## Answer : Czechoslovakia\n## Supporting fact : Pavel Složil (born 29 October 1955) was a professional tennis player from Czechoslovakia.",
+        "message_for_gpt": "<Output format>\n## Question : Anna-Lena Grönefeld is from Germany, whereas Pavel Složil is from where?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #21",
+        "question": "Swainsonia and Leucocoryne are both what classifaction?",
+        "real_answer": "a genus",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Swainsonia and Leucocoryne are both what classifaction?\n## Answer : plants\n## Supporting fact : Swainsonia and Leucocoryne are both genera of flowering plants.",
+        "message_for_gpt": "<Output format>\n## Question : Swainsonia and Leucocoryne are both what classifaction?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #22",
+        "question": "Who was born first, Victor Amaya or Robin White?",
+        "real_answer": "Victor Amaya",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Who was born first, Victor Amaya or Robin White?\n## Answer : Victor Amaya\n## Supporting fact : \nVictor Amaya (born July 25, 1954) is a former professional tennis player from the United States.\nRobin White (born December 6, 1963) is a former professional tennis player from the United States.",
+        "message_for_gpt": "<Output format>\n## Question : Who was born first, Victor Amaya or Robin White?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #23",
+        "question": "While Saša Lukić is a professional footballer, what is Levante UD?",
+        "real_answer": "Spanish football club",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : While Saša Lukić is a professional footballer, what is Levante UD?\n## Answer : football club\n## Supporting fact : Levante UD is a Spanish football club based in Valencia, Spain.",
+        "message_for_gpt": "<Output format>\n## Question : While Saša Lukić is a professional footballer, what is Levante UD?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #24",
+        "question": "Q: Who is older, Wayne Black or Byron Black?",
+        "real_answer": "Byron Black",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Who is older, Wayne Black or Byron Black?\n## Answer : Wayne Black\n## Supporting fact : Wayne Black was born on July 29, 1976, while Byron Black was born on October 6, 1969.",
+        "message_for_gpt": "<Output format>\n## Question : Q: Who is older, Wayne Black or Byron Black?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #25",
+        "question": "Do Tuberaria and Ipheion share the same family, although they are two different genera?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Do Tuberaria and Ipheion share the same family, although they are two different genera?\n## Answer : No\n## Supporting fact : Tuberaria belongs to the family Cistaceae, while Ipheion belongs to the family Amaryllidaceae.",
+        "message_for_gpt": "<Output format>\n## Question : Do Tuberaria and Ipheion share the same family, although they are two different genera?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #26",
+        "question": "Who was born first, Byron Black or Balázs Taróczy?",
+        "real_answer": "Balázs Taróczy",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Who was born first, Byron Black or Balázs Taróczy?\n## Answer : Balázs Taróczy\n## Supporting fact : Balázs Taróczy was born on 9 May 1954, whereas Byron Black was born on 6 October 1969.",
+        "message_for_gpt": "<Output format>\n## Question : Who was born first, Byron Black or Balázs Taróczy?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #27",
+        "question": "Which sports is Alex O'Brien and Marc Rosset related to ?",
+        "real_answer": "tennis",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Which sports is Alex O'Brien and Marc Rosset related to?\n## Answer : Tennis\n## Supporting fact : \nAlex O'Brien is a former professional tennis player from the United States.\nMarc Rosset is a retired Swiss professional tennis player.",
+        "message_for_gpt": "<Output format>\n## Question : Which sports is Alex O'Brien and Marc Rosset related to ?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #28",
+        "question": "Are Andrei Olhovskiy and Stephen Huss from the same country?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Are Andrei Olhovskiy and Stephen Huss from the same country?\n## Answer : No\n## Supporting fact : \nAndrei Olhovskiy is from Russia while Stephen Huss is from Australia.",
+        "message_for_gpt": "<Output format>\n## Question : Are Andrei Olhovskiy and Stephen Huss from the same country?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #29",
+        "question": "Matt James, born in 1981, an American game designer and a decorated veteran of the United States Army, and has also designed game content for which American game company that produces role-playing games and game supplements, also known as Open Design?",
+        "real_answer": "Kobold Press",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Matt James, born in 1981, an American game designer and a decorated veteran of the United States Army, has also designed game content for which American game company that produces role-playing games and game supplements, also known as Open Design?\n## Answer : Kobold Press\n## Supporting fact : Matt James, born in 1981, is a game designer and a decorated veteran of the United States Army. He has designed game content for Kobold Press, an American game company that produces role-playing games and game supplements, also known as Open Design.",
+        "message_for_gpt": "<Output format>\n## Question : Matt James, born in 1981, an American game designer and a decorated veteran of the United States Army, and has also designed game content for which American game company that produces role-playing games and game supplements, also known as Open Design?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #30",
+        "question": "Both Byron Black and Iván Molina play which sport?",
+        "real_answer": "tennis",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Both Byron Black and Iván Molina play which sport?\n## Answer : tennis\n## Supporting fact :\nByron Black is a former professional tennis player from Zimbabwe.\nIván Molina is a tennis player from Costa Rica.",
+        "message_for_gpt": "<Output format>\n## Question : Both Byron Black and Iván Molina play which sport?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #31",
+        "question": "The Star Boarder is a 1914 American short comedy film starring which English comic actor, filmmaker, and composer who rose to fame in the era of silent film?",
+        "real_answer": "Charlie Chaplin",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : The Star Boarder is a 1914 American short comedy film starring which English comic actor, filmmaker, and composer who rose to fame in the era of silent film?\n## Answer : Charlie Chaplin\n## Supporting fact : \nThe Star Boarder is a 1914 American short comedy film directed by George Nichols and starring Charlie Chaplin, an English comic actor, filmmaker, and composer who rose to fame in the era of silent film.",
+        "message_for_gpt": "<Output format>\n## Question : The Star Boarder is a 1914 American short comedy film starring which English comic actor, filmmaker, and composer who rose to fame in the era of silent film?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #32",
+        "question": "Are Shelby Cannon and Andrei Olhovskiy both from America?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Are Shelby Cannon and Andrei Olhovskiy both from America?\n## Answer : No\n## Supporting fact : \nShelby Cannon is American, while Andrei Olhovskiy is Russian.",
+        "message_for_gpt": "<Output format>\n## Question : Are Shelby Cannon and Andrei Olhovskiy both from America?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #33",
+        "question": "What was the birth daye of an Italian-German footballer who plays for a reserve team at Stadion Rote Erde?",
+        "real_answer": "17 January 1986",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What was the birth daye of an Italian-German footballer who plays for a reserve team at Stadion Rote Erde?\n## Answer : 1998\n## Supporting fact : The Italian-German footballer who plays for a reserve team at Stadion Rote Erde was born in 1998.",
+        "message_for_gpt": "<Output format>\n## Question : What was the birth daye of an Italian-German footballer who plays for a reserve team at Stadion Rote Erde?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #34",
+        "question": "Are Travis Parrott and Menno Oosting both tennis players?",
+        "real_answer": "yes",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Are Travis Parrott and Menno Oosting both tennis players?\n## Answer : Yes\n## Supporting fact : \nTravis Parrott is a former American professional tennis player.\nMenno Oosting was a professional tennis player from the Netherlands.",
+        "message_for_gpt": "<Output format>\n## Question : Are Travis Parrott and Menno Oosting both tennis players?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #35",
+        "question": "Which has more species, Lysichiton or Aechmea?",
+        "real_answer": "Aechmea",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Which has more species, Lysichiton or Aechmea?\n## Answer : \n## Supporting fact : Both Lysichiton and Aechmea are genera of plants, but the number of species in each genus varies. Lysichiton has 2 species, while Aechmea has over 250 species.",
+        "message_for_gpt": "<Output format>\n## Question : Which has more species, Lysichiton or Aechmea?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #36",
+        "question": "What son of a Chinese fencer is an entertainer and is fluent in 6 languages?",
+        "real_answer": "Jackson Wang",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What son of a Chinese fencer is an entertainer and is fluent in 6 languages?\n## Answer : Alexander Dreymon\n## Supporting fact : Alexander Dreymon, the son of a Chinese fencer, is an entertainer known for his role in the TV series \"The Last Kingdom\" and is fluent in 6 languages.",
+        "message_for_gpt": "<Output format>\n## Question : What son of a Chinese fencer is an entertainer and is fluent in 6 languages?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #37",
+        "question": "Were Herbert Blaché and Jaap Speyer of the same nationality?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Were Herbert Blaché and Jaap Speyer of the same nationality?\n## Answer : No\n## Supporting fact :\nHerbert Blaché was a French filmmaker and producer.\nJaap Speyer was a German film director.",
+        "message_for_gpt": "<Output format>\n## Question : Were Herbert Blaché and Jaap Speyer of the same nationality?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #38",
+        "question": "Do the genuses Hyacinthoides and Mikania belong to the same family?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Do the genuses Hyacinthoides and Mikania belong to the same family?\n## Answer : No\n## Supporting fact : Hyacinthoides belongs to the family Asparagaceae, while Mikania belongs to the family Asteraceae.",
+        "message_for_gpt": "<Output format>\n## Question : Do the genuses Hyacinthoides and Mikania belong to the same family?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #39",
+        "question": "What was the name of the Dutch Golden Age flower painter born in the town historically named Dort in English?",
+        "real_answer": "Jacob van Walscapelle",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What was the name of the Dutch Golden Age flower painter born in the town historically named Dort in English?\n## Answer : Ambrosius Bosschaert\n## Supporting fact : Ambrosius Bosschaert (1573-1621) was a Dutch Golden Age flower painter. He was born in the town historically named Dort, which is now known as Dordrecht.",
+        "message_for_gpt": "<Output format>\n## Question : What was the name of the Dutch Golden Age flower painter born in the town historically named Dort in English?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #40",
+        "question": "Pileostegia and Billbergia, are native to Asia?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Pileostegia and Billbergia, are native to Asia?\n## Answer : No\n## Supporting fact : Pileostegia is native to the Himalayas, China, and Southeast Asia, while Billbergia is native to South America.",
+        "message_for_gpt": "<Output format>\n## Question : Pileostegia and Billbergia, are native to Asia?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #41",
+        "question": "Senegalese professional footballer, Abdoulaye Fall, plays for what Spanish football team founded in 2007?",
+        "real_answer": "Extremadura UD",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Senegalese professional footballer, Abdoulaye Fall, plays for what Spanish football team founded in 2007?\n## Answer : \n## Supporting fact : ",
+        "message_for_gpt": "<Output format>\n## Question : Senegalese professional footballer, Abdoulaye Fall, plays for what Spanish football team founded in 2007?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #42",
+        "question": "Whiting is an unincorporated community in Mississippi County, in the U.S. state of Missouri, a U.S. state is a constituent political entity of which entity?",
+        "real_answer": "United States of America",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Whiting is an unincorporated community in Mississippi County, in the U.S. state of Missouri, a U.S. state is a constituent political entity of which entity?\n## Answer : United States\n## Supporting fact : The U.S. state of Missouri is a constituent political entity of the United States.",
+        "message_for_gpt": "<Output format>\n## Question : Whiting is an unincorporated community in Mississippi County, in the U.S. state of Missouri, a U.S. state is a constituent political entity of which entity?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #43",
+        "question": "The 1981 Furman Paladins football team is from what city and state?",
+        "real_answer": "Greenville, South Carolina",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : The 1981 Furman Paladins football team is from what city and state?\n## Answer : Greenville, South Carolina\n## Supporting fact : The Furman Paladins football team represents Furman University in Greenville, South Carolina.",
+        "message_for_gpt": "<Output format>\n## Question : The 1981 Furman Paladins football team is from what city and state?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #44",
+        "question": "Are both Javier Frana and Pavel Složil from Czechoslovakia?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Are both Javier Frana and Pavel Složil from Czechoslovakia?\n## Answer : No\n## Supporting fact : Javier Frana is from Argentina while Pavel Složil is from Czechoslovakia.",
+        "message_for_gpt": "<Output format>\n## Question : Are both Javier Frana and Pavel Složil from Czechoslovakia?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #45",
+        "question": "Who directed the 2003 South Korean melodrama film that Lee Ki-woo acted in?",
+        "real_answer": "Kwak Jae-yong",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Who directed the 2003 South Korean melodrama film that Lee Ki-woo acted in?\n## Answer : Lee Jang-soo\n## Supporting fact : Lee Jang-soo directed the 2003 South Korean melodrama film in which Lee Ki-woo acted.",
+        "message_for_gpt": "<Output format>\n## Question : Who directed the 2003 South Korean melodrama film that Lee Ki-woo acted in?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #46",
+        "question": "Which one of Canada's three Maritime provinces is The Back Bay Formation  a geologic formation in",
+        "real_answer": "New Brunswick",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Which one of Canada's three Maritime provinces is The Back Bay Formation  a geologic formation in\n## Answer : New Brunswick\n## Supporting fact : The Back Bay Formation is a geologic formation in New Brunswick.",
+        "message_for_gpt": "<Output format>\n## Question : Which one of Canada's three Maritime provinces is The Back Bay Formation  a geologic formation in\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #47",
+        "question": "Which country did the bands Thin White Rope and Eve's Plum originate?",
+        "real_answer": "American",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Which country did the bands Thin White Rope and Eve's Plum originate?\n## Answer : United States\n## Supporting fact : \nThin White Rope was an American rock band from Davis, California. \nEve's Plum was a rock band from New York City, United States.",
+        "message_for_gpt": "<Output format>\n## Question : Which country did the bands Thin White Rope and Eve's Plum originate?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #48",
+        "question": "Are both Iresine, a genus of plants in the amaranth family, and Tolpis in the dandelion tribe flowering plants?",
+        "real_answer": "yes",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Are both Iresine, a genus of plants in the amaranth family, and Tolpis in the dandelion tribe flowering plants?\n## Answer : Yes\n## Supporting fact : Both Iresine, a genus of plants in the amaranth family, and Tolpis in the dandelion tribe are flowering plants.",
+        "message_for_gpt": "<Output format>\n## Question : Are both Iresine, a genus of plants in the amaranth family, and Tolpis in the dandelion tribe flowering plants?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #49",
+        "question": "What type of game is the game which Hon'inbō Genjō plays professionally?",
+        "real_answer": "abstract strategy board game",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What type of game is the game which Hon'inbō Genjō plays professionally?\n## Answer : Go\n## Supporting fact : \nHon'inbō Genjō was a professional Go player in Japan.",
+        "message_for_gpt": "<Output format>\n## Question : What type of game is the game which Hon'inbō Genjō plays professionally?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #50",
+        "question": "What is a genus of North American plants in the aster tribe within the daisy family, Sorbus or Townsendia ?",
+        "real_answer": "Townsendia",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What is a genus of North American plants in the aster tribe within the daisy family, Sorbus or Townsendia?\n## Answer : Genus Townsendia\n## Supporting fact : Genus Townsendia is a genus of North American plants in the aster tribe within the daisy family.",
+        "message_for_gpt": "<Output format>\n## Question : What is a genus of North American plants in the aster tribe within the daisy family, Sorbus or Townsendia ?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #51",
+        "question": "Which english actor, born 5 April 1981, is featured in the upcoming animated fantasy film Magik?",
+        "real_answer": "Tom Riley",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Which english actor, born 5 April 1981, is featured in the upcoming animated fantasy film Magik?\n## Answer : Benedict Cumberbatch\n## Supporting fact : Benedict Cumberbatch, born on 19th of July, 1976, is an English actor known for his role in various films including Sherlock Holmes, Doctor Strange, and The Imitation Game.",
+        "message_for_gpt": "<Output format>\n## Question : Which english actor, born 5 April 1981, is featured in the upcoming animated fantasy film Magik?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #52",
+        "question": "Emmanuel Afriyie Mario Sabbi (born December 24, 1997) is an American professional soccer player who plays as forward for Hobro IK, a Danish football club, currently playing in which organization?",
+        "real_answer": "Danish Superliga",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Emmanuel Afriyie Mario Sabbi (born December 24, 1997) is an American professional soccer player who plays as a forward for Hobro IK, a Danish football club, currently playing in which organization?\n## Answer : Danish 1st Division\n## Supporting fact : Hobro IK, the Danish football club that Emmanuel Afriyie Mario Sabbi plays for as a forward, is currently competing in the Danish 1st Division.",
+        "message_for_gpt": "<Output format>\n## Question : Emmanuel Afriyie Mario Sabbi (born December 24, 1997) is an American professional soccer player who plays as forward for Hobro IK, a Danish football club, currently playing in which organization?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #53",
+        "question": " Cat Run 2 is a 2014 direct-to-video American comedy action film starring an American professional what?",
+        "real_answer": "poker player",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Cat Run 2 is a 2014 direct-to-video American comedy action film starring an American professional what?\n## Answer : actor\n## Supporting fact : \nCat Run 2 is a 2014 direct-to-video American comedy action film starring American actor Scott Mechlowicz.",
+        "message_for_gpt": "<Output format>\n## Question :  Cat Run 2 is a 2014 direct-to-video American comedy action film starring an American professional what?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #54",
+        "question": "Are Fred Olen Ray and Brian Henson both from the United States?",
+        "real_answer": "yes",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Are Fred Olen Ray and Brian Henson both from the United States?\n## Answer : Yes\n## Supporting fact : \nFred Olen Ray is from the United States.\nBrian Henson is from the United States.",
+        "message_for_gpt": "<Output format>\n## Question : Are Fred Olen Ray and Brian Henson both from the United States?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #55",
+        "question": "Are both Pedro Sienna and Harry L. Fraser both American film directors?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Are both Pedro Sienna and Harry L. Fraser both American film directors?\n## Answer : No\n## Supporting fact : \nPedro Sienna was a Chilean actor, director, and screenwriter. Harry L. Fraser was an American film director.",
+        "message_for_gpt": "<Output format>\n## Question : Are both Pedro Sienna and Harry L. Fraser both American film directors?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #56",
+        "question": "Iosefo Verevou, is a Fijian footballer who plays as a forward, are the players on an association football team who play nearest to the opposing team's goal, and are therefore most responsible for scoring goals, for which organization, in the Fiji National Football League?",
+        "real_answer": "Rewa",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Iosefo Verevou, is a Fijian footballer who plays as a forward, are the players on an association football team who play nearest to the opposing team's goal, and are therefore most responsible for scoring goals, for which organization, in the Fiji National Football League?\n## Answer : forward\n## Supporting fact : Iosefo Verevou, a Fijian footballer, plays as a forward in the Fiji National Football League.",
+        "message_for_gpt": "<Output format>\n## Question : Iosefo Verevou, is a Fijian footballer who plays as a forward, are the players on an association football team who play nearest to the opposing team's goal, and are therefore most responsible for scoring goals, for which organization, in the Fiji National Football League?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #57",
+        "question": "What was population of the city where the Dutch retired footballer Foeke Booy born?",
+        "real_answer": "108,249",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What was population of the city where the Dutch retired footballer Foeke Booy born?\n## Answer : \n## Supporting fact : ",
+        "message_for_gpt": "<Output format>\n## Question : What was population of the city where the Dutch retired footballer Foeke Booy born?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #58",
+        "question": "Who was born at an earlier date, Ray McCarey or Martin Brest?",
+        "real_answer": "Raymond Benedict \"Ray\" McCarey",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Who was born at an earlier date, Ray McCarey or Martin Brest?\n## Answer : Ray McCarey\n## Supporting fact : Ray McCarey (September 6, 1904 – December 1, 1948) was born earlier than Martin Brest. Martin Brest was born on August 8, 1951.",
+        "message_for_gpt": "<Output format>\n## Question : Who was born at an earlier date, Ray McCarey or Martin Brest?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #59",
+        "question": "Kochi 5s was led by which retired Spanish footballer?",
+        "real_answer": "Miguel Ángel \"Míchel\" Salgado Fernández",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Kochi 5s was led by which retired Spanish footballer?\n## Answer : Luis Garcia\n## Supporting fact : Luis Garcia, a retired Spanish footballer, led the Kochi 5s team.",
+        "message_for_gpt": "<Output format>\n## Question : Kochi 5s was led by which retired Spanish footballer?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #60",
+        "question": "Jacobo Morales and Jon Jost, share which mutual occupation?",
+        "real_answer": "filmmaker",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Jacobo Morales and Jon Jost, share which mutual occupation?\n## Answer : filmmaker\n## Supporting fact :\nJacobo Morales is a Puerto Rican filmmaker, actor, scriptwriter, and producer.\nJon Jost is an American avant-garde filmmaker and screenwriter.",
+        "message_for_gpt": "<Output format>\n## Question : Jacobo Morales and Jon Jost, share which mutual occupation?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #61",
+        "question": "Lucignolo starred which Italian actress and showgirl?",
+        "real_answer": "Claudia Gerini",
+        "supporting_fact": [],
+        "gpt_answer": "<Output format>\n## Question : Lucignolo starred which Italian actress and showgirl?\n## Answer : Roberta Giarrusso\n## Supporting fact : \nRoberta Giarrusso is an Italian actress and showgirl known for starring in the movie Lucignolo.",
+        "message_for_gpt": "<Output format>\n## Question : Lucignolo starred which Italian actress and showgirl?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #62",
+        "question": "Who was born first, Xavier Malisse or Gene Mayer?",
+        "real_answer": "Gene Mayer",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Who was born first, Xavier Malisse or Gene Mayer?\n## Answer : Gene Mayer\n## Supporting fact : \nGene Mayer (born October 11, 1956) is an American former professional tennis player.\nXavier Malisse (born July 19, 1980) is a Belgian former professional tennis player.",
+        "message_for_gpt": "<Output format>\n## Question : Who was born first, Xavier Malisse or Gene Mayer?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #63",
+        "question": "Are the genuses Bromelia and Swainsona native to the same areas?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Are the genuses Bromelia and Swainsona native to the same areas?\n## Answer : no\n## Supporting fact : \nThe genus Bromelia is native to tropical and subtropical regions of the Americas, while the genus Swainsona is native to Australia.",
+        "message_for_gpt": "<Output format>\n## Question : Are the genuses Bromelia and Swainsona native to the same areas?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #64",
+        "question": "Did Jon Jost and Sidney Olcott share the same nationality?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Did Jon Jost and Sidney Olcott share the same nationality?\n## Answer : No\n## Supporting fact : \nJon Jost (born May 16, 1943) is an American filmmaker.\nSidney Olcott (September 20, 1872 – December 16, 1949) was a Canadian-born American film producer, director, actor and screenwriter.",
+        "message_for_gpt": "<Output format>\n## Question : Did Jon Jost and Sidney Olcott share the same nationality?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #65",
+        "question": "Which city is more populated, Bengbu or Chenzhou?",
+        "real_answer": "Chenzhou",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Which city is more populated, Bengbu or Chenzhou?\n## Answer : It is not possible to determine which city is more populated between Bengbu and Chenzhou without specific population data.\n## Supporting fact : ",
+        "message_for_gpt": "<Output format>\n## Question : Which city is more populated, Bengbu or Chenzhou?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #66",
+        "question": "Are both Ralph Ceder and Norman Foster a film director?",
+        "real_answer": "yes",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Are both Ralph Ceder and Norman Foster a film director?\n## Answer : Yes\n## Supporting fact : \nRalph Ceder (February 2, 1897 – September 1, 1951) was an American film director, actor, and screenwriter.\nNorman Foster (born December 13, 1903) was a film director, actor, and film editor.",
+        "message_for_gpt": "<Output format>\n## Question : Are both Ralph Ceder and Norman Foster a film director?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #67",
+        "question": "An English crime writer wrote what type of novel in 2005?",
+        "real_answer": "psychological thriller",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : An English crime writer wrote what type of novel in 2005?\n## Answer : mystery\n## Supporting fact : \nIn 2005, English crime writer wrote a mystery novel.",
+        "message_for_gpt": "<Output format>\n## Question : An English crime writer wrote what type of novel in 2005?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #68",
+        "question": " What other person besides retired Spanish professional footballer co-assistant coaches Manchester City with Brian Kidd?",
+        "real_answer": "Domènec Torrent",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What other person besides retired Spanish professional footballer co-assistant coaches Manchester City with Brian Kidd?\n## Answer : Mikel Arteta\n## Supporting fact : Mikel Arteta is a retired Spanish professional footballer who currently serves as the co-assistant coach of Manchester City alongside Brian Kidd.",
+        "message_for_gpt": "<Output format>\n## Question :  What other person besides retired Spanish professional footballer co-assistant coaches Manchester City with Brian Kidd?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #69",
+        "question": "How many singles titles on the ATP tour have been won by the person who replaced Teymuraz Gabashvili as inaugural champion?",
+        "real_answer": "eight",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : How many singles titles on the ATP tour have been won by the person who replaced Teymuraz Gabashvili as inaugural champion?\n## Answer : 4\n## Supporting fact : \nThe person who replaced Teymuraz Gabashvili as inaugural champion, Evgeny Donskoy, has won 4 singles titles on the ATP tour.",
+        "message_for_gpt": "<Output format>\n## Question : How many singles titles on the ATP tour have been won by the person who replaced Teymuraz Gabashvili as inaugural champion?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #70",
+        "question": "Which sports event was hosted in St Louis, Missouri and was the first such event to be held outside of Europe a competitor of whom was Canadian amateur soccer player George Ducker?",
+        "real_answer": "1904 Summer Olympics",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Which sports event was hosted in St Louis, Missouri and was the first such event to be held outside of Europe a competitor of whom was Canadian amateur soccer player George Ducker?\n## Answer : Olympics\n## Supporting fact : The 1904 Summer Olympics, officially known as the Games of the III Olympiad, was hosted in St Louis, Missouri. It was the first Olympic Games held outside of Europe. Canadian amateur soccer player George Ducker competed in the Olympics during this event.",
+        "message_for_gpt": "<Output format>\n## Question : Which sports event was hosted in St Louis, Missouri and was the first such event to be held outside of Europe a competitor of whom was Canadian amateur soccer player George Ducker?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #71",
+        "question": "What year was the British lovers rock singer born, who has Movement 98 built around her vocals?",
+        "real_answer": "1960",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What year was the British lovers rock singer born, who has Movement 98 built around her vocals?\n## Answer : \n## Supporting fact :  ",
+        "message_for_gpt": "<Output format>\n## Question : What year was the British lovers rock singer born, who has Movement 98 built around her vocals?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #72",
+        "question": "Which is a genus to more specie of flowering plant, Arenaria or Aucuba?",
+        "real_answer": "Aucuba",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Which is a genus to more specie of flowering plant, Arenaria or Aucuba?\n## Answer : Arenaria\n## Supporting fact : The genus Arenaria consists of around 300 species of flowering plants, while Aucuba genus has around 3-10 species.",
+        "message_for_gpt": "<Output format>\n## Question : Which is a genus to more specie of flowering plant, Arenaria or Aucuba?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #73",
+        "question": "How many Golden Globes has the man who starred in \"The Confession\" alongside Alec Baldwin won?",
+        "real_answer": "two",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : How many Golden Globes has the man who starred in \"The Confession\" alongside Alec Baldwin won?\n## Answer : 2\n## Supporting fact : \nRichard Jenkins, who starred in \"The Confession\" alongside Alec Baldwin, has won 2 Golden Globes.",
+        "message_for_gpt": "<Output format>\n## Question : How many Golden Globes has the man who starred in \"The Confession\" alongside Alec Baldwin won?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #74",
+        "question": "Do Rika Hiraki and Mara Santangelo come from the same country?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Do Rika Hiraki and Mara Santangelo come from the same country?\n## Answer : No\n## Supporting fact : \nRika Hiraki is a retired professional tennis player from Japan.\nMara Santangelo is a retired professional tennis player from Italy.",
+        "message_for_gpt": "<Output format>\n## Question : Do Rika Hiraki and Mara Santangelo come from the same country?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #75",
+        "question": "The Grose River, a perennial river that is part of the Hawkesbury-Nepean catchment, the Nepean River, is a major perennial river, located in the south-west and west of Sydney, New South Wales, in which country?",
+        "real_answer": "Australia",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : The Grose River, a perennial river that is part of the Hawkesbury-Nepean catchment, the Nepean River, is a major perennial river, located in the south-west and west of Sydney, New South Wales, in which country?\n## Answer : Australia\n## Supporting fact : The Grose River is a major river located in New South Wales, Australia.",
+        "message_for_gpt": "<Output format>\n## Question : The Grose River, a perennial river that is part of the Hawkesbury-Nepean catchment, the Nepean River, is a major perennial river, located in the south-west and west of Sydney, New South Wales, in which country?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #76",
+        "question": "What is the capital of the country in which the Heteropsis elisi's habitat location?",
+        "real_answer": "Lomé",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What is the capital of the country in which the Heteropsis elisi's habitat location?\n## Answer : \n## Supporting fact : No information is provided about the capital city of the country where Heteropsis elisi's habitat is located.",
+        "message_for_gpt": "<Output format>\n## Question : What is the capital of the country in which the Heteropsis elisi's habitat location?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #77",
+        "question": "What is special about 1961 Summer Universiade and Sofia, Bulgaria",
+        "real_answer": "international sporting event",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What is special about 1961 Summer Universiade and Sofia, Bulgaria\n## Answer : hosted the 1961 Summer Universiade\n## Supporting fact : The 1961 Summer Universiade, also known as the World University Games, was hosted in Sofia, Bulgaria.",
+        "message_for_gpt": "<Output format>\n## Question : What is special about 1961 Summer Universiade and Sofia, Bulgaria\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #78",
+        "question": "What professional basketball player attended a coeducational high school in Albany, New York that was open to students of all faiths and plays for the Petrol Olimpija?",
+        "real_answer": "Talor Battle",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What professional basketball player attended a coeducational high school in Albany, New York that was open to students of all faiths and plays for the Petrol Olimpija?\n## Answer : Luka Dončić\n## Supporting fact : Luka Dončić, a professional basketball player, attended OŠ Mirana Jarca in Ljubljana, Slovenia, a coeducational high school in Albany, New York that was open to students of all faiths. He currently plays for Petrol Olimpija, a Slovenian professional basketball team.",
+        "message_for_gpt": "<Output format>\n## Question : What professional basketball player attended a coeducational high school in Albany, New York that was open to students of all faiths and plays for the Petrol Olimpija?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #79",
+        "question": "In what Olympics did the greatest Great British yachtsman since Sir Aineslie, CBE, win silver?",
+        "real_answer": "1976 Montreal Olympics",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : In what Olympics did the greatest Great British yachtsman since Sir Aineslie, CBE, win silver?\n## Answer : 2008 Beijing Olympics\n## Supporting fact : The greatest Great British yachtsman since Sir Ben Ainslie, CBE, won a silver medal at the 2008 Beijing Olympics.",
+        "message_for_gpt": "<Output format>\n## Question : In what Olympics did the greatest Great British yachtsman since Sir Aineslie, CBE, win silver?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #80",
+        "question": "A Kiss of Shadows, the first novel in the Merry Gentry series, was created by an American writer born in this year?",
+        "real_answer": "1963",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : A Kiss of Shadows, the first novel in the Merry Gentry series, was created by an American writer born in this year?\n## Answer : 1963\n## Supporting fact : Laurell K. Hamilton, the American writer of the Merry Gentry series, was born in 1963.",
+        "message_for_gpt": "<Output format>\n## Question : A Kiss of Shadows, the first novel in the Merry Gentry series, was created by an American writer born in this year?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #81",
+        "question": "The Lands of Cocklebie or Cocklebee formed an estate possessing a common border with many estates, including which lay within the feudal Baillerie of Cunninghame, near Stewarton, now East Ayrshire, Scotland?",
+        "real_answer": "Barony and castle of Corsehill",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : The Lands of Cocklebie or Cocklebee formed an estate possessing a common border with many estates, including which lay within the feudal Baillerie of Cunninghame, near Stewarton, now East Ayrshire, Scotland?\n## Answer : Stewarton\n## Supporting fact : The Lands of Cocklebie or Cocklebee formed an estate possessing a common border with many estates, including one which lay within the feudal Baillerie of Cunninghame, near Stewarton, now East Ayrshire, Scotland.",
+        "message_for_gpt": "<Output format>\n## Question : The Lands of Cocklebie or Cocklebee formed an estate possessing a common border with many estates, including which lay within the feudal Baillerie of Cunninghame, near Stewarton, now East Ayrshire, Scotland?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #82",
+        "question": "Which of these screen writer/film directors was also an actor: Jacques Becker or Fred Olen Ray?",
+        "real_answer": "Fred Olen Ray",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Which of these screen writer/film directors was also an actor: Jacques Becker or Fred Olen Ray?\n## Answer : Fred Olen Ray\n## Supporting fact : Fred Olen Ray is an American film director, producer, screenwriter, actor, and cinematographer.",
+        "message_for_gpt": "<Output format>\n## Question : Which of these screen writer/film directors was also an actor: Jacques Becker or Fred Olen Ray?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #83",
+        "question": "What is the population of the city where Lithuanian footballer Tomas Kančelskis was born?",
+        "real_answer": "133,900",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What is the population of the city where Lithuanian footballer Tomas Kančelskis was born?\n## Answer : Klaipėda\n## Supporting fact : Klaipėda is the third-largest city in Lithuania with a population of around 149,000.",
+        "message_for_gpt": "<Output format>\n## Question : What is the population of the city where Lithuanian footballer Tomas Kančelskis was born?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #84",
+        "question": "Which director was addressed by their abbreviated first name, Arline Burks Gant or Ray McCarey?",
+        "real_answer": "Raymond Benedict \"Ray\" McCarey",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Which director was addressed by their abbreviated first name, Arline Burks Gant or Ray McCarey?\n## Answer : Ray McCarey\n## Supporting fact :  Ray McCarey was typically addressed by his abbreviated first name.",
+        "message_for_gpt": "<Output format>\n## Question : Which director was addressed by their abbreviated first name, Arline Burks Gant or Ray McCarey?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #85",
+        "question": "What occupation is shared by Tom DiCillo and Danny Leiner?",
+        "real_answer": "film director",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What occupation is shared by Tom DiCillo and Danny Leiner?\n## Answer : director\n## Supporting fact :\nTom DiCillo is an American film director, screenwriter, cinematographer, and producer.\nDanny Leiner was an American film director best known for comedies such as \"Harold & Kumar Go to White Castle\" and \"Dude, Where's My Car?\".",
+        "message_for_gpt": "<Output format>\n## Question : What occupation is shared by Tom DiCillo and Danny Leiner?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #86",
+        "question": "Gunnera manicata and Malope are both what?",
+        "real_answer": "plant",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Gunnera manicata and Malope are both what?\n## Answer : plants\n## Supporting fact : \nGunnera manicata and Malope are both species of flowering plants.",
+        "message_for_gpt": "<Output format>\n## Question : Gunnera manicata and Malope are both what?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #87",
+        "question": "What is the capacity of the circuit that the 2003 FIA GT Magny-Cours 500km took place?",
+        "real_answer": "90,000",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What is the capacity of the circuit that the 2003 FIA GT Magny-Cours 500km took place?\n## Answer : 25,000 seats\n## Supporting fact : The Circuit de Nevers Magny-Cours, where the 2003 FIA GT Magny-Cours 500km took place, has a capacity of 25,000 seats.",
+        "message_for_gpt": "<Output format>\n## Question : What is the capacity of the circuit that the 2003 FIA GT Magny-Cours 500km took place?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #88",
+        "question": "Juan Sebastián Cabal and John Lloyd play what sport?",
+        "real_answer": "tennis",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Juan Sebastián Cabal and Robert Farah play what sport?\n## Answer : tennis\n## Supporting fact : \nJuan Sebastián Cabal and Robert Farah are a Colombian professional tennis doubles team.",
+        "message_for_gpt": "<Output format>\n## Question : Juan Sebastián Cabal and John Lloyd play what sport?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #89",
+        "question": "Who was born earlier, George Stevens or Paul Andrew Williams?",
+        "real_answer": "George Cooper Stevens",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Who was born earlier, George Stevens or Paul Andrew Williams?\n## Answer : George Stevens\n## Supporting fact : \nGeorge Stevens was born on December 18, 1904.\nPaul Andrew Williams was born on September 1973.",
+        "message_for_gpt": "<Output format>\n## Question : Who was born earlier, George Stevens or Paul Andrew Williams?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #90",
+        "question": "Was Kristie Boogert or Alex O'Brien ranked higher as a singles player?",
+        "real_answer": "No. 30 in singles",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Was Kristie Boogert or Alex O'Brien ranked higher as a singles player?\n## Answer : Kristie Boogert\n## Supporting fact : Kristie Boogert reached a career-high ranking of World No. 29 in singles in 1997. Alex O'Brien reached a career-high ranking of World No. 30 in singles in 1997.",
+        "message_for_gpt": "<Output format>\n## Question : Was Kristie Boogert or Alex O'Brien ranked higher as a singles player?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #91",
+        "question": "50 Lekë (50 L) have a value of 50 Albanian lek, the lek is the official currency of Albania, and is subdivided into how many \"qindarka\" (singular \"qindarkë\"), although qindarka are no longer issued?",
+        "real_answer": "100",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : 50 Lekë (50 L) have a value of 50 Albanian lek, the lek is the official currency of Albania, and is subdivided into how many \"qindarka\" (singular \"qindarkë\"), although qindarka are no longer issued?\n## Answer : 100\n## Supporting fact : The subdivision of the Albanian lek into qindarka ceased to exist in 1965, but the conversion rate was 1 lek to 100 qindarka before that.",
+        "message_for_gpt": "<Output format>\n## Question : 50 Lekë (50 L) have a value of 50 Albanian lek, the lek is the official currency of Albania, and is subdivided into how many \"qindarka\" (singular \"qindarkë\"), although qindarka are no longer issued?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #92",
+        "question": "Scream 2 is the fifth studio album by German trance producer & DJ Markus Schulz, released on which date, by Armada Music?",
+        "real_answer": "21 February 2014",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Scream 2 is the fifth studio album by German trance producer & DJ Markus Schulz, released on which date, by Armada Music?\n## Answer : March 21, 2014\n## Supporting fact : Scream 2, the fifth studio album by Markus Schulz, was released on March 21, 2014, under Armada Music label.",
+        "message_for_gpt": "<Output format>\n## Question : Scream 2 is the fifth studio album by German trance producer & DJ Markus Schulz, released on which date, by Armada Music?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #93",
+        "question": "WereMaurice Elvey and Arthur Lubin both from the USA? ",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Were Maurice Elvey and Arthur Lubin both from the USA?\n## Answer : No\n## Supporting fact : \nMaurice Elvey (11 November 1887 – 28 August 1967) was a British film director. \nArthur Lubin (July 25, 1898 – May 12, 1995) was an American film director and producer.",
+        "message_for_gpt": "<Output format>\n## Question : WereMaurice Elvey and Arthur Lubin both from the USA? \n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #94",
+        "question": "Martin Fisch is a Danish footballer who plays for FC Helsingør is the football part of the Danish sports club Elite 3000 Helsingør from Helsingør, the club plays in which location?",
+        "real_answer": "Danish Superliga",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Martin Fisch is a Danish footballer who plays for FC Helsingør is the football part of the Danish sports club Elite 3000 Helsingør from Helsingør, the club plays in which location?\n## Answer : Helsingør\n## Supporting fact : The Danish sports club Elite 3000 Helsingør from Helsingør is the location where the club plays.",
+        "message_for_gpt": "<Output format>\n## Question : Martin Fisch is a Danish footballer who plays for FC Helsingør is the football part of the Danish sports club Elite 3000 Helsingør from Helsingør, the club plays in which location?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #95",
+        "question": "Who is French, Henri Kontinen or Nathalie Dechy?",
+        "real_answer": "Nathalie Dechy",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Who is French, Henri Kontinen or Nathalie Dechy?\n## Answer : Nathalie Dechy\n## Supporting fact : Nathalie Dechy is a retired professional tennis player from France.",
+        "message_for_gpt": "<Output format>\n## Question : Who is French, Henri Kontinen or Nathalie Dechy?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #96",
+        "question": "The N709 and N708 connect near which city in the Gelderland province?",
+        "real_answer": "Elburg",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : The N709 and N708 connect near which city in the Gelderland province?\n## Answer : Arnhem\n## Supporting fact : The N709 and N708 highways connect near the city of Arnhem in the Gelderland province.",
+        "message_for_gpt": "<Output format>\n## Question : The N709 and N708 connect near which city in the Gelderland province?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #97",
+        "question": "Are Cymbidium and Pterocactus both in the Orchidaceae family?",
+        "real_answer": "no",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Are Cymbidium and Pterocactus both in the Orchidaceae family?\n## Answer : No\n## Supporting fact : Cymbidium belongs to the Orchidaceae family, while Pterocactus belongs to the Cactaceae family.",
+        "message_for_gpt": "<Output format>\n## Question : Are Cymbidium and Pterocactus both in the Orchidaceae family?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #98",
+        "question": "What was the name of the TV series that one of the Hunley movie actors won an Emmy for?",
+        "real_answer": "Gotti",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : What was the name of the TV series that one of the Hunley movie actors won an Emmy for?\n## Answer : \n## Supporting fact : Please provide the name of the TV series that one of the Hunley movie actors won an Emmy for.",
+        "message_for_gpt": "<Output format>\n## Question : What was the name of the TV series that one of the Hunley movie actors won an Emmy for?\n## Answer : \n## Supporting fact : "
+    },
+    {
+        "data_number": "number #99",
+        "question": "Hyposmocoma fulvogriesa is endemic to Kauai, which is also know as what?",
+        "real_answer": "the \"Garden Isle\"",
+        "supporting_fact": [],
+        "gpt_answer": "## Question : Hyposmocoma fulvogriesa is endemic to Kauai, which is also known as what?\n## Answer : island\n## Supporting fact : Kauai is one of the main islands in the Hawaiian archipelago.",
+        "message_for_gpt": "<Output format>\n## Question : Hyposmocoma fulvogriesa is endemic to Kauai, which is also know as what?\n## Answer : \n## Supporting fact : "
+    }
+]
