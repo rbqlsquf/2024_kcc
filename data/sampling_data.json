@@ -1,0 +1,2807 @@
+[
+  {
+    "supporting_facts": [
+      [
+        "Brian Kidd",
+        0
+      ],
+      [
+        "Mikel Arteta",
+        0
+      ]
+    ],
+    "level": "hard",
+    "question": " What other person besides retired Spanish professional footballer co-assistant coaches Manchester City with Brian Kidd?",
+    "context": [
+      [
+        "Fergie's Fledglings",
+        [
+          "Fergie's Fledglings were a group of football players recruited by Manchester United under the management of Sir Alex Ferguson (often nicknamed \"Fergie\") and trained by assistant coaches Brian Kidd and Eric Harrison, before eventually progressing to the first team during the 1990s."
+        ]
+      ],
+      [
+        "Mikel Arteta",
+        [
+          "Mikel Arteta Amatriain (born 26 March 1982) is a retired Spanish professional footballer who played as a midfielder.",
+          " He is currently the co-assistant coach of Manchester City, alongside fellow co-assistant Brian Kidd, Dom\u00e8nec Torrent and manager Pep Guardiola."
+        ]
+      ],
+      [
+        "Jos\u00e9 Mari Garc\u00eda",
+        [
+          "Jos\u00e9 Mar\u00eda Garc\u00eda Lafuente (born 10 February 1971), commonly known as Jos\u00e9 Mari, is a retired Spanish professional footballer who played as a midfielder."
+        ]
+      ],
+      [
+        "Kiko Torres",
+        [
+          "Enrique 'Kiko' Torres Mart\u00edn (born 28 October 1975 in Madrid) is a retired Spanish professional footballer who played as a midfielder."
+        ]
+      ],
+      [
+        "Juan Cutillas",
+        [
+          "Juan Cutillas Espa\u00f1a is a retired Spanish professional footballer and manager.",
+          " He is a former manager of the Philippines national football team."
+        ]
+      ],
+      [
+        "Jos\u00e9 \u00c1ngel Rojo",
+        [
+          "Jos\u00e9 \u00c1ngel Rojo Arroitia (born 19 March 1948) is a retired Spanish professional footballer who played as a midfielder."
+        ]
+      ],
+      [
+        "Sergio Pelegr\u00edn",
+        [
+          "Sergio Pelegr\u00edn L\u00f3pez (born 18 April 1979) is a retired Spanish professional footballer who played as a central defender."
+        ]
+      ],
+      [
+        "M\u00edchel Salgado",
+        [
+          "Miguel \u00c1ngel \"M\u00edchel\" Salgado Fern\u00e1ndez (born 22 October 1975) is a retired Spanish professional footballer who played as a right back."
+        ]
+      ],
+      [
+        "Brian Kidd",
+        [
+          "Brian Kidd (born 29 May 1949) is an English football coach and former player, who is currently the co-assistant coach of Manchester City, alongside fellow co-assistants Mikel Arteta and Dom\u00e8nec Torrent, and manager Pep Guardiola."
+        ]
+      ],
+      [
+        "Chano (footballer, born 1965)",
+        [
+          "Sebasti\u00e1n Cruzado Fern\u00e1ndez (born 28 February 1965), known as Chano, is a retired Spanish professional footballer who played mainly as an attacking midfielder."
+        ]
+      ]
+    ],
+    "answer": "Dom\u00e8nec Torrent",
+    "_id": "5ae2665e5542992decbdcceb",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "2013 Morocco Tennis Tour \u2013 Kenitra \u2013 Singles",
+        0
+      ],
+      [
+        "Dominic Thiem",
+        1
+      ]
+    ],
+    "level": "medium",
+    "question": "How many singles titles on the ATP tour have been won by the person who replaced Teymuraz Gabashvili as inaugural champion?",
+    "context": [
+      [
+        "2013 Morocco Tennis Tour \u2013 Kenitra \u2013 Singles",
+        [
+          "Dominic Thiem became the inaugural champion when Teymuraz Gabashvili retired 7\u20136, 5\u20131."
+        ]
+      ],
+      [
+        "2016 Karshi Challenger \u2013 Singles",
+        [
+          "Teymuraz Gabashvili was the defending champion but chose not to participate."
+        ]
+      ],
+      [
+        "2016 Open 13 \u2013 Singles",
+        [
+          "Gilles Simon was the defending champion, but lost in the first round to Teymuraz Gabashvili."
+        ]
+      ],
+      [
+        "Dominic Thiem",
+        [
+          "Dominic Thiem (] ; born 3 September 1993) is an Austrian professional tennis player who has an ATP high ranking of world No. 7 which he first achieved on 6 June 2016.",
+          " He has won eight singles titles on the ATP Tour."
+        ]
+      ],
+      [
+        "2014 Samarkand Challenger \u2013 Singles",
+        [
+          "Teymuraz Gabashvili was the defending champion but decided not to participate."
+        ]
+      ],
+      [
+        "2016 Fergana Challenger \u2013 Men's Singles",
+        [
+          "Teymuraz Gabashvili was the defending champion, but decided not to defend his title."
+        ]
+      ],
+      [
+        "2009 Baden Open \u2013 Singles",
+        [
+          "Teymuraz Gabashvili was the defending champion; however, he chose not to play this year."
+        ]
+      ],
+      [
+        "2014 Tashkent Challenger \u2013 Doubles",
+        [
+          "Mikhail Elgin and Teymuraz Gabashvili were the defending champions, but Gabashvili chose not to compete this year.",
+          " Elgin played alongside Alexander Kudryavtsev and lost in the first round to Frank Moser and Alexander Satschko."
+        ]
+      ],
+      [
+        "2014 Karshi Challenger \u2013 Singles",
+        [
+          "Teymuraz Gabashvili was the defending champion, but decided not to compete."
+        ]
+      ],
+      [
+        "Nino Serdaru\u0161i\u0107",
+        [
+          "Nino Serdaru\u0161i\u0107 (born 13 December 1996) is a Croatian tennis player.",
+          " Serdaru\u0161i\u0107 had a career high junior ranking of 21, and partnering Petros Chrysochos, made the doubles semifinals of the 2014 Wimbledon Championships boys' doubles.",
+          " He made his ATP main draw debut at the 2014 ATP Vegeta Croatia Open Umag in the doubles event, partnering Dino Marcan, losing in the first round to the second seeds Pablo Cuevas and Horacio Zeballos in three sets.",
+          " In 2016, he made his first appearance in an ATP singles final - also in the Croatia Open - losing in straight sets to Teymuraz Gabashvili."
+        ]
+      ]
+    ],
+    "answer": "eight",
+    "_id": "5ae6e8035542992ae0d163a8",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "George Ducker",
+        0
+      ],
+      [
+        "1904 Summer Olympics",
+        0
+      ],
+      [
+        "1904 Summer Olympics",
+        1
+      ]
+    ],
+    "level": "easy",
+    "question": "Which sports event was hosted in St Louis, Missouri and was the first such event to be held outside of Europe a competitor of whom was Canadian amateur soccer player George Ducker?",
+    "context": [
+      [
+        "Robert Lane (soccer)",
+        [
+          "Robert George Lane (January 16, 1882 \u2013 November 17, 1940) was a Canadian amateur soccer player who competed in the 1904 Summer Olympics."
+        ]
+      ],
+      [
+        "1904 Summer Olympics",
+        [
+          "The 1904 Summer Olympics, officially known as the Games of the III Olympiad, was an international multi-sport event which was celebrated in St. Louis, Missouri, in the United States from August 29 until September 3, 1904, as part of an extended sports program lasting from July 1 to November 23, 1904, at what is now known as Francis Field on the campus of Washington University in St. Louis.",
+          " It was the first time that the Olympic Games were held outside Europe."
+        ]
+      ],
+      [
+        "George Ducker",
+        [
+          "George Ducker (September 27, 1871 \u2013 September 26, 1952) was a Canadian amateur soccer player who competed in the 1904 Summer Olympics."
+        ]
+      ],
+      [
+        "Tom Taylor (soccer)",
+        [
+          "Thomas Sylvester \"Tom\" Taylor (December 4, 1880 \u2013 August 15, 1945) was a Canadian amateur soccer player who competed in the 1904 Summer Olympics."
+        ]
+      ],
+      [
+        "William Twaits (soccer)",
+        [
+          "William Twaits (August 20, 1879 \u2013 April 13, 1941) was a Canadian amateur soccer player who competed in the 1904 Summer Olympics."
+        ]
+      ],
+      [
+        "Ernest Linton",
+        [
+          "Albert Ernest Linton (February 17, 1880 \u2013 August 6, 1957) was a Canadian amateur soccer player who competed in the 1904 Summer Olympics."
+        ]
+      ],
+      [
+        "Gordon McDonald",
+        [
+          "Gordon McDonald was a Canadian amateur soccer player who competed in the 1904 Summer Olympics.",
+          "."
+        ]
+      ],
+      [
+        "Otto Christman",
+        [
+          "Otto Lorne Christman (February 21, 1880 \u2013 September 26, 1963) was a Canadian amateur soccer player who competed in the 1904 Summer Olympics.",
+          "."
+        ]
+      ],
+      [
+        "John Gourlay (soccer)",
+        [
+          "John Bell Gourlay (July 26, 1872 \u2013 April 7, 1949) was a Canadian amateur soccer player who competed in the 1904 Summer Olympics."
+        ]
+      ],
+      [
+        "Albert Henderson",
+        [
+          "Albert Percy Henderson (August 29, 1881 \u2013 August 20, 1947) was a Canadian amateur soccer player who competed in the 1904 Summer Olympics.",
+          " He was born in Galt, Ontario (now Cambridge), and died in Los Angeles, California."
+        ]
+      ]
+    ],
+    "answer": "1904 Summer Olympics",
+    "_id": "5ab7a99f55429928e1fe388a",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Movement 98",
+        0
+      ],
+      [
+        "Carroll Thompson",
+        0
+      ]
+    ],
+    "level": "medium",
+    "question": "What year was the British lovers rock singer born, who has Movement 98 built around her vocals?",
+    "context": [
+      [
+        "Sylvia Tella",
+        [
+          "Sylvia Tella (born Silifatu Mornii Wehabie Tella in 1961) is a British lovers rock singer, who after working as a vocalist for Boney M embarked on a successful solo career, releasing her first album in 1981.",
+          " She had a top 40 hit in 1989 in collaboration with the Blow Monkeys and again in 1990/1991 with Pop Will Eat Itself."
+        ]
+      ],
+      [
+        "Toyin Adekale",
+        [
+          "Toyin Adekale (born 21 December ??)",
+          ", often known simply as Toyin, is a British Lovers rock singer."
+        ]
+      ],
+      [
+        "Dee Sharp",
+        [
+          "Derrick Trought (born 1956), better known as Dee Sharp, is a British lovers rock singer who began his recording career in 1980, also joining Buzzz as lead singer for a time."
+        ]
+      ],
+      [
+        "Mike Anthony (singer)",
+        [
+          "Mike Anthony is a British lovers rock singer, who began his career in the late 1980s."
+        ]
+      ],
+      [
+        "T.T. Ross",
+        [
+          "T.T. Ross was a British lovers rock singer best known for her 1970s singles \"Last Date\" and \"Imagine\"."
+        ]
+      ],
+      [
+        "Kofi (musician)",
+        [
+          "Carol Simms, better known as Kofi, is a British lovers rock singer who was a member of the group Brown Sugar prior to embarking on a solo career."
+        ]
+      ],
+      [
+        "Carroll Thompson",
+        [
+          "Carroll Thompson (born 1960) is a British lovers rock singer, best known for her work in the 1980s."
+        ]
+      ],
+      [
+        "Louisa Mark",
+        [
+          "Louisa Lynthia Mark, also known as \"Markswoman\" (11 January 1960 \u2013 17 October 2009), was a British lovers rock singer, best known for her work between the mid-1970s and early 1980s.",
+          " Her 1975 single \"Caught You in a Lie\" is regarded as the first lovers rock single."
+        ]
+      ],
+      [
+        "Ginger Williams (singer)",
+        [
+          "Ginger Williams (born 1956) is a Jamaican-born British lovers rock singer who was one of the earliest exponents of the genre."
+        ]
+      ],
+      [
+        "Movement 98",
+        [
+          "Movement 98 was a Paul Oakenfold project on Circa Records, built around the vocals of Carroll Thompson, and also featuring input from Steve Osbourne and Rob Davis.",
+          " Their debut single, \"Joy and Heartbreak\", was a mid-paced soul release, based on the melody of Erik Satie's \"Les Trois Gymnopedie\".",
+          " It reached #27 in the UK Singles Chart in May 1990."
+        ]
+      ]
+    ],
+    "answer": "1960",
+    "_id": "5a71258b5542994082a3e5d4",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Arenaria (plant)",
+        0
+      ],
+      [
+        "Aucuba",
+        0
+      ]
+    ],
+    "level": "hard",
+    "question": "Which is a genus to more specie of flowering plant, Arenaria or Aucuba?",
+    "context": [
+      [
+        "Arenaria montana",
+        [
+          "Arenaria montana, the mountain sandwort, is a species of flowering plant in the family Caryophyllaceae, native to mountainous regions of southwestern Europe, from the Pyrenees to Portugal.",
+          " The Latin specific epithet \"montana\" refers to mountains or coming from mountains."
+        ]
+      ],
+      [
+        "Aucuba",
+        [
+          "Aucuba is a genus of three to ten species of flowering plants, now placed in the family Garryaceae, although formerly classified in the Aucubaceae or Cornaceae."
+        ]
+      ],
+      [
+        "Arenaria aculeata",
+        [
+          "Arenaria aculeata (syn.",
+          " \"Eremogone aculeata\") is a species of flowering plant in the pink family known by the common name prickly sandwort.",
+          " It is native to the western United States, where it grows mainly in mountainous areas, on rocky slopes and volcanic soils."
+        ]
+      ],
+      [
+        "Arenaria paludicola",
+        [
+          "Arenaria paludicola is a species of flowering plant in the pink family known by the common names marsh sandwort and swamp sandwort.",
+          " The plant grows in wet areas, such as marsh and bog."
+        ]
+      ],
+      [
+        "Arenaria ursina",
+        [
+          "Arenaria ursina is a species of flowering plant in the pink family known by the common name Bear Valley sandwort."
+        ]
+      ],
+      [
+        "Arenaria macradenia",
+        [
+          "Arenaria macradenia is a species of flowering plant in the pink family known by the common names Mojave sandwort and desert sandwort."
+        ]
+      ],
+      [
+        "Veronica arenaria",
+        [
+          "Veronica arenaria is a flowering plant species in the family Plantaginaceae.",
+          " It is native to New South Wales and Queensland Australia."
+        ]
+      ],
+      [
+        "Arenaria (plant)",
+        [
+          "Arenaria is a genus of flowering plants, within the family Caryophyllaceae."
+        ]
+      ],
+      [
+        "Arenaria congesta",
+        [
+          "Arenaria congesta is a species of flowering plant in the pink family known by the common name ballhead sandwort.",
+          " It is native to western North America from central Canada to the American southwest."
+        ]
+      ],
+      [
+        "Arenaria bryophylla",
+        [
+          "Arenaria bryophylla is a flowering plant in the sandwort (\"Arenaria\") genus.",
+          " It occurs in the Himalaya of China, Tibet, Nepal, Sikkim, and India.",
+          " It is the highest known flowering plant, occurring as high as 6180 m ."
+        ]
+      ]
+    ],
+    "answer": "Aucuba",
+    "_id": "5ab5f694554299488d4d9a66",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      [
+        "The Confession (1999 film)",
+        0
+      ],
+      [
+        "Ben Kingsley",
+        1
+      ]
+    ],
+    "level": "medium",
+    "question": "How many Golden Globes has the man who starred in \"The Confession\" alongside Alec Baldwin won?",
+    "context": [
+      [
+        "1997 Golden Globes (Portugal)",
+        [
+          "The 1997 Golden Globes (Portugal) were the second edition of the Golden Globes (Portugal)."
+        ]
+      ],
+      [
+        "The Confession (1999 film)",
+        [
+          "The Confession is a 1999 American drama film directed by David Hugh Jones, starring Ben Kingsley and Alec Baldwin.",
+          " It is based on the novel by Sol Yurick."
+        ]
+      ],
+      [
+        "2007 Golden Globes (Portugal)",
+        [
+          "The 2007 Golden Globes (Portugal) were the 12th edition of the Golden Globes (Portugal).",
+          " It was held on 1 April 2007 in Pra\u00e7a de Touros do Campo Pequeno, and broadcast by SIC and presented by B\u00e1rbara Guimar\u00e3es."
+        ]
+      ],
+      [
+        "2008 Golden Globes (Portugal)",
+        [
+          "The 2008 Golden Globes (Portugal) were the 13th edition of the Golden Globes (Portugal)."
+        ]
+      ],
+      [
+        "2005 Golden Globes (Portugal)",
+        [
+          "The 2005 Golden Globes (Portugal) were the tenth edition of the Golden Globes (Portugal)."
+        ]
+      ],
+      [
+        "1999 Golden Globes (Portugal)",
+        [
+          "The 1999 Golden Globes (Portugal) were the fourth edition of the Golden Globes (Portugal)."
+        ]
+      ],
+      [
+        "1996 Golden Globes (Portugal)",
+        [
+          "The 1996 Golden Globes (Portugal) were the first edition of the Golden Globes (Portugal)."
+        ]
+      ],
+      [
+        "1998 Golden Globes (Portugal)",
+        [
+          "The 1998 Golden Globes (Portugal) were the third edition of the Golden Globes (Portugal)."
+        ]
+      ],
+      [
+        "Ben Kingsley",
+        [
+          "Sir Ben Kingsley (born Krishna Pandit Bhanji; 31 December 1943) is an English actor with a career spanning over 40 years.",
+          " He has won an Oscar, Grammy, BAFTA, two Golden Globes, and a Screen Actors Guild Award.",
+          " He is known for his starring role as Mohandas Gandhi in the 1982 film \"Gandhi\", for which he won the Academy Award for Best Actor.",
+          " He is also known for his performances in the films \"Schindler's List\" (1993), \"Twelfth Night\" (1996), \"Sexy Beast\" (2000), \"House of Sand and Fog\" (2003), \"Lucky Number Slevin\" (2006), \"Shutter Island\" (2010), \"\" (2010), \"Hugo\" (2011), \"Iron Man 3\" (2013), \"The Boxtrolls\" (2014), and \"The Jungle Book\" (2016)"
+        ]
+      ],
+      [
+        "2003 Golden Globes (Portugal)",
+        [
+          "The 2003 Golden Globes (Portugal) were the eight edition of the Golden Globes (Portugal)."
+        ]
+      ]
+    ],
+    "answer": "two",
+    "_id": "5addb71f5542997545bbbdb8",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Rika Hiraki",
+        0
+      ],
+      [
+        "Mara Santangelo",
+        0
+      ]
+    ],
+    "level": "hard",
+    "question": "Do Rika Hiraki and Mara Santangelo come from the same country?",
+    "context": [
+      [
+        "1997 Danamon Open \u2013 Doubles",
+        [
+          "Rika Hiraki and Naoko Kijimuta were the defending champions but they competed with different partners that year, Hiraki with Alexia Dechaume-Balleret and Kijimuta with Nana Miyagi."
+        ]
+      ],
+      [
+        "Rika Hiraki",
+        [
+          "Rika Hiraki (Japanese: \u5e73\u6728 \u7406\u5316 , born 6 December 1971) is a former professional Japanese female tennis player."
+        ]
+      ],
+      [
+        "1998 IGA Classic \u2013 Doubles",
+        [
+          "Rika Hiraki and Nana Miyagi were the defending champions but they competed with different partners that year, Hiraki with Amy Frazier and Miyagi with Rachel McQuillan."
+        ]
+      ],
+      [
+        "2010 Monterrey Open \u2013 Doubles",
+        [
+          "Nathalie Dechy and Mara Santangelo won the tournament in 2009, but Dechy retired from tennis later in the year and Santangelo chose to not participate this year.",
+          "Iveta Bene\u0161ov\u00e1 and Barbora Z\u00e1hlavov\u00e1-Str\u00fdcov\u00e1 won in the final 3\u20136, 6\u20134, [10\u20138] against Anna-Lena Gr\u00f6nefeld and Vania King."
+        ]
+      ],
+      [
+        "2010 ASB Classic \u2013 Doubles",
+        [
+          "Nathalie Dechy and Mara Santangelo were the defending champions, but Dechy retired from tennis before being able to defend the title, and Santangelo chose not to participate this year."
+        ]
+      ],
+      [
+        "Mara Santangelo",
+        [
+          "Mara Santangelo (born 28 June 1981) is a former professional tennis player from Italy.",
+          " She retired from the sport on 28 January 2011."
+        ]
+      ],
+      [
+        "2010 Internationaux de Strasbourg \u2013 Doubles",
+        [
+          "Nathalie Dechy and Mara Santangelo were the defending champions, but Dechy retired in 2009 and Santangelo chose not to compete this year."
+        ]
+      ],
+      [
+        "1998 French Open \u2013 Mixed Doubles",
+        [
+          "Rika Hiraki and Mahesh Bhupathi were the defending champions, but chose not to compete together.",
+          " HirakI played with Paul Kilderry and lost in the third round, while Bhupathi teamed up with Rennae Stubbs and lost in the second round."
+        ]
+      ],
+      [
+        "1995 TVA Cup \u2013 Doubles",
+        [
+          "Kerry-Anne Guse and Kristine Radford won in the final 6\u20134, 6\u20134 against Rika Hiraki and Sung-Hee Park."
+        ]
+      ],
+      [
+        "1997 Wismilak International \u2013 Doubles",
+        [
+          "Alexandra Fusai and Kerry-Anne Guse were the defending champions but only Guse competed that year with Rika Hiraki."
+        ]
+      ]
+    ],
+    "answer": "no",
+    "_id": "5ae132bb554299422ee99626",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Grose River",
+        0
+      ],
+      [
+        "Nepean River",
+        0
+      ]
+    ],
+    "level": "easy",
+    "question": "The Grose River, a perennial river that is part of the Hawkesbury-Nepean catchment, the Nepean River, is a major perennial river, located in the south-west and west of Sydney, New South Wales, in which country?",
+    "context": [
+      [
+        "Tarlo River",
+        [
+          "The Tarlo River, a perennial river that is part of the Hawkesbury-Nepean catchment, is located in the Southern Tablelands and Southern Highlands regions of New South Wales, Australia."
+        ]
+      ],
+      [
+        "Nepean River",
+        [
+          "Nepean River (Aboriginal: Yandhai), is a major perennial river, located in the south-west and west of Sydney, New South Wales, Australia.",
+          " The Nepean River and its associated mouth, the Hawkesbury River, virtually encircle the metropolitan region of Sydney."
+        ]
+      ],
+      [
+        "Nattai River",
+        [
+          "The Nattai River, a perennial river that is part of the Hawkesbury-Nepean catchment, is located in the Southern Highlands region of New South Wales, Australia."
+        ]
+      ],
+      [
+        "Little River (Oberon)",
+        [
+          "The Little River, a perennial river that is part of the Hawkesbury-Nepean catchment, is located in the Central Tablelands region of New South Wales, Australia."
+        ]
+      ],
+      [
+        "Macdonald River (St Albans)",
+        [
+          "The Macdonald River is a perennial river located in the Hunter and Outer Metropolitan Sydney regions of New South Wales, Australia.",
+          " It is a part of the Hawkesbury-Nepean catchment."
+        ]
+      ],
+      [
+        "Little River (Wollondilly)",
+        [
+          "The Little River, a perennial river that is part of the Hawkesbury-Nepean catchment, is located in the Southern Highlands region of New South Wales, Australia."
+        ]
+      ],
+      [
+        "Tuglow River",
+        [
+          "The Tuglow River, a perennial river that is part of the Hawkesbury-Nepean catchment, is located in the Central Tablelands region of New South Wales, Australia."
+        ]
+      ],
+      [
+        "Tonalli River",
+        [
+          "The Tonalli River, a perennial river that is part of the Hawkesbury-Nepean catchment, is located in the Blue Mountains region of New South Wales, Australia."
+        ]
+      ],
+      [
+        "Grose River",
+        [
+          "The Grose River, a perennial river that is part of the Hawkesbury-Nepean catchment, is located in the Blue Mountains region of New South Wales, Australia."
+        ]
+      ],
+      [
+        "Coxs River",
+        [
+          "The Coxs River, a perennial river that is part of the Hawkesbury-Nepean catchment, is located in the Central Tablelands, Blue Mountains, and Macarthur regions of New South Wales, Australia."
+        ]
+      ]
+    ],
+    "answer": "Australia",
+    "_id": "5adf6d8e5542995ec70e9002",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Heteropsis elisi",
+        0
+      ],
+      [
+        "Heteropsis elisi",
+        1
+      ],
+      [
+        "Togo",
+        0
+      ],
+      [
+        "Togo",
+        1
+      ]
+    ],
+    "level": "medium",
+    "question": "What is the capital of the country in which the Heteropsis elisi's habitat location?",
+    "context": [
+      [
+        "Heteropsis elisi",
+        [
+          "Heteropsis elisi, the western patroller, is a butterfly in the Nymphalidae family.",
+          " It is found in Guinea, Sierra Leone, Ivory Coast, Ghana, Togo and Tanzania.",
+          " The nominate subspecies is found in dense Guinea savanna and the margins of semi-deciduous forest.",
+          " Subspecies \"H. e. uluguru\" is found in open grassland and shrubs at altitudes between 1,000 and 1,400 meters."
+        ]
+      ],
+      [
+        "Heteropsis sabas",
+        [
+          "Heteropsis sabas is a butterfly in the Nymphalidae family.",
+          " It is found on Madagascar.",
+          " The habitat consists of forests."
+        ]
+      ],
+      [
+        "Heteropsis strigula",
+        [
+          "Heteropsis strigula is a butterfly in the Nymphalidae family.",
+          " It is found on Madagascar.",
+          " The habitat consists of forests and forest margins."
+        ]
+      ],
+      [
+        "Togo",
+        [
+          "Togo ( ), officially the Togolese Republic (French: \"R\u00e9publique togolaise\" ), is a country in West Africa bordered by Ghana to the west, Benin to the east and Burkina Faso to the north.",
+          " It extends south to the Gulf of Guinea, where its capital Lom\u00e9 is located.",
+          " Togo covers 57,000 km2 , making it one of the smallest countries in Africa, with a population of approximately /1e6 round 1 million."
+        ]
+      ],
+      [
+        "Heteropsis laeta",
+        [
+          "Heteropsis laeta is a butterfly in the Nymphalidae family.",
+          " It is found on Madagascar.",
+          " The habitat consists of forests."
+        ]
+      ],
+      [
+        "Heteropsis turbans",
+        [
+          "Heteropsis turbans is a butterfly in the Nymphalidae family.",
+          " It is found on Madagascar.",
+          " The habitat consists of forests."
+        ]
+      ],
+      [
+        "Heteropsis laetifica",
+        [
+          "Heteropsis laetifica is a butterfly in the Nymphalidae family.",
+          " It is found on Madagascar.",
+          " The habitat consists of forests."
+        ]
+      ],
+      [
+        "Heteropsis maeva",
+        [
+          "Heteropsis maeva is a butterfly in the Nymphalidae family.",
+          " It is found on Madagascar.",
+          " The habitat consists of forests."
+        ]
+      ],
+      [
+        "Heteropsis undulans",
+        [
+          "Heteropsis undulans is a butterfly in the Nymphalidae family.",
+          " It is found on Madagascar.",
+          " The habitat consists of forests."
+        ]
+      ],
+      [
+        "Heteropsis angulifascia",
+        [
+          "Heteropsis angulifascia is a butterfly in the Nymphalidae family.",
+          " It is found on Madagascar.",
+          " The habitat consists of forests."
+        ]
+      ]
+    ],
+    "answer": "Lom\u00e9",
+    "_id": "5a86c7195542996432c571e6",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "1961 Summer Universiade",
+        0
+      ],
+      [
+        "Sofia",
+        2
+      ]
+    ],
+    "level": "easy",
+    "question": "What is special about 1961 Summer Universiade and Sofia, Bulgaria",
+    "context": [
+      [
+        "Volleyball at the 1961 Summer Universiade",
+        [
+          "Volleyball events were contested at the 1961 Summer Universiade in Sofia, Bulgaria."
+        ]
+      ],
+      [
+        "Water polo at the 1961 Summer Universiade",
+        [
+          "Water polo events were contested at the 1961 Summer Universiade in Sofia, Bulgaria."
+        ]
+      ],
+      [
+        "1961 Summer Universiade",
+        [
+          "The 1961 Summer Universiade, also known as the II Summer Universiade, was an international sporting event for university students that took place in Sofia, Bulgaria."
+        ]
+      ],
+      [
+        "Athletics at the 1961 Summer Universiade",
+        [
+          "Athletics events were contested at the 1961 Summer Universiade in Sofia, Bulgaria."
+        ]
+      ],
+      [
+        "Gymnastics at the 1961 Summer Universiade",
+        [
+          "The Gymnastics competitions in the 1961 Summer Universiade were held in Sofia, Bulgaria."
+        ]
+      ],
+      [
+        "Basketball at the Summer Universiade",
+        [
+          "Basketball tournaments have been staged at the Universiade since 1959.",
+          " The men's tournament was introduced at the 1959 Summer Universiade and the women's tournament was introduced at the 1961 Summer Universiade.",
+          " The tournament was not held during the 1975 event."
+        ]
+      ],
+      [
+        "Tennis at the 1961 Summer Universiade",
+        [
+          "Tennis events were contested at the 1961 Summer Universiade in Sofia, Bulgaria."
+        ]
+      ],
+      [
+        "Sofia",
+        [
+          "Sofia ( or or ; Bulgarian: \u0421\u043e\u0444\u0438\u044f , \"Sofiya \", ] ) is the capital and largest city of Bulgaria.",
+          " 1.26 million people live in the city and 1.68 million people live in its metropolitan area.",
+          " The city is at the foot of Vitosha Mountain in the western part of the country.",
+          " Being in the centre of the Balkan peninsula, it is midway between the Black Sea and the Adriatic Sea, and closest to the Aegean Sea."
+        ]
+      ],
+      [
+        "Volleyball at the Summer Universiade",
+        [
+          "Volleyball tournaments have been staged at the Universiade since 1959.",
+          " The men's tournament was introduced at the 1959 Summer Universiade, while the women's tournament was introduced at the 1961 Summer Universiade.",
+          " After not being included in 1975 and 1989."
+        ]
+      ],
+      [
+        "Diving at the 1961 Summer Universiade",
+        [
+          "The Diving competition in the 1961 Summer Universiade were held in Sofia, Bulgaria."
+        ]
+      ]
+    ],
+    "answer": "international sporting event",
+    "_id": "5adc3aee554299438c868d82",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Talor Battle",
+        0
+      ],
+      [
+        "Talor Battle",
+        2
+      ],
+      [
+        "Bishop Maginn High School",
+        1
+      ]
+    ],
+    "level": "easy",
+    "question": "What professional basketball player attended a coeducational high school in Albany, New York that was open to students of all faiths and plays for the Petrol Olimpija?",
+    "context": [
+      [
+        "Bojan Radulovi\u0107",
+        [
+          "Bojan Radulovi\u0107 (, born 31 March 1992) is a Slovenian-Serbian professional basketball player who plays for Petrol Olimpija of the Slovenian League."
+        ]
+      ],
+      [
+        "Devin Oliver",
+        [
+          "Devin Oliver (born July 2, 1992) is an American professional basketball player for Petrol Olimpija of the Slovenian League.",
+          " He played college basketball for Dayton."
+        ]
+      ],
+      [
+        "Gregor Hrovat",
+        [
+          "Gregor Hrovat (born August 18, 1994 in Koper) is a Slovenian professional basketball player for Petrol Olimpija of the Slovenian League.",
+          " He is a 1.96 m tall Swingman."
+        ]
+      ],
+      [
+        "Jan Barbari\u010d",
+        [
+          "Jan Barbari\u010d (born September 30, 1995 in Koper) is a Slovenian professional basketball player for Petrol Olimpija of the Slovenian League.",
+          " He is a 1.88 m tall Combo guard."
+        ]
+      ],
+      [
+        "Dra\u017een Bubni\u0107",
+        [
+          "Dra\u017een Bubni\u010d (born January 13, 1986) is a Croatian-Slovenian professional basketball player for Petrol Olimpija.",
+          " He is a 2.05 m (6\u00a0ft 9 in) tall forward."
+        ]
+      ],
+      [
+        "Jordan Morgan",
+        [
+          "Jordan Daniel Morgan (born September 15, 1991) is an American professional basketball player for Petrol Olimpija of the Slovenian League.",
+          " He played college basketball at Michigan."
+        ]
+      ],
+      [
+        "Jan \u0160pan",
+        [
+          "Jan \u0160pan (born November 20, 1992 in Ljubljana) is a Slovenian professional basketball player who plays for Petrol Olimpija of the Slovenian League.",
+          " He is a 1.87 m tall point guard."
+        ]
+      ],
+      [
+        "Erjon Kastrati",
+        [
+          "Erjon Kastrati (born 30 December 1994) is an Kosovar-Albanian professional basketball player, currently playing as a swingman for Petrol Olimpija of the Liga Nova KBM.",
+          " Kastrati plays for the Kosovo national basketball team."
+        ]
+      ],
+      [
+        "Talor Battle",
+        [
+          "Talor Battle (born September 16, 1988) is an American professional basketball player for Petrol Olimpija of the Slovenian League.",
+          " In college, he played for Penn State Nittany Lions men's basketball team.",
+          " He is from Albany, New York, and attended Bishop Maginn High School."
+        ]
+      ],
+      [
+        "Bishop Maginn High School",
+        [
+          "Bishop Maginn High School is a Catholic high school in Albany, New York.",
+          " It is coeducational and open to students of all faiths."
+        ]
+      ]
+    ],
+    "answer": "Talor Battle",
+    "_id": "5a7c584155429907fabeef64",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Rodney Pattisson",
+        2
+      ],
+      [
+        "Ben Ainslie",
+        0
+      ]
+    ],
+    "level": "medium",
+    "question": "In what Olympics did the greatest Great British yachtsman since Sir Aineslie, CBE, win silver?",
+    "context": [
+      [
+        "Brian Thompson (sailor)",
+        [
+          "Brian Thompson (born 5 March 1962) is a British yachtsman."
+        ]
+      ],
+      [
+        "James Lloyd Ashbury",
+        [
+          "James Lloyd Ashbury (1834 \u2013 3 September 1895) was a British yachtsman and Conservative Party politician."
+        ]
+      ],
+      [
+        "Peter Pye",
+        [
+          "Peter Pye (1902 \u2013 3 September 1966), Dr Edward Arthur (Peter) Pye.",
+          " MRCS, LRCP, was a British yachtsman, author and doctor."
+        ]
+      ],
+      [
+        "Ben Ainslie",
+        [
+          "Sir Charles Benedict Ainslie, CBE (born 5 February 1977) is an English competitive sailor."
+        ]
+      ],
+      [
+        "Jimmy Cornell",
+        [
+          "Jimmy Cornell is a Romanian-born British yachtsman, bestselling author and the founder of the World Cruising Club."
+        ]
+      ],
+      [
+        "John Ridgway (sailor)",
+        [
+          "John Ridgway, MBE, (born 1938), is a British yachtsman and rower."
+        ]
+      ],
+      [
+        "Rodney Pattisson",
+        [
+          "Rodney Stuart Pattisson, MBE (born 5 August 1943) is an English yachtsman.",
+          " He is a double Olympic gold medalist in sailing won at the 1968 Mexico City Olympics and 1972 Munich Olympics all in the Flying Dutchman class.",
+          " He also won a silver medal at the 1976 Montreal Olympics in the same class to become Great Britain\u2019s most successful Olympic yachtsman until Ben Ainslie overtook him with 3 gold medals and a silver medal at four different Olympic Games at the 2008 Beijing Olympics.",
+          " Pattisson was a member of Itchenor Sailing Club."
+        ]
+      ],
+      [
+        "Nigel King",
+        [
+          "Nigel King is a British yachtsman who has competed in several Volvo Ocean Races, the Jules Verne Trophy, Olympic trials and other classic yacht races around the world."
+        ]
+      ],
+      [
+        "Alex Thomson (sailor)",
+        [
+          "Alex Thomson (born 18 April 1974 in Bangor, Wales) is a British yachtsman."
+        ]
+      ],
+      [
+        "Keith White (yachtsman)",
+        [
+          "Keith White is a British yachtsman.",
+          " In October 2015 he set out on a non-stop solo circumnavigation of the world in his yacht, the \"Marathon\", in part to raise funds for charity.",
+          " White, who is disabled, lost the use of his left arm in 1991 due to a road traffic accident.",
+          " A sailor since he was 16\u00a0years old, he has achieved some significant firsts with his circumnavigation of the UK and Ireland, and his circuit of the Atlantic."
+        ]
+      ]
+    ],
+    "answer": "1976 Montreal Olympics",
+    "_id": "5ae2fd7055429928c423958f",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "A Kiss of Shadows",
+        0
+      ],
+      [
+        "Laurell K. Hamilton",
+        0
+      ]
+    ],
+    "level": "medium",
+    "question": "A Kiss of Shadows, the first novel in the Merry Gentry series, was created by an American writer born in this year?",
+    "context": [
+      [
+        "Swallowing Darkness",
+        [
+          "Swallowing Darkness (2008) is the seventh novel in the Merry Gentry series written by Laurell K. Hamilton."
+        ]
+      ],
+      [
+        "Divine Misdemeanors",
+        [
+          "Divine Misdemeanors (December 8, 2009) is the eighth novel in the Merry Gentry series written by Laurell K. Hamilton.",
+          " The book was one of the top selling novels of 2009."
+        ]
+      ],
+      [
+        "Merry Gentry (series)",
+        [
+          "The Merry Gentry series is a series of urban fantasy novels by \"New York Times\" bestselling author Laurell K. Hamilton.",
+          " The series is narrated in first person format through the eyes of the series' title character Meredith \"Merry\" Gentry, a faerie princess turned private investigator in a world where faeries exist and are known to the general public.",
+          " The first book in the series, \"A Kiss of Shadows\", was released by Del Rey on October 3, 2000.",
+          " As of 2017 there are nine books in the series."
+        ]
+      ],
+      [
+        "Laurell K. Hamilton",
+        [
+          "Laurell Kaye Hamilton (born February 19, 1963) is an American fantasy and romance writer.",
+          " She is best known as the author of two series of stories."
+        ]
+      ],
+      [
+        "Merry Gentry",
+        [
+          "Meredith \"Merry\" Gentry is the protagonist of an eponymous fantasy series by US writer Laurell K. Hamilton, best known for her other fantasy series \"\".",
+          " Since 2000, she has been alternating between the two series, publishing nine Merry Gentry novels as of 2014.",
+          " The most recent book, \"A Shiver of Light\" was published June 3, 2014."
+        ]
+      ],
+      [
+        "Mistral's Kiss",
+        [
+          "Mistral's Kiss is the fifth novel in the Merry Gentry series by Laurell K. Hamilton, and was released December 12, 2006."
+        ]
+      ],
+      [
+        "A Stroke of Midnight",
+        [
+          "A Stroke of Midnight is the fourth novel in the \"Merry Gentry\" series by Laurell K. Hamilton."
+        ]
+      ],
+      [
+        "A Kiss of Shadows",
+        [
+          "A Kiss of Shadows is the first novel in the Merry Gentry series by American writer Laurell K. Hamilton."
+        ]
+      ],
+      [
+        "A Lick of Frost",
+        [
+          "A Lick of Frost is the sixth book in the Merry Gentry series written by Laurell K. Hamilton."
+        ]
+      ],
+      [
+        "A Caress of Twilight",
+        [
+          "A Caress of Twilight is the second novel in the Merry Gentry series by Laurell K. Hamilton."
+        ]
+      ]
+    ],
+    "answer": "1963",
+    "_id": "5a7a40e25542990783324ede",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Lands of Cocklebie",
+        0
+      ],
+      [
+        "Barony and Castle of Corsehill",
+        0
+      ]
+    ],
+    "level": "easy",
+    "question": "The Lands of Cocklebie or Cocklebee formed an estate possessing a common border with many estates, including which lay within the feudal Baillerie of Cunninghame, near Stewarton, now East Ayrshire, Scotland?",
+    "context": [
+      [
+        "Barony of Ladyland",
+        [
+          "The Barony of Ladyland was in the old feudal Baillerie of Cunninghame, near Kilbirnie in what is now North Ayrshire, Scotland."
+        ]
+      ],
+      [
+        "Lands of Cocklebie",
+        [
+          "The Lands of Cocklebie or Cocklebee formed an estate possessing a common border with the estates of Lainshaw, the Corsehill, and the town of Stewarton, East Ayrshire, Parish of Stewarton, Scotland."
+        ]
+      ],
+      [
+        "Barony of Aiket",
+        [
+          "The Barony of Aiket with its castle, lay within the old feudal bailiary of Cunninghame.",
+          " The barony lands equate to the extant Parish of Dunlop, East Ayrshire, Scotland."
+        ]
+      ],
+      [
+        "Kirkwood Estate, East Ayrshire",
+        [
+          "The Lands of Kirkwood (NS3947) formed a small estate in the Parish of Stewarton, East Ayrshire lying between Stewarton and Dunlop, which in 1678 became part of the lands of Lainshaw, known as the Lainshaw, Kirkwood and Bridgehouse Estate.",
+          " Kirkwood was anciently known as Bloak Cunninghame.",
+          " Kirkwood remains as a farm in 2010."
+        ]
+      ],
+      [
+        "Clonbeith Castle",
+        [
+          "The Castle of Clonbeith is in the old feudal Baillerie of Cunninghame, near Auchentiber, on a sideroad off the B778, in what is now North Ayrshire, Scotland."
+        ]
+      ],
+      [
+        "Barony and Castle of Corsehill",
+        [
+          "The old Barony and castle of Corsehill lay within the feudal Baillerie of Cunninghame, near Stewarton, now East Ayrshire, Scotland."
+        ]
+      ],
+      [
+        "Barony of Peacockbank",
+        [
+          "The Barony of Peacockbank was in the old feudal Baillerie of Cunninghame, near Stewarton in what is now East Ayrshire, Scotland."
+        ]
+      ],
+      [
+        "Castle and Barony of Robertland",
+        [
+          "The Castle and Barony of Robertland (NS 4428 4693) is located near Stewarton, off the B769 road, in the old district of Cunninghame, Parish of Stewarton, and now part of East Ayrshire, Scotland."
+        ]
+      ],
+      [
+        "Barony of Bonshaw",
+        [
+          "The Barony of Bonshaw, previously known as Bollingshaw, was in the old feudal Baillerie of Cunninghame, near Stewarton in what is now North Ayrshire, Scotland."
+        ]
+      ],
+      [
+        "The Lands of Lochridge",
+        [
+          "The Lochridge estate was in the old feudal Baillerie of Cunninghame, near Stewarton in what is now East Ayrshire, Scotland."
+        ]
+      ]
+    ],
+    "answer": "Barony and castle of Corsehill",
+    "_id": "5ac54fa65542993e66e822f7",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Jacques Becker",
+        0
+      ],
+      [
+        "Fred Olen Ray",
+        0
+      ]
+    ],
+    "level": "easy",
+    "question": "Which of these screen writer/film directors was also an actor: Jacques Becker or Fred Olen Ray?",
+    "context": [
+      [
+        "Alien Dead",
+        [
+          "The Alien Dead is a 1980 American horror film directed by Fred Olen Ray.",
+          " Ray co-wrote the script with Martin Nicholas."
+        ]
+      ],
+      [
+        "Bikini Cavegirl",
+        [
+          "Bikini Cavegirl (also known as Teenage Cavegirl) is a softcore pornographic film made by Fred Olen Ray under the pseudonyms \"Nicholas Medina\" and \"Sherman Scott\".",
+          " It has been described as \"a sexy makeover\", but not a remake, of Ray's earlier film, \"Dinosaur Island\".",
+          " It was released directly to video in 2004 under the title \"Teenage Cavegirl\", and is shown on cable as \"Bikini Cavegirl\"."
+        ]
+      ],
+      [
+        "Brad Linaweaver",
+        [
+          "Bradford Swain Linaweaver (born September 1, 1952) is an American science fiction writer.",
+          " Linaweaver has original story credits on a number of films, including \"The Brain Leeches\" and \"Jack-O\" for Fred Olen Ray.",
+          " He also has story credits in \"The Boneyard Collection\" and \"Space Babes Meet the Monsters\"."
+        ]
+      ],
+      [
+        "Jacques Becker",
+        [
+          "Jacques Becker (] ; 15 September 1906 \u2013 21 February 1960) was a French screenwriter and film director."
+        ]
+      ],
+      [
+        "Demented Death Farm Massacre",
+        [
+          "Demented Death Farm Massacre is a 1971 horror film directed by Fred Olen Ray and Donn Davison and features screen legend John Carradine as 'The Judge of Hell', who narrates the story."
+        ]
+      ],
+      [
+        "Biohazard (film)",
+        [
+          "Biohazard is a 1985 science-fiction horror film directed by Fred Olen Ray and starring Aldo Ray and Angelique Pettyjohn."
+        ]
+      ],
+      [
+        "Billy Frankenstein",
+        [
+          "Billy Frankenstein is a 1998 horror-comedy movie directed by Fred Olen Ray and written by his wife Kim Ray."
+        ]
+      ],
+      [
+        "Mark Thomas McGee",
+        [
+          "Mark Thomas McGee (born 1947) is an American actor, writer and director.",
+          " He has written a number of screenplays, most notably for Fred Olen Ray.",
+          " He also wrote the cult classic \"Equinox\" (1970) when only a teenager."
+        ]
+      ],
+      [
+        "Fred Olen Ray",
+        [
+          "Fred Olen Ray (born September 10, 1954) is an American film director, producer, screenwriter, actor, and cinematographer."
+        ]
+      ],
+      [
+        "The Brain Leeches",
+        [
+          "The Brain Leeches is a 1978 sci-fi film directed by Fred Olen Ray and starring Paul Jones, Marcia Scott & Ray Starr."
+        ]
+      ]
+    ],
+    "answer": "Fred Olen Ray",
+    "_id": "5a7b9bc5554299294a54aa1e",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Tomas Kan\u010delskis",
+        0
+      ],
+      [
+        "\u0160iauliai",
+        0
+      ]
+    ],
+    "level": "medium",
+    "question": "What is the population of the city where Lithuanian footballer Tomas Kan\u010delskis was born?",
+    "context": [
+      [
+        "Tomas Kan\u010delskis",
+        [
+          "Tomas Kan\u010delskis (born 19 August 1975 in \u0160iauliai) is a Lithuanian professional footballer currently playing KFK \u0160iauliai."
+        ]
+      ],
+      [
+        "Anna Brolin",
+        [
+          "Anna Eleonora Brolin (born May 12, 1980, Stockholm) is a Swedish sports reporter and sport-television presenter.",
+          " Brolin has worked for VIASAT Sport and TV4.",
+          " Brolin is the sister of the male model Carl Brolin, but is not related to the footballer Tomas Brolin."
+        ]
+      ],
+      [
+        "Tomas Daumantas",
+        [
+          "Tomas Daumantas (born 30 August 1975) is a Lithuanian footballer currently playing for .",
+          " He also has Belgian citizenship."
+        ]
+      ],
+      [
+        "Deividas \u010cesnauskis",
+        [
+          "Deividas \u010cesnauskis (born 30 June 1981 in Kur\u0161\u0117nai, Lithuanian SSR) is a Lithuanian footballer, who plays as a winger for FK Trakai.",
+          " \u010cesnauskis is also a member of the Lithuanian national side."
+        ]
+      ],
+      [
+        "\u0160iauliai",
+        [
+          "\u0160iauliai (] ) is the fourth largest city in Lithuania, with a population of 133,900.",
+          " From 1994 to 2010 it was the capital of \u0160iauliai County.",
+          " Unofficially, the city is the capital of Northern Lithuania."
+        ]
+      ],
+      [
+        "Marius \u017dali\u016bkas",
+        [
+          "Marius \u017dali\u016bkas (born 10 November 1983 in Kaunas, Lithuanian SSR) is a Lithuanian footballer who lastly played for A Lyga club \u017dalgiris."
+        ]
+      ],
+      [
+        "Vyacheslav Sukristov",
+        [
+          "Vyacheslav Vasilyevich Sukristovas (Russian: \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u0438\u0447 \u0421\u0443\u043a\u0440\u0438\u0441\u0442\u043e\u0432; Lithuanian: Via\u010deslavas Sukristovas; born 1 January 1961 in Vilnius) is a former Soviet and Lithuanian footballer and a current manager."
+        ]
+      ],
+      [
+        "Povilas Valin\u010dius",
+        [
+          "Povilas Valin\u010dius (born 16 May 1989 in Marijampol\u0117) is a Lithuanian footballer who plays as a goalkeeper for Lithuanian A Lyga club Jonava."
+        ]
+      ],
+      [
+        "Linas Klimavi\u010dius",
+        [
+          "Linas Klimavi\u010dius (born 10 April 1989 in Panev\u0117\u017eys, Lithuanian SSR) is a Lithuanian footballer, who plays as a defender for FK Trakai.",
+          " Klimavi\u010dius is also a member of the Lithuanian national side."
+        ]
+      ],
+      [
+        "Vidas Alunderis",
+        [
+          "Vidas Alunderis (born 27 March 1979 in Klaip\u0117da, Lithuanian SSR, Soviet Union) is a Lithuanian footballer who is currently unattached.",
+          " Vidas is a defender who can play in the centre or on the right side."
+        ]
+      ]
+    ],
+    "answer": "133,900",
+    "_id": "5a7469ed55429974ef308bf5",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Arline Burks Gant",
+        0
+      ],
+      [
+        "Ray McCarey",
+        0
+      ]
+    ],
+    "level": "easy",
+    "question": "Which director was addressed by their abbreviated first name, Arline Burks Gant or Ray McCarey?",
+    "context": [
+      [
+        "Let's Make a Million",
+        [
+          "Let's Make a Million is a 1936 American comedy film directed by Ray McCarey and written by Manuel Seff and Robert Yost.",
+          " The film stars Charlotte Wynters, Edward Everett Horton, Porter Hall, J. M. Kerrigan, Margaret Seddon and Margaret McWade.",
+          " The film was released on December 13, 1936, by Paramount Pictures."
+        ]
+      ],
+      [
+        "Two Plus Fours",
+        [
+          "Two Plus Fours is a 1930 American short film featuring the Rhythm Boys (Bing Crosby, Al Rinker and Harry Barris) and directed by Ray McCarey."
+        ]
+      ],
+      [
+        "Ray McCarey",
+        [
+          "Raymond Benedict \"Ray\" McCarey (September 6, 1904 \u2013 December 1, 1948) was an American film director."
+        ]
+      ],
+      [
+        "Sunset Range",
+        [
+          "Sunset Range is a 1935 American Western film directed by Ray McCarey."
+        ]
+      ],
+      [
+        "Girl o' My Dreams",
+        [
+          "Girl o' My Dreams (a.k.a. \"Love Race\") is a 1934 American college comedy film directed by Ray McCarey."
+        ]
+      ],
+      [
+        "Arline Burks Gant",
+        [
+          "Arline Burks Gant is a director, actress and costume designer.",
+          " She wrote, produced and directed the international children\u2019s video, \"Manners\", and the documentary series \"The Legends\"."
+        ]
+      ],
+      [
+        "The Devil's Party",
+        [
+          "The Devil's Party is a 1938 American crime film directed by Ray McCarey based on the Borden Chase novel \"Hells' Kitchen Has a Pantry\"."
+        ]
+      ],
+      [
+        "Free Eats",
+        [
+          "Free Eats is a 1932 \"Our Gang\" short comedy film directed by Ray McCarey.",
+          " It was the 112th (24th talking Our Gang episode) \"Our Gang\" short that was released."
+        ]
+      ],
+      [
+        "Cadet Girl",
+        [
+          "Cadet Girl is a 1941 comedy film directed by Ray McCarey and written by Stanley Rauh and H.W. Hanemann.",
+          " The film stars Carole Landis, George Montgomery, Shepperd Strudwick, William Tracy, Janis Carter and Robert Lowery.",
+          " The film was released on November 28, 1941, by 20th Century Fox.",
+          " The film is now considered lost, due to the fact that there are no known copies to exist on DVD."
+        ]
+      ],
+      [
+        "So This Is Washington",
+        [
+          "So This Is Washington is a 1943 American film directed by Ray McCarey starring Chester Lauck.",
+          " The film was nominated for the Academy Award for Best Sound (James L. Fields).",
+          " It is also known as Dollar A Year Man."
+        ]
+      ]
+    ],
+    "answer": "Raymond Benedict \"Ray\" McCarey",
+    "_id": "5adc87ba55429947ff173992",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Tom DiCillo",
+        0
+      ],
+      [
+        "Danny Leiner",
+        0
+      ]
+    ],
+    "level": "medium",
+    "question": "What occupation is shared by Tom DiCillo and Danny Leiner?",
+    "context": [
+      [
+        "Time Expired (1992 film)",
+        [
+          "Time Expired is a 1992 short film directed by Danny Leiner and stars Bob Gosse, Edie Falco and John Leguizamo."
+        ]
+      ],
+      [
+        "Box of Moonlight",
+        [
+          "Box of Moonlight is a 1996 American comedy-drama film written and directed by Tom DiCillo and starring John Turturro, Sam Rockwell, Lisa Blount and Catherine Keener."
+        ]
+      ],
+      [
+        "Danny Leiner",
+        [
+          "Danny Leiner is a film director whose credits include \"The Great New Wonderful\", \"Harold & Kumar Go to White Castle\", \"Dude, Where's My Car?",
+          "\", \"Layin' Low\", and \"Time Expired\"."
+        ]
+      ],
+      [
+        "Living in Oblivion",
+        [
+          "Living in Oblivion is a low-budget dark comedy independent film, written and directed by Tom DiCillo and starring Steve Buscemi, Catherine Keener, Dermot Mulroney, Danielle von Zerneck and James LeGros.",
+          " The film won Tom DiCillo the Waldo Salt Screenwriting Award at the 1995 Sundance Film Festival.",
+          " The film was acclaimed by critics, and currently has a score of 88% on Rotten Tomatoes.",
+          " The film features Peter Dinklage in his debut role."
+        ]
+      ],
+      [
+        "The Real Blonde",
+        [
+          "The Real Blonde is a 1998 film directed and written by Tom DiCillo.",
+          " It stars Matthew Modine, Catherine Keener, and Maxwell Caulfield.",
+          " The film is a satire on New York's fashion and entertainment industries."
+        ]
+      ],
+      [
+        "Tom DiCillo",
+        [
+          "Thomas A. \"Tom\" DiCillo (born August 14, 1953) is an American film director, screenwriter and cinematographer."
+        ]
+      ],
+      [
+        "Layin' Low",
+        [
+          "Layin' Low is a 1996 film directed by Danny Leiner and stars Jeremy Piven, Louise Lasser and Edie Falco."
+        ]
+      ],
+      [
+        "When You're Strange",
+        [
+          "When You're Strange is a 2009 documentary film about the American rock band the Doors.",
+          " It is written and directed by Tom DiCillo and for the first time makes material from Jim Morrison's 1969 film fragment \"\" publicly available."
+        ]
+      ],
+      [
+        "Delirious (2006 film)",
+        [
+          "Delirious is a 2006 film directed by Tom DiCillo.",
+          " It stars Steve Buscemi, Michael Pitt and Alison Lohman."
+        ]
+      ],
+      [
+        "Johnny Suede",
+        [
+          "Johnny Suede is a 1991 American film the directorial debut of Tom DiCillo, and stars Brad Pitt, Catherine Keener, Calvin Levels and Nick Cave."
+        ]
+      ]
+    ],
+    "answer": "film director",
+    "_id": "5a8a183755429970aeb7024d",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Gunnera manicata",
+        0
+      ],
+      [
+        "Malope",
+        0
+      ],
+      [
+        "Malope",
+        1
+      ]
+    ],
+    "level": "medium",
+    "question": "Gunnera manicata and Malope are both what?",
+    "context": [
+      [
+        "Passiflora manicata",
+        [
+          "Passiflora manicata is a species of Passiflora from Colombia and Ecuador."
+        ]
+      ],
+      [
+        "Gunnera monoica",
+        [
+          "Gunnera monoica is a species of \"Gunnera\" endemic to New Zealand.",
+          " It is one of the smallest species of \"Gunnera\", with leaves of around 3 cm wide.",
+          " It spreads by forming stolons in damp ground."
+        ]
+      ],
+      [
+        "Trichopagis",
+        [
+          "Trichopagis is a genus of spiders in the Thomisidae family.",
+          " It was first described in 1886 by Simon.",
+          " s of 2017 , it contains only one species, Trichopagis manicata, found in Gabon, Guinea, South Africa, and Madagascar."
+        ]
+      ],
+      [
+        "Langona manicata",
+        [
+          "Langona manicata is a jumping spider that lives in South Africa."
+        ]
+      ],
+      [
+        "Rebecca Malope",
+        [
+          "Batsogile Lovederia Malope known professionally as Rebecca Malope is a multi-award winning South African gospel singer.",
+          " She is known as the African Queen of Gospel.",
+          " Her music career spans for more than three decades.",
+          " She has sold at least 10 million albums worldwide, making her one of the biggest selling gospel artists of all time.",
+          " Most of her released 35 albums have reached multi-platinum status."
+        ]
+      ],
+      [
+        "Gunnera manicata",
+        [
+          "Gunnera manicata, known as Brazilian giant-rhubarb giant rhubarb, or dinosaur food, is a species of flowering plant in the Gunneraceae family from Brazil."
+        ]
+      ],
+      [
+        "Phytoecia manicata",
+        [
+          "Phytoecia manicata is a species of beetle in the family Cerambycidae.",
+          " It was described by Reiche and Saulcy in 1858."
+        ]
+      ],
+      [
+        "Tritonia manicata",
+        [
+          "Tritonia manicata is a species of dendronotid nudibranch.",
+          " It is a marine gastropod mollusc in the family Tritoniidae."
+        ]
+      ],
+      [
+        "Malope trifida",
+        [
+          "Malope trifida (mallow-wort, annual malope, maloppi, purple Spanish mallow; syn.",
+          " \"Malope ciliata\" F.G. Dietr., \"Malope grandiflora\" F.G.Dietr., \"Malope malacoides var trifida\" (Cav.)",
+          " Samp.)",
+          " is a species of \"Malope\" native to the Western Mediterranean Region.",
+          " This plant is often used as an ornamental plant."
+        ]
+      ],
+      [
+        "Malope",
+        [
+          "Malope is a genus of three species in the mallow botanical family (Malvaceae).",
+          " Of the three species, \"Malope trifida\" is often used as an ornamental plant."
+        ]
+      ]
+    ],
+    "answer": "plant",
+    "_id": "5ab863755542992aa3b8c8d5",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      [
+        "2003 FIA GT Magny-Cours 500km",
+        1
+      ],
+      [
+        "Circuit de Nevers Magny-Cours",
+        0
+      ]
+    ],
+    "level": "medium",
+    "question": "What is the capacity of the circuit that the 2003 FIA GT Magny-Cours 500km took place?",
+    "context": [
+      [
+        "2003 FIA GT Donington 500km",
+        [
+          "The 2003 FIA GT Donington 500\u00a0km was the fifth round the 2003 FIA GT Championship season.",
+          " It took place at Donington Park, United Kingdom, on 29 June 2003."
+        ]
+      ],
+      [
+        "Circuit de Nevers Magny-Cours",
+        [
+          "Circuit de Nevers Magny-Cours, which has a capacity of 90,000, is a motor racing circuit located in central France, near the towns of Magny-Cours and Nevers, some 250 km (160 miles) from Paris."
+        ]
+      ],
+      [
+        "2000 FIA GT Magny-Cours 500km",
+        [
+          "The 2000 FIA GT Magny-Cours 500\u00a0km was the tenth and final round the 2000 FIA GT Championship season.",
+          " It took place at the Circuit de Nevers Magny-Cours, France, on October 22, 2000."
+        ]
+      ],
+      [
+        "2003 FIA GT Brno 500km",
+        [
+          "The 2003 FIA GT Brno 500\u00a0km was the fourth round the 2003 FIA GT Championship season.",
+          " It took place at the Brno Circuit, Czech Republic, on May 25, 2003."
+        ]
+      ],
+      [
+        "2003 FIA GT Barcelona 500km",
+        [
+          "The 2003 FIA GT Barcelona 500\u00a0km was the opening round the 2003 FIA GT Championship season.",
+          " It took place at the Circuit de Catalunya, Spain, on April 6, 2003."
+        ]
+      ],
+      [
+        "2004 FIA GT Magny-Cours 500km",
+        [
+          "The 2004 FIA GT Magny-Cours 500\u00a0km was the third round the 2004 FIA GT Championship season.",
+          " It took place at the Circuit de Nevers Magny-Cours, France, on 2 May 2004."
+        ]
+      ],
+      [
+        "2003 FIA GT Magny-Cours 500km",
+        [
+          "The 2003 FIA GT Magny-Cours 500 km was the second round the 2003 FIA GT Championship season.",
+          " It took place at the Circuit de Nevers Magny-Cours, France, on April 27, 2003."
+        ]
+      ],
+      [
+        "2002 FIA GT Magny-Cours 500km",
+        [
+          "The 2002 FIA GT Magny-Cours 500\u00a0km was the opening round the 2002 FIA GT Championship season.",
+          " It took place at the Circuit de Nevers Magny-Cours, France, on April 21, 2002."
+        ]
+      ],
+      [
+        "2001 FIA GT Magny-Cours 500km",
+        [
+          "The 2001 FIA GT Magny-Cours 500\u00a0km was the third round the 2001 FIA GT Championship season.",
+          " It took place at the Circuit de Nevers Magny-Cours, France, on May 1, 2001."
+        ]
+      ],
+      [
+        "2003 FIA GT Pergusa 500km",
+        [
+          "The 2003 FIA GT Pergusa 500\u00a0km was the third round the 2003 FIA GT Championship season.",
+          " It took place at the Autodromo di Pergusa, Italy, on May 11, 2003."
+        ]
+      ]
+    ],
+    "answer": "90,000",
+    "_id": "5ae07ff755429945ae959387",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Juan Sebasti\u00e1n Cabal",
+        0
+      ],
+      [
+        "John Lloyd (tennis)",
+        0
+      ]
+    ],
+    "level": "easy",
+    "question": "Juan Sebasti\u00e1n Cabal and John Lloyd play what sport?",
+    "context": [
+      [
+        "2013 Quito Challenger \u2013 Doubles",
+        [
+          "Juan Sebasti\u00e1n Cabal and Carlos Salamanca were the defending champions but Cabal decided not to participate.",
+          "<br>"
+        ]
+      ],
+      [
+        "2011 Challenger Ciudad de Guayaquil \u2013 Doubles",
+        [
+          "Juan Sebasti\u00e1n Cabal and Robert Farah were the defending Champions, but both decided not to participate.",
+          "<br>"
+        ]
+      ],
+      [
+        "2017 Argentina Open \u2013 Doubles",
+        [
+          "Juan Sebasti\u00e1n Cabal and Robert Farah were the defending champions and successfully defended their title, defeating Santiago Gonz\u00e1lez and David Marrero in the final, 6\u20131, 6\u20134."
+        ]
+      ],
+      [
+        "2009 Copa Petrobras Bogot\u00e1 \u2013 Doubles",
+        [
+          "Juan Sebasti\u00e1n Cabal and Alejandro Falla were the defending champions, but Cabal didn't start this year."
+        ]
+      ],
+      [
+        "2011 Open Seguros Bol\u00edvar \u2013 Men's Doubles",
+        [
+          "Juan Sebasti\u00e1n Cabal and Robert Farah were the defending champions and they reached the final."
+        ]
+      ],
+      [
+        "2017 Rio Open \u2013 Doubles",
+        [
+          "Juan Sebasti\u00e1n Cabal and Robert Farah were the defending champions, but lost in the final to Pablo Carre\u00f1o Busta and Pablo Cuevas, 4\u20136, 7\u20135, [8\u201310]."
+        ]
+      ],
+      [
+        "2016 Brasil Open \u2013 Doubles",
+        [
+          "Juan Sebasti\u00e1n Cabal and Robert Farah were the defending champions, but chose to compete in Acapulco instead."
+        ]
+      ],
+      [
+        "2012 Seguros Bol\u00edvar Open Cali \u2013 Doubles",
+        [
+          "Juan Sebasti\u00e1n Cabal and Robert Farah successfully defended their title by defeating Marcelo Demoliner and Jo\u00e3o Souza 6\u20133, 7\u20136 in the final."
+        ]
+      ],
+      [
+        "Juan Sebasti\u00e1n Cabal",
+        [
+          "Juan Sebasti\u00e1n Cabal (born 25 April 1986) is a Colombian professional tennis player.",
+          " His highest doubles ranking is World No. 18 and World No. 184 in singles.",
+          " The latter he attained in February 2011 after reaching the final at the challenger of Medellin and Manizales and Futures semifinals in Cali and Bogot\u00e1 challenger.",
+          " In 2017 he won the Australian Open Mixed Doubles partnering Abigail Spears of the USA."
+        ]
+      ],
+      [
+        "John Lloyd (tennis)",
+        [
+          "John Lloyd (born 27 August 1954) is a British former professional tennis player.",
+          " Lloyd reached an ATP world ranking of 21 from 23 July 1978 to 30 July 1978, and was ranked as UK number 1 in 1984 and 1985.",
+          " He now works as sports commentator."
+        ]
+      ]
+    ],
+    "answer": "tennis",
+    "_id": "5a7f5e6a5542992097ad2f42",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      [
+        "George Stevens",
+        0
+      ],
+      [
+        "Paul Andrew Williams",
+        0
+      ]
+    ],
+    "level": "medium",
+    "question": "Who was born earlier, George Stevens or Paul Andrew Williams?",
+    "context": [
+      [
+        "Song for Marion",
+        [
+          "Song for Marion (released in the United States as Unfinished Song) is a 2012 British-German comedy-drama film written and directed by Paul Andrew Williams and starring Terence Stamp, Gemma Arterton, Christopher Eccleston and Vanessa Redgrave."
+        ]
+      ],
+      [
+        "London to Brighton (disambiguation)",
+        [
+          "London to Brighton is a 2006 film by Paul Andrew Williams."
+        ]
+      ],
+      [
+        "George Stevens",
+        [
+          "George Cooper Stevens (December 18, 1904 \u2013 March 8, 1975) was an American film director, producer, screenwriter and cinematographer."
+        ]
+      ],
+      [
+        "The Eichmann Show",
+        [
+          "The Eichmann Show is a 2015 British BBC TV drama film produced by Laurence Bowen and Ken Marshall for Feelgood Fiction and directed by Paul Andrew Williams."
+        ]
+      ],
+      [
+        "Cherry Tree Lane",
+        [
+          "Cherry Tree Lane is a 2010 British urban dramatic real-time horror-thriller film, written and directed by Paul Andrew Williams."
+        ]
+      ],
+      [
+        "Mark Williams (rugby union)",
+        [
+          "Mark Andrew Williams (born June 26, 1961) is an American former rugby union player who played center.",
+          " Williams played for the U.S. national rugby team from 1987 to 1999, earning 37 caps.",
+          " Williams scored 143 points over his test career, and he retired as the #3 all-time U.S. points scorer.",
+          " Williams was on the U.S. squad for the 1991 and 1999 Rugby World Cups, and was the leading scorer for the U.S. at the 1991 Rugby World Cup with 16 points."
+        ]
+      ],
+      [
+        "The Cottage (film)",
+        [
+          "The Cottage is a 2008 British darkly comic horror film, written and directed by Paul Andrew Williams."
+        ]
+      ],
+      [
+        "Paul Williams (Northern Ireland footballer)",
+        [
+          "Paul Andrew Williams (born 8 September 1965) is a retired Northern Irish footballer.",
+          " He won one cap for the Northern Ireland national football team.",
+          " He played as a forward."
+        ]
+      ],
+      [
+        "London to Brighton",
+        [
+          "London to Brighton is a 2006 British film written and directed by Paul Andrew Williams."
+        ]
+      ],
+      [
+        "Paul Andrew Williams",
+        [
+          "Paul Andrew Williams is a British film writer and director, born in Portsmouth, England in 1973.",
+          " He won the New Director's Award for his film London to Brighton in the 2006 Edinburgh International Film Festival."
+        ]
+      ]
+    ],
+    "answer": "George Cooper Stevens",
+    "_id": "5a7ba059554299294a54aa35",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Kristie Boogert",
+        0
+      ],
+      [
+        "Alex O'Brien",
+        1
+      ]
+    ],
+    "level": "hard",
+    "question": "Was Kristie Boogert or Alex O'Brien ranked higher as a singles player?",
+    "context": [
+      [
+        "Alex O'Brien",
+        [
+          "Alex O'Brien (born March 7, 1970 in Amarillo, Texas) is a retired professional tennis player from the United States, who competed on the ATP Tour.",
+          " He became the world No. 1 doubles player in May 2000 and was ranked as high as world No. 30 in singles in June 1997."
+        ]
+      ],
+      [
+        "1996 Wilkinson Lady Championships \u2013 Doubles",
+        [
+          "Larisa Neiland and Brenda Schultz-McCarthy won in the final 6\u20134, 7\u20136 (9\u20137) against Kristie Boogert and Helena Sukov\u00e1."
+        ]
+      ],
+      [
+        "1997 SEAT Open \u2013 Doubles",
+        [
+          "Kristie Boogert and Nathalie Tauziat were the defending champions but only Boogert competed that year with Amanda Coetzer."
+        ]
+      ],
+      [
+        "1995 Schweppes Tasmanian International \u2013 Doubles",
+        [
+          "Linda Harvey-Wild and Chanda Rubin were the defending champions but they competed with different partners that year, Harvey-Wild with Leila Meskhi and Rubin with Kristie Boogert."
+        ]
+      ],
+      [
+        "Lorna Woodroffe",
+        [
+          "Lorna Woodroffe (born 18 August 1976) was an English Olympic tennis player.",
+          " Lorna competed in the 2000 Summer Olympics in Sydney, Australia.",
+          " Playing with Julie Pullin, Lorna lost her first-round match in the Women's doubles to Kristie Boogert and Miriam Oremans of the Netherlands, in two sets."
+        ]
+      ],
+      [
+        "1996 SEAT Open \u2013 Doubles",
+        [
+          "Kristie Boogert and Nathalie Tauziat won in the final 2\u20136, 6\u20134, 6\u20132 against Barbara Rittner and Dominique Van Roost."
+        ]
+      ],
+      [
+        "1997 Sparkassen Cup \u2013 Doubles",
+        [
+          "Kristie Boogert and Nathalie Tauziat were the defending champions but only Boogert competed that year with Amanda Coetzer."
+        ]
+      ],
+      [
+        "2000 Australian Open \u2013 Mixed Doubles",
+        [
+          "Mariaan de Swardt and David Adams were the defending champions but only Adams competed that year with Kristie Boogert."
+        ]
+      ],
+      [
+        "1997 Open Gaz de France \u2013 Doubles",
+        [
+          "Kristie Boogert and Jana Novotn\u00e1 were the defending champions but they competed with different partners that year, Boogert with Irina Sp\u00eerlea and Novotn\u00e1 with Martina Hingis."
+        ]
+      ],
+      [
+        "Kristie Boogert",
+        [
+          "She has not won any singles titles, but did win three titles in doubles.",
+          " At the 1994 French Open championships she won the mixed doubles title with countryman Menno Oosting."
+        ]
+      ]
+    ],
+    "answer": "No. 30 in singles",
+    "_id": "5a81cfcb55429926c1cdad89",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      [
+        "50 Lek\u00eb",
+        0
+      ],
+      [
+        "Albanian lek",
+        1
+      ]
+    ],
+    "level": "easy",
+    "question": "50 Lek\u00eb (50 L) have a value of 50 Albanian lek, the lek is the official currency of Albania, and is subdivided into how many \"qindarka\" (singular \"qindark\u00eb\"), although qindarka are no longer issued?",
+    "context": [
+      [
+        "Kor\u00e7\u00eb Sk\u00ebnder",
+        [
+          "The Sk\u00ebnder was the currency of Kor\u00e7\u00eb, issued in 1921.",
+          " It was subdivided into 100 \"qint\".",
+          " The currency was introduced after the period of French occupation and replaced the frange.",
+          " It was only issued in paper money form, with notes in denominations of 25 and 50 qint, 1 and 20 skender.",
+          " It was ultimately succeeded by the Albanian lek in 1926."
+        ]
+      ],
+      [
+        "Maltese scudo",
+        [
+          "The scudo (plural \"scudi\") is the official currency of the Sovereign Military Order of Malta and was the currency of Malta during the rule of the Order over Malta, which ended in 1798.",
+          " It is subdivided into 12 \"tar\u00ec\" (singular \"tar\u00ec\"), each of 20 \"grani\" (singular \"grano\") with 6 \"piccoli\" (singular \"piccolo\") to the grano.",
+          " It is pegged to the euro (at a rate of 1 scudo to \u20ac0.24)."
+        ]
+      ],
+      [
+        "20 Lek\u00eb",
+        [
+          "20 Lek\u00eb (20 L) coins have a value of 20 Albanian lek."
+        ]
+      ],
+      [
+        "5 Lek\u00eb",
+        [
+          "5 Lek\u00eb (5 L) have a value of 5 Albanian lek."
+        ]
+      ],
+      [
+        "1 Lek",
+        [
+          "1 lek is a coin with a value of 1 Albanian lek and is composed of copper-covered zinc."
+        ]
+      ],
+      [
+        "10 Lek\u00eb",
+        [
+          "10 Lek\u00eb (10 L) have a value of 10 Albanian lek."
+        ]
+      ],
+      [
+        "100 Lek\u00eb (coin)",
+        [
+          "100 Lek\u00eb (100 L) has a value of 100 Albanian lek.",
+          " It exists as both a coin and as a Banknote."
+        ]
+      ],
+      [
+        "Indian rupee",
+        [
+          "The Indian rupee (sign: \u20b9 ; code: INR), is the official currency of the Republic of India.",
+          " The rupee is subdivided into 100 \"paise\" (singular \"paisa\"), though as of 2011, 25 paise is no longer considered legal tender.",
+          " The issuance of the currency is controlled by the Reserve Bank of India.",
+          " The Reserve Bank manages currency in India and derives its role in currency management on the basis of the Reserve Bank of India Act, 1934.",
+          " The rupee is named after the silver coin, \"rupiya\", first issued by Sultan Sher Shah Suri in the 16th century and later continued by the Mughal Empire."
+        ]
+      ],
+      [
+        "50 Lek\u00eb",
+        [
+          "50 Lek\u00eb (50 L) have a value of 50 Albanian lek."
+        ]
+      ],
+      [
+        "Albanian lek",
+        [
+          "The lek (; plural \"lek\u00eb\") (sign: L; code: ALL) is the official currency of Albania.",
+          " It is subdivided into 100 \"qindarka\" (singular \"qindark\u00eb\"), although qindarka are no longer issued."
+        ]
+      ]
+    ],
+    "answer": "100",
+    "_id": "5ac3f7c6554299204fd21ee4",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Scream 2 (Markus Schulz album)",
+        0
+      ],
+      [
+        "Trance music",
+        0
+      ]
+    ],
+    "level": "easy",
+    "question": "Scream 2 is the fifth studio album by German trance producer & DJ Markus Schulz, released on which date, by Armada Music?",
+    "context": [
+      [
+        "Scream 2 (Markus Schulz album)",
+        [
+          "Scream 2 is the fifth studio album by German trance producer & DJ Markus Schulz, released on 21 February 2014 by Armada Music."
+        ]
+      ],
+      [
+        "Toronto '09",
+        [
+          "Toronto '09 is a compilation album by German trance producer Markus Schulz."
+        ]
+      ],
+      [
+        "Miami '05",
+        [
+          "Miami '05 is the first album in German trance producer Markus Schulz's city compilation series."
+        ]
+      ],
+      [
+        "Trance music",
+        [
+          "Trance is a genre of electronic music that developed during the early 1990s, in Germany.",
+          " It is characterized by a tempo lying between 125 and 150 beats per minute (BPM), repeating melodic phrases, and a musical form that distinctly builds tension and elements throughout a track often culminating in 1 to 2 \"peaks\" or \"drops.\"",
+          " Although trance is a genre of its own, it liberally incorporates influences from other musical styles such as techno, house, pop, chill-out, classical music, tech house, ambient, and film music."
+        ]
+      ],
+      [
+        "Los Angeles '12",
+        [
+          "Los Angeles '12 is a compilation album by German trance producer Markus Schulz."
+        ]
+      ],
+      [
+        "Amsterdam '08",
+        [
+          "Amsterdam '08 is a compilation album by German trance producer Markus Schulz."
+        ]
+      ],
+      [
+        "Las Vegas '10",
+        [
+          "Las Vegas '10 is a compilation album by German trance producer Markus Schulz."
+        ]
+      ],
+      [
+        "Scream (Markus Schulz album)",
+        [
+          "Scream is the fourth album by German trance producer & DJ Markus Schulz, released on August 31, 2012 by Armada Music.",
+          " \"Scream\" represents a change in Markus Schulz's production style from deeper trance tracks produced since \"Do You Dream?",
+          "\" to more club orientated trance tracks, which are widely featured throughout the entirety of \"Scream\"."
+        ]
+      ],
+      [
+        "Coldharbour Recordings",
+        [
+          "Coldharbour Recordings is an electronic dance music label founded and owned by German trance DJ and producer Markus Schulz in 2005.",
+          " The label was formerly a sublabel of Armada Music until 2013 when Schulz took the label independent.",
+          " It is named after Coldharbour Lane, a road in South London where Schulz's first studio was located."
+        ]
+      ],
+      [
+        "Ibiza '06",
+        [
+          "Ibiza '06 is a compilation album by German trance producer Markus Schulz."
+        ]
+      ]
+    ],
+    "answer": "21 February 2014",
+    "_id": "5ae394c15542994393b9e715",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Maurice Elvey",
+        0
+      ],
+      [
+        "Arthur Lubin",
+        0
+      ]
+    ],
+    "level": "medium",
+    "question": "WereMaurice Elvey and Arthur Lubin both from the USA? ",
+    "context": [
+      [
+        "Maurice Elvey",
+        [
+          "Maurice Elvey (11 November 1887 \u2013 28 August 1967) was the most prolific film director in British history.",
+          " He directed nearly 200 films between 1913 and 1957.",
+          " During the silent film era he directed as many as twenty films per year.",
+          " He also produced more than fifty films - his own as well as films directed by others."
+        ]
+      ],
+      [
+        "The San Francisco Docks",
+        [
+          "The San Francisco Docks is a 1940 film directed by Arthur Lubin and starring Burgess Meredith, Barry Fitzgerald, and Irene Hervey."
+        ]
+      ],
+      [
+        "Risky Business (1939 film)",
+        [
+          "Risky Business is a 1939 film directed by Arthur Lubin and starring George Murphy and Dorothea Kent."
+        ]
+      ],
+      [
+        "Big Town Czar",
+        [
+          "Big Town Czar is a 1939 American mystery film directed by Arthur Lubin starring Barton MacLane and Tom Brown."
+        ]
+      ],
+      [
+        "Francis (film)",
+        [
+          "Francis is a 1950 American black-and-white comedy film from Universal-International that launched the Francis the Talking Mule film series.",
+          " \"Francis\" is produced by Robert Arthur, directed by Arthur Lubin, and stars Donald O'Connor and Patricia Medina.",
+          " The distinctive voice of Francis is a voice-over by actor Chill Wills."
+        ]
+      ],
+      [
+        "Arthur Lubin",
+        [
+          "Arthur Lubin (July 25, 1898 \u2013 May 12, 1995) was an American film director and producer who directed several \"Abbott & Costello\" films, \"Phantom of the Opera\" (1943), the \"Francis the Talking Mule\" series and created the talking-horse TV series \"Mister Ed\".",
+          " A prominent director for Universal Pictures in the 1940s and 1950s, he is perhaps best known today as the man who gave Clint Eastwood his first contract in film."
+        ]
+      ],
+      [
+        "Meet the Wildcat",
+        [
+          "Meet the Wildcat is a 1940 film directed by Arthur Lubin."
+        ]
+      ],
+      [
+        "The Big Guy",
+        [
+          "The Big Guy is a 1939 American drama crime film directed by Arthur Lubin starring Victor McLaglen and Jackie Cooper."
+        ]
+      ],
+      [
+        "A Successful Failure",
+        [
+          "A Successful Failure (1934) is an American film directed by Arthur Lubin.",
+          " It was Lubin's first movie as director."
+        ]
+      ],
+      [
+        "Secrets of a Nurse",
+        [
+          "Secrets of a Nurse is a 1938 film directed by Arthur Lubin and starring Edmund Lowe, Helen Mack, and Dick Foran."
+        ]
+      ]
+    ],
+    "answer": "no",
+    "_id": "5ae185ae554299422ee9967f",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Martin Fisch",
+        0
+      ],
+      [
+        "FC Helsing\u00f8r",
+        0
+      ],
+      [
+        "FC Helsing\u00f8r",
+        1
+      ]
+    ],
+    "level": "easy",
+    "question": "Martin Fisch is a Danish footballer who plays for FC Helsing\u00f8r is the football part of the Danish sports club Elite 3000 Helsing\u00f8r from Helsing\u00f8r, the club plays in which location?",
+    "context": [
+      [
+        "Ricki Olsen",
+        [
+          "Ricki Olsen (born 21 October 1988) is a Danish professional football player who plays for FC Helsing\u00f8r.",
+          " He is the son of the former Danish national team player Lars Olsen."
+        ]
+      ],
+      [
+        "Adnan Mohammad",
+        [
+          "Adnan Mohammad (born 2 July 1996) is a Danish footballer of Pakistani descent, who plays for Danish Superliga side FC Helsing\u00f8r."
+        ]
+      ],
+      [
+        "Martin Fisch",
+        [
+          "Martin Fisch (born 26 January 1993) is a Danish footballer who plays for Helsing\u00f8r."
+        ]
+      ],
+      [
+        "Patrick Olsen",
+        [
+          "Patrick Haakon Olsen (born 23 April 1994) is a Danish footballer, who plays for Danish Superliga club FC Helsing\u00f8r."
+        ]
+      ],
+      [
+        "Christian K\u00f8hler",
+        [
+          "Christian 'TK' K\u00f8hler (born 10 April 1996 in Denmark) is a Danish footballer who plays as a central midfielder for Danish Superliga-side FC Helsing\u00f8r."
+        ]
+      ],
+      [
+        "Johannes Ritter",
+        [
+          "Johannes Ritter Plum (born 15 February 1995) is a Danish professional footballer who plays for FC Nordsj\u00e6lland, as a right winger for FC Helsing\u00f8r."
+        ]
+      ],
+      [
+        "Benny Gall",
+        [
+          "Benny Gall (born March 14, 1971) is a Danish former football goalkeeper and currently the manager of Danish 2nd Division club BK Avarta.",
+          " He has previously been the manager of B93's 2nd Division East team and Elite 3000 Helsing\u00f8r.",
+          " Before his job at B93, he was the manager of F.C. Copenhagen's secondary team, Kj\u00f8benhavns Boldklub."
+        ]
+      ],
+      [
+        "FC Helsing\u00f8r",
+        [
+          "FC Helsing\u00f8r is the football part of the Danish sports club Elite 3000 Helsing\u00f8r from Helsing\u00f8r.",
+          " The club plays in the Danish Superliga."
+        ]
+      ],
+      [
+        "Christian L\u00f8nstrup",
+        [
+          "Christian L\u00f8nstrup (born April 4, 1971) is a Danish former football (soccer) player, and current manager of Danish club FC Helsing\u00f8r.",
+          " He most prominently played 253 games as a midfielder for Danish club FC K\u00f8benhavn, with whom he won four Danish Superliga championships.",
+          " He played three games and scored one goal for the Denmark national under-21 football team in 1991."
+        ]
+      ],
+      [
+        "Helsing\u00f8r Stadium",
+        [
+          "Helsing\u00f8r Stadium (Danish: \"Helsing\u00f8r Stadion\" ) is a football stadium in Helsing\u00f8r, Denmark.",
+          " It is the home ground of FC Helsing\u00f8r.",
+          " It has a capacity of 5,500 of which 282 are covered seating."
+        ]
+      ]
+    ],
+    "answer": "Danish Superliga",
+    "_id": "5ab20fa6554299340b525481",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Henri Kontinen",
+        0
+      ],
+      [
+        "Nathalie Dechy",
+        0
+      ]
+    ],
+    "level": "medium",
+    "question": "Who is French, Henri Kontinen or Nathalie Dechy?",
+    "context": [
+      [
+        "Nathalie Dechy",
+        [
+          "Nathalie Dechy (born 21 February 1979) is a former professional tour tennis player from France."
+        ]
+      ],
+      [
+        "Micke Kontinen",
+        [
+          "Micke Kontinen (born 18 December 1992) is a Finnish tennis player.",
+          " He is the younger brother of Henri Kontinen who is also a tennis player."
+        ]
+      ],
+      [
+        "2016 Barcelona Open Banc Sabadell \u2013 Doubles",
+        [
+          "Marin Draganja and Henri Kontinen were the defending champions, but Draganja chose to compete in Bucharest instead.",
+          " Kontinen played alongside John Peers, but lost in the first round to Jamie Murray and Bruno Soares.",
+          "<br>"
+        ]
+      ],
+      [
+        "2016 St. Petersburg Open \u2013 Doubles",
+        [
+          "Treat Huey and Henri Kontinen were the defending champions, but Huey chose not to participate this year.",
+          " Kontinen played alongside Dominic Inglot and successfully defended the title, defeating Andre Begemann and Leander Paes in the final, 4\u20136, 6\u20133, [12\u201310]."
+        ]
+      ],
+      [
+        "2016 Open 13 \u2013 Doubles",
+        [
+          "Marin Draganja and Henri Kontinen were the defending champions, but Kontinen chose not to participate.",
+          " Draganja played alongside Julian Knowle, but lost in the quarterfinals to Teymuraz Gabashvili and Nick Kyrgios.",
+          "<br>"
+        ]
+      ],
+      [
+        "Henri Kontinen",
+        [
+          "Henri Kontinen (] ; born 19 June 1990) is a Finnish tennis player."
+        ]
+      ],
+      [
+        "2008 US Open \u2013 Women's Doubles",
+        [
+          "Nathalie Dechy and Dinara Safina were the defending champions, but Safina chose not to participate, and only Dechy competed that year."
+        ]
+      ],
+      [
+        "2017 St. Petersburg Open \u2013 Doubles",
+        [
+          "Dominic Inglot and Henri Kontinen were the defending champions, but Kontinen chose not to participate this year.",
+          " Inglot played alongside Daniel Nestor, but lost in the quarterfinals to Roman Jebav\u00fd and Matw\u00e9 Middelkoop."
+        ]
+      ],
+      [
+        "2015 Generali Open Kitzb\u00fchel \u2013 Doubles",
+        [
+          "Henri Kontinen and Jarkko Nieminen were the defending champions, but Nieminen chose not to participate this year.",
+          " Kontinen played alongside Robin Haase but lost in the final to Nicol\u00e1s Almagro and Carlos Berlocq 5\u20137, 6\u20133, [11\u20139]."
+        ]
+      ],
+      [
+        "2003 Open Gaz de France \u2013 Doubles",
+        [
+          "Nathalie Dechy and Meilen Tu were the defending champions but only Dechy competed that year with \u00c9milie Loit."
+        ]
+      ]
+    ],
+    "answer": "Nathalie Dechy",
+    "_id": "5a7613125542994ccc9186bb",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Provincial road N709 (Netherlands)",
+        0
+      ],
+      [
+        "Elburg",
+        0
+      ]
+    ],
+    "level": "medium",
+    "question": "The N709 and N708 connect near which city in the Gelderland province?",
+    "context": [
+      [
+        "Angeren",
+        [
+          "Angeren is a village in the municipality of Lingewaard, Gelderland province, Netherlands.",
+          " It has a population of 2,851 (1 January 2009), and is located in the very eastern tip of the Betuwe, 2\u00a0km to the south of Huissen, between the cities of Arnhem and Nijmegen."
+        ]
+      ],
+      [
+        "Guilderland, New York",
+        [
+          "Guilderland is a town in Albany County, New York, United States.",
+          " In the 2010 census, the town had a population of 35,303.",
+          " The town is named for the Gelderland province in the Netherlands."
+        ]
+      ],
+      [
+        "Putten",
+        [
+          "Putten ( ) is a municipality and a town in Gelderland province in the middle of the Netherlands.",
+          " It had a population of"
+        ]
+      ],
+      [
+        "Elburg",
+        [
+          "Elburg ( ) is a municipality and a city in the province of Gelderland, Netherlands."
+        ]
+      ],
+      [
+        "Provincial road N708 (Netherlands)",
+        [
+          "Provincial road N708 (N708) is a road connecting N709 near Biddinghuizen with N306 near Biddinghuizen]]."
+        ]
+      ],
+      [
+        "Breedenbroek",
+        [
+          "Breedenbroek is a small Dutch village in the Achterhoek region in the Gelderland province, near the town Dinxperlo, Netherlands.",
+          " It is located some 3 kilometres from the German border.",
+          " Since the municipal rearrangement in 2005, Breedenbroek is a part of the municipality of Oude IJsselstreek."
+        ]
+      ],
+      [
+        "Provincial road N709 (Netherlands)",
+        [
+          "Provincial road N709 (N709) is a road connecting N708 in Biddinghuizen with N309 near Elburg."
+        ]
+      ],
+      [
+        "Ugchelen",
+        [
+          "Ugchelen is part of the municipality of Apeldoorn in the Gelderland province of the Netherlands, and is today seen as a neighbourhood of Apeldoorn."
+        ]
+      ],
+      [
+        "Chamavi",
+        [
+          "The Chamavi were a Germanic tribe of Roman imperial times whose name survived into the Early Middle Ages.",
+          " They first appear under that name in the 1st century AD \"Germania\" of Tacitus as a Germanic tribe that lived to the north of the Lower Rhine.",
+          " Their name probably survives in the region today called Hamaland, which is in the Gelderland province of the Netherlands, between the IJssel and Ems rivers."
+        ]
+      ],
+      [
+        "Zevenaar",
+        [
+          "Zevenaar ( ) is a municipality and a city in the Gelderland province, in the eastern Netherlands near the border with Germany."
+        ]
+      ]
+    ],
+    "answer": "Elburg",
+    "_id": "5a8723db5542991e771816e6",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Cymbidium",
+        0
+      ],
+      [
+        "Pterocactus",
+        0
+      ]
+    ],
+    "level": "medium",
+    "question": "Are Cymbidium and Pterocactus both in the Orchidaceae family?",
+    "context": [
+      [
+        "Dendrobium taurinum",
+        [
+          "Dendrobium taurinum, the bull orchid, is a species of flowering plant in the Orchidaceae family.",
+          " It is found in the Philippines and in the Indonesian Province of Maluku.",
+          " The size of the flower ranges from 5 to 6.5 cm."
+        ]
+      ],
+      [
+        "Cymbidium",
+        [
+          "Cymbidium , or boat orchid, is a genus of 52 evergreen species in the orchid family Orchidaceae.",
+          " The new Latin genus name is derived from the Latin \"cymba\" meaning boat.",
+          " Its first known use was in 1815."
+        ]
+      ],
+      [
+        "Clowesia",
+        [
+          "Clowesia is a genus of the Orchidaceae family.",
+          " Species of this genus are epiphytic and contain many pseudobulbs with several internodes.",
+          " The leaves of this plant are arranged alternatively in two vertical rows on opposite sides of the rachis.",
+          " The \"Clowesia\" has a simple gullet flower that allows for pollination by male euglossine bees.",
+          " The flowers are often unisexual and contain a viscidium."
+        ]
+      ],
+      [
+        "Cymbidium angelica",
+        [
+          "Cymbidium angelica, often referred to as the Christmas angel, is a member of the Orchidaceae family."
+        ]
+      ],
+      [
+        "Lycaste aromatica",
+        [
+          "Lycaste aromatica, common name The Sweet Scented Lycaste, is a species of flowering plant in the genus \"Lycaste\", belonging to the Orchidaceae family."
+        ]
+      ],
+      [
+        "Symphyglossum sanguineum",
+        [
+          "Symphyglossum sanguineum is a species of flowering plant in the Orchidaceae family."
+        ]
+      ],
+      [
+        "Pterocactus",
+        [
+          "Pterocactus (from Greek \"pteron\", \"wing\", referring to the saucer-shaped seed of these plants) is a genus of the cactus family (Cactaceae), comprising 9 species.",
+          " All \"Pterocactus\" have tuberous roots and are endemic to South and Western Argentina.",
+          " The genus has been given its own tribe, the Pterocacteae."
+        ]
+      ],
+      [
+        "Paphiopedilum acmodontum",
+        [
+          "Paphiopedilum acmodontum is a species of plants in the Orchidaceae family.",
+          " It is endemic to the Philippines."
+        ]
+      ],
+      [
+        "Cymbidium madidum",
+        [
+          "The Northern Cymbidium (Cymbidium madidum) is a species of plant in the Orchidaceae family, also known as the Buttercup Orchid and Moist Forest Cymbidium."
+        ]
+      ],
+      [
+        "Sudamerlycaste locusta",
+        [
+          "Sudamerlycaste locusta is a species of flowering plant in the Orchidaceae family."
+        ]
+      ]
+    ],
+    "answer": "no",
+    "_id": "5ab5869c554299494045efff",
+    "type": "comparison"
+  },
+  {
+    "supporting_facts": [
+      [
+        "The Hunley",
+        0
+      ],
+      [
+        "Armand Assante",
+        0
+      ],
+      [
+        "Armand Assante",
+        1
+      ]
+    ],
+    "level": "hard",
+    "question": "What was the name of the TV series that one of the Hunley movie actors won an Emmy for?",
+    "context": [
+      [
+        "List of female movie actors by name: M",
+        [
+          "This is an alphabetical list of notable female movie actors with a last name that begins with the letter M."
+        ]
+      ],
+      [
+        "List of female movie actors by name: L",
+        [
+          "This is an alphabetical list of notable female movie actors with a last name that begins with the letter L."
+        ]
+      ],
+      [
+        "Creature from the Black Lagoon (pinball)",
+        [
+          "Creature from the Black Lagoon is a pinball machine designed by John Trudeau (\"Dr. Flash\") and released by Midway (under the \"Bally\" brand name).",
+          " It is loosely based on the movie of the same name.",
+          " The game's theme is 1950's drive-in theater.",
+          " The pinball machine was licensed from Universal Studios by Bally so that the backglass artwork, the cabinet artwork, and the creature looked like the original movie actors and monsters."
+        ]
+      ],
+      [
+        "List of female movie actors by name: T\u2013V",
+        [
+          "This is an alphabetical list of notable female movie actors with a last name that begins with the letter T, U, or V."
+        ]
+      ],
+      [
+        "Armand Assante",
+        [
+          "Armand Anthony Assante Jr. (born October 4, 1949) is an American actor.",
+          " He is noted for an Emmy Award-winning role as mobster John Gotti in the 1996 HBO miniseries \"Gotti\"."
+        ]
+      ],
+      [
+        "List of female movie actors by name: P\u2013Q",
+        [
+          "This is an alphabetical list of notable female movie actors with a last name that begins with the letter P or Q."
+        ]
+      ],
+      [
+        "List of female movie actors by name: S",
+        [
+          "This is an alphabetical list of notable female movie actors with a last name that begins with the letter S."
+        ]
+      ],
+      [
+        "The Hunley",
+        [
+          "The Hunley is a 1999 television movie directed by John Gray and starring Armand Assante, Donald Sutherland, Alex Jennings, Michael Dolan and Christopher Bauer.",
+          " The film is based on the true story of the \"H. L. Hunley\" submarine and the Action of 17 February 1864."
+        ]
+      ],
+      [
+        "List of female movie actors by name: R",
+        [
+          "This is an alphabetical list of notable female movie actors with a last name that begins with the letter R."
+        ]
+      ],
+      [
+        "List of female movie actors by name: N\u2013O",
+        [
+          "This is an alphabetical list of notable female movie actors with a last name that begins with the letter N or O."
+        ]
+      ]
+    ],
+    "answer": "Gotti",
+    "_id": "5a7904a555429974737f7943",
+    "type": "bridge"
+  },
+  {
+    "supporting_facts": [
+      [
+        "Hyposmocoma fulvogrisea",
+        0
+      ],
+      [
+        "Hyposmocoma fulvogrisea",
+        1
+      ],
+      [
+        "Kauai",
+        2
+      ]
+    ],
+    "level": "medium",
+    "question": "Hyposmocoma fulvogriesa is endemic to Kauai, which is also know as what?",
+    "context": [
+      [
+        "Hyposmocoma wailua",
+        [
+          "Hyposmocoma wailua is a species of moth of the Cosmopterigidae family.",
+          " It is endemic to Kauai.",
+          " The species belongs to the amphibious caterpillar guild of the \"Hyposmocoma\" genus."
+        ]
+      ],
+      [
+        "Hyposmocoma bitincta",
+        [
+          "Hyposmocoma bitincta is a species of moth of the family Cosmopterigidae.",
+          " It is endemic to Maui and is possibly also present on Kauai and Oahu."
+        ]
+      ],
+      [
+        "Hyposmocoma kawaikoi",
+        [
+          "Hyposmocoma kawaikoi is a species of moth of the Cosmopterigidae family.",
+          " It is endemic to Kauai.",
+          " The species belongs to the amphibious caterpillar guild of the \"Hyposmocoma\" genus."
+        ]
+      ],
+      [
+        "Kauai",
+        [
+          "Kauai or Kaua\u02bb i ( ; ] ) is geologically the oldest of the main Hawaiian Islands.",
+          " With an area of 562.3 sqmi , it is the fourth largest of these islands and the 21st largest island in the United States.",
+          " Known also as the \"Garden Isle\", Kaua\u02bb i lies 105 mi across the Kaua\u02bb i Channel, northwest of O\u02bb ahu.",
+          " This island is the site of Waimea Canyon State Park."
+        ]
+      ],
+      [
+        "Hyposmocoma ipowainui",
+        [
+          "Hyposmocoma ipowainui is a species of moth of the Cosmopterigidae family.",
+          " It is endemic to Kauai.",
+          " The species belongs to the amphibious caterpillar guild of the \"Hyposmocoma\" genus."
+        ]
+      ],
+      [
+        "Hyposmocoma fulvogrisea",
+        [
+          "Hyposmocoma fulvogrisea is a species of moth of the family Cosmopterigidae.",
+          " It is endemic to Kauai."
+        ]
+      ],
+      [
+        "Hyposmocoma eepawai",
+        [
+          "Hyposmocoma eepawai is a species of moth of the Cosmopterigidae family.",
+          " It is endemic to Kauai.",
+          " The species belongs to the amphibious caterpillar guild of the \"Hyposmocoma\" genus."
+        ]
+      ],
+      [
+        "Hyposmocoma nohomaalewa",
+        [
+          "Hyposmocoma nohomaalewa is a species of moth of the Cosmopterigidae family.",
+          " It is endemic to Kauai."
+        ]
+      ],
+      [
+        "Hyposmocoma uhauiole",
+        [
+          "Hyposmocoma uhauiole is a species of moth of the Cosmopterigidae family.",
+          " It is endemic to Kauai.",
+          " The species belongs to the amphibious caterpillar guild of the \"Hyposmocoma\" genus."
+        ]
+      ],
+      [
+        "Hyposmocoma aumakuawai",
+        [
+          "Hyposmocoma aumakuawai is a species of moth of the Cosmopterigidae family.",
+          " It is endemic to Kauai.",
+          " The species belongs to the amphibious caterpillar guild of the \"Hyposmocoma\" genus."
+        ]
+      ]
+    ],
+    "answer": "the \"Garden Isle\"",
+    "_id": "5add67cf5542992ae4cec551",
+    "type": "bridge"
+  }
+]

@@ -1390,19 +1390,5 @@
       "Kauai or Kaua'i is geologically the oldest of the main Hawaiian Islands.",
       "Known also as the \"Garden Isle,\" Kaua'i lies 105 miles across the Kaua'i Channel, northwest of O'ahu."
     ]
-  },
-  {
-    "data_number": "number #100",
-    "question": "What profession do Fred Olen Ray and R. G. Springsteen have in common?",
-    "real_answer": "director",
-    "gpt_answer": "director",
-    "real_support": [
-      "[1] Fred Olen Ray (born September 10, 1954) is an American film director, producer, screenwriter, actor, and cinematographer.",
-      "[7] Robert G. Springsteen (September 8, 1904 – December 9, 1989) was an American director of Hollywood B movies and television shows."
-    ],
-    "gpt_support": [
-      "Fred Olen Ray (born September 10, 1954) is an American film director, producer, screenwriter, actor, and cinematographer.",
-      "Robert G. Springsteen (September 8, 1904 – December 9, 1989) was an American director of Hollywood B movies and television shows."
-    ]
   }
 ]

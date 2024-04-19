@@ -98,10 +98,9 @@ number #number #96 em : 0 f1 : 0.55
 number #number #97 em : 1.0 f1 : 1.0
 number #number #98 em : 0 f1 : 0.59
 number #number #99 em : 0 f1 : 0.51
-number #number #100 em : 1.0 f1 : 1.0
 
 
 
-total_f1 : 0.6997857503629025
-total_recall : 0.6882
-total_precision : 0.7915000000000002
+total_f1 : 0.6897857503629026
+total_recall : 0.6782
+total_precision : 0.7815000000000002

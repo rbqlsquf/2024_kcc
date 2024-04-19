@@ -2,7 +2,7 @@ import json
 from tqdm import tqdm
 
 ## 대용량 json 파일 불러와 로드
-with open("data\hotpot_train_v1.1.json", "r") as f:
+with open("data/hotpot_train_v1.1.json", "r") as f:
     json_data = json.load(f)
 
 # 길이가 짧은 document만 담을 list
@@ -31,9 +31,9 @@ sorted_items = sorted(context_dic.items(), key=lambda item: item[1])
 sorted_dict = dict(sorted_items)
 selected_data = []
 for i, j in enumerate(sorted_dict.keys()):
-    if i > 99:
+    if i > 69:
         selected_data.append(json_data[j])
-    if i > 200:
+    if i > 99:
         break
 
 
@@ -41,7 +41,7 @@ for i, j in enumerate(sorted_dict.keys()):
 a = json.dumps(selected_data, indent=2)
 
 ## 새로운 파일을 생성, 열어서 a를 write
-with open("data/new_hotpot_2.json", "w") as file:
+with open("data/sampling_data.json", "w") as file:
     file.write(a)
 
 ## 완료시 출력

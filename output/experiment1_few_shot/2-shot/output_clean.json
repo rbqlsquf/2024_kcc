@@ -1388,19 +1388,5 @@
       "With an area of 562.3 sqmi, it is the fourth largest of these islands and the 21st largest island in the United States.",
       "Known also as the \"Garden Isle\", Kauaʻi lies 105 miles across the Kauaʻi Channel, northwest of Oʻahu."
     ]
-  },
-  {
-    "data_number": "number #100",
-    "question": "What profession do Fred Olen Ray and R. G. Springsteen have in common?",
-    "real_answer": "director",
-    "gpt_answer": "director",
-    "real_support": [
-      "[1] Fred Olen Ray (born September 10, 1954) is an American film director, producer, screenwriter, actor, and cinematographer.",
-      "[7] Robert G. Springsteen (September 8, 1904 – December 9, 1989) was an American director of Hollywood B movies and television shows."
-    ],
-    "gpt_support": [
-      "Fred Olen Ray (born September 10, 1954) is an American film director, producer, screenwriter, actor, and cinematographer.",
-      "Robert G. Springsteen (September 8, 1904 – December 9, 1989) was an American director of Hollywood B movies and television shows."
-    ]
   }
 ]
